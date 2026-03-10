@@ -118,3 +118,386 @@ pose_id,contraindication
 
 140,Knee injury
 140,Low back pain
+201,Knee Issues
+202,Knee Issues
+203,Knee Issues
+204,Knee Issues
+205,Knee Issues
+205,Hip Issues
+206,Knee Issues
+206,Hip Issues
+207,Knee Issues
+208,Hamstring Injury
+209,Hamstring Injury
+210,Hamstring Injury
+211,Shoulder Issues
+212,Spinal Issues
+213,Knee Issues
+214,Spinal Issues
+215,Shoulder Issues
+216,Knee Issues
+216,Hip Issues
+217,Knee Issues
+218,Vertigo
+219,Knee Issues
+220,Hamstring Injury
+221,Spinal Issues
+222,Shoulder Issues
+223,Wrist Issues
+224,Shoulder Issues
+225,Shoulder Issues
+226,Hip Issues
+227,Knee Issues
+228,Lower Back Pain
+229,Lower Back Pain
+230,Lower Back Pain
+231,Spinal Issues
+232,Spinal Issues
+233,Hamstring Injury
+234,Hip Issues
+235,Vertigo
+301,Vertigo
+301,Low Blood Pressure
+301,Hamstring Injury
+
+302,Vertigo
+302,Hamstring Injury
+
+303,Vertigo
+303,Hamstring Injury
+
+304,Hamstring Injury
+304,Lower Back Pain
+
+305,Hamstring Injury
+305,Lower Back Pain
+
+306,Hamstring Injury
+306,Lower Back Pain
+
+307,Hamstring Injury
+307,Vertigo
+
+308,Hamstring Injury
+308,Lower Back Pain
+
+309,Hamstring Injury
+
+310,Shoulder Issues
+
+311,Spinal Issues
+
+312,Hamstring Injury
+
+313,Vertigo
+
+314,Vertigo
+
+315,Vertigo
+
+316,Vertigo
+
+317,Hamstring Injury
+
+318,Hamstring Injury
+
+319,Knee Issues
+
+320,Knee Issues
+
+321,Spinal Issues
+
+322,Hamstring Injury
+
+323,Vertigo
+
+324,Vertigo
+
+325,Vertigo
+401,Lower Back Pain
+401,Neck Issues
+
+402,Lower Back Pain
+402,Wrist Issues
+
+403,Lower Back Pain
+
+404,Lower Back Pain
+
+405,Lower Back Pain
+405,Knee Issues
+
+406,Neck Issues
+
+407,Lower Back Pain
+407,Wrist Issues
+
+408,Neck Issues
+408,Lower Back Pain
+
+409,Neck Issues
+
+410,Lower Back Pain
+
+411,Lower Back Pain
+
+412,Wrist Issues
+412,Shoulder Issues
+
+413,Wrist Issues
+
+414,Neck Issues
+
+415,Lower Back Pain
+
+416,Lower Back Pain
+
+417,Lower Back Pain
+
+418,Knee Issues
+
+419,Wrist Issues
+419,Shoulder Issues
+
+420,Wrist Issues
+
+421,Vertigo
+
+422,Vertigo
+
+423,Neck Issues
+
+424,Neck Issues
+
+425,Wrist Issues
+
+426,Wrist Issues
+
+427,Lower Back Pain
+
+428,Lower Back Pain
+
+429,Lower Back Pain
+
+430,Neck Issues
+501,Spinal Issues
+502,Spinal Issues
+503,Spinal Issues
+504,Spinal Issues
+505,Spinal Issues
+506,Spinal Issues
+507,Spinal Issues
+508,Spinal Issues
+509,Knee Issues
+510,Spinal Issues
+511,Spinal Issues
+512,Shoulder Issues
+513,Knee Issues
+514,Spinal Issues
+515,Spinal Issues
+516,Spinal Issues
+517,Spinal Issues
+518,Lower Back Pain
+519,Spinal Issues
+520,Knee Issues
+601,Knee Issues
+602,Knee Issues
+603,Knee Issues
+604,Knee Issues
+605,Knee Issues
+606,Knee Issues
+607,Knee Issues
+608,Knee Issues
+609,Knee Issues
+610,Hamstring Injury
+611,Knee Issues
+612,Knee Issues
+613,Knee Issues
+614,Knee Issues
+615,Knee Issues
+616,Knee Issues
+617,Hamstring Injury
+618,Hamstring Injury
+619,Knee Issues
+620,Knee Issues
+621,Knee Issues
+622,Knee Issues
+623,Knee Issues
+624,Knee Issues
+625,Knee Issues
+701,Wrist Issues
+701,Shoulder Issues
+
+702,Wrist Issues
+702,Shoulder Issues
+
+703,Wrist Issues
+703,Shoulder Issues
+
+704,Wrist Issues
+704,Shoulder Issues
+
+705,Wrist Issues
+705,Shoulder Issues
+
+706,Wrist Issues
+706,Shoulder Issues
+
+707,Wrist Issues
+707,Shoulder Issues
+
+708,Wrist Issues
+
+709,Wrist Issues
+
+710,Wrist Issues
+
+711,Wrist Issues
+711,Shoulder Issues
+
+712,Shoulder Issues
+
+713,Wrist Issues
+
+714,Wrist Issues
+
+715,Wrist Issues
+
+716,Wrist Issues
+
+717,Wrist Issues
+
+718,Shoulder Issues
+
+719,Shoulder Issues
+
+720,Wrist Issues
+801,High Blood Pressure
+801,Glaucoma
+
+802,High Blood Pressure
+802,Neck Issues
+
+803,High Blood Pressure
+803,Neck Issues
+
+804,High Blood Pressure
+804,Neck Issues
+
+805,High Blood Pressure
+805,Neck Issues
+
+806,High Blood Pressure
+
+807,Neck Issues
+
+808,Neck Issues
+
+809,High Blood Pressure
+809,Neck Issues
+
+810,Neck Issues
+
+811,High Blood Pressure
+811,Neck Issues
+
+812,Neck Issues
+
+813,High Blood Pressure
+813,Neck Issues
+
+814,High Blood Pressure
+814,Neck Issues
+
+815,High Blood Pressure
+815,Neck Issues
+
+816,Neck Issues
+
+817,Neck Issues
+
+818,Neck Issues
+
+819,Vertigo
+
+820,Shoulder Issues
+901,Vertigo
+902,Vertigo
+903,Hamstring Injury
+904,Knee Issues
+905,Knee Issues
+906,Knee Issues
+907,Knee Issues
+908,Neck Issues
+909,Neck Issues
+910,Spinal Issues
+911,Spinal Issues
+912,Neck Issues
+913,Lower Back Pain
+914,Lower Back Pain
+915,Vertigo
+916,Neck Issues
+917,Lower Back Pain
+918,Shoulder Issues
+919,Knee Issues
+920,Vertigo
+921,Knee Issues
+922,Knee Issues
+923,Shoulder Issues
+924,Lower Back Pain
+925,Lower Back Pain
+926,Knee Issues
+927,Knee Issues
+928,Shoulder Issues
+929,Lower Back Pain
+930,Vertigo
+1001,Vertigo
+1002,Vertigo
+1003,Hamstring Injury
+1004,Hamstring Injury
+1005,Neck Issues
+1006,Neck Issues
+1007,Knee Issues
+1008,Spinal Issues
+1009,Vertigo
+1010,High Blood Pressure
+1011,Vertigo
+1012,Spinal Issues
+1013,Spinal Issues
+1014,Shoulder Issues
+1015,Knee Issues
+1016,Knee Issues
+1017,Hamstring Injury
+1018,Knee Issues
+1019,Lower Back Pain
+1020,Vertigo
+1021,Knee Issues
+1022,Knee Issues
+1023,Spinal Issues
+1024,Hamstring Injury
+1025,Shoulder Issues
+1026,Hamstring Injury
+1027,Spinal Issues
+1028,Neck Issues
+1029,Lower Back Pain
+1030,Vertigo
+1101,Vertigo
+1102,Vertigo
+1103,Vertigo
+1104,Wrist Issues
+1105,Wrist Issues
+1106,Wrist Issues
+1107,Vertigo
+1108,Wrist Issues
+1109,Spinal Issues
+1110,Spinal Issues
+1111,Knee Issues
+1112,Knee Issues
+1113,Knee Issues
+1114,Knee Issues
+1115,Vertigo
+1116,Knee Issues
+1117,Knee Issues
+1118,Knee Issues
+1119,Knee Issues
+1120,Vertigo

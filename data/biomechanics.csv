@@ -1,0 +1,2485 @@
+pose_id,joint_actions,muscles_activated,muscles_stretched,planes_of_movement
+101,"Neutral spine; hip/knee extension","Core stabilizers; quadriceps","None","Sagittal"
+102,"Shoulder flexion; spinal extension","Deltoids; upper back","Abdominals; lats","Sagittal"
+103,"Hip flexion; spinal flexion","Hip flexors (eccentric); abdominals","Hamstrings; calves; spine","Sagittal"
+104,"Spinal extension; hip flexion","Back extensors; core","Hamstrings","Sagittal"
+105,"Knee flexion; hip flexion","Quadriceps; glutes; core","Ankles; calves","Sagittal"
+106,"Hip extension; spinal extension","Glutes; hamstrings; spinal extensors","Hip flexors; chest","Sagittal"
+107,"Hip abduction; external rotation","Glutes; quadriceps","Inner thighs","Frontal"
+108,"Hip extension; spinal neutral","Glutes; hamstrings; core","Calves; hamstrings","Sagittal"
+109,"Lateral flexion; hip abduction","Obliques; glutes","Side body; hamstrings","Frontal"
+110,"Lateral flexion; hip flexion","Obliques; quadriceps","Side body; inner thighs","Frontal"
+111,"Lateral flexion; spinal extension","Obliques; spinal extensors","Side body","Frontal"
+112,"Hip flexion; spinal flexion","Hip flexors (eccentric)","Hamstrings; calves","Sagittal"
+113,"Hip flexion; spinal flexion","Glutes; hamstrings","Hamstrings; calves","Sagittal"
+114,"Hip adduction; shoulder protraction","Adductors; deltoids","Upper back","Transverse"
+115,"Hip abduction; external rotation","Glute medius; core","Inner thighs","Frontal"
+116,"Hip extension; spinal extension","Glutes; spinal extensors","Hip flexors; chest","Sagittal"
+117,"Hip flexion; knee extension","Hip flexors; quadriceps","Hamstrings; calves","Sagittal"
+118,"Hip flexion; knee flexion","Quadriceps; glutes","Hip flexors","Sagittal"
+119,"Hip flexion; knee flexion","Quadriceps; glutes","Hip flexors","Sagittal"
+120,"Hip external rotation; knee flexion","Glutes; quadriceps","Inner thighs","Frontal"
+121,"Shoulder abduction; hip abduction","Deltoids; glutes","Side body","Frontal"
+122,"Hip abduction; knee flexion","Glutes; hamstrings","Inner thighs","Frontal"
+123,"Spinal extension","Spinal extensors; glutes","Abdominals","Sagittal"
+124,"Spinal rotation","Obliques; spinal stabilizers","None","Transverse"
+125,"Lateral flexion","Obliques; intercostals","Side body","Frontal"
+126,"Hip external rotation; knee flexion","Glutes; core","Outer hips","Frontal"
+127,"Spinal flexion/extension","Spinal extensors; abdominals","Back body","Sagittal"
+128,"Hip flexion","Hip flexors; core","Glutes; hamstrings","Sagittal"
+129,"Knee flexion","Quadriceps","Quadriceps (eccentric)","Sagittal"
+130,"Hip circumduction","Hip stabilizers","Hip capsule","Multi‑planar"
+131,"Hip flexion; knee lift","Hip flexors; core","Glutes","Sagittal"
+132,"Shoulder circumduction","Deltoids; rotator cuff","Chest; lats","Multi‑planar"
+133,"Shoulder extension","Rhomboids; deltoids","Chest","Sagittal"
+134,"Wrist flexion/extension","Forearm flexors/extensors","Forearm muscles","Sagittal"
+135,"Hip flexion","Hamstrings (eccentric)","Hamstrings; calves","Sagittal"
+136,"Ankle dorsiflexion","Calves (eccentric)","Calves","Sagittal"
+137,"Lateral flexion","Obliques; glutes","IT band; side body","Frontal"
+138,"Shoulder flexion","Deltoids; upper back","Chest; lats","Sagittal"
+139,"Weight shift; ankle stabilization","Ankle stabilizers; core","None","Frontal"
+140,"Spinal rotation; hip flexion","Obliques; quadriceps","Spine; hips","Transverse"
+201,Hip external rotation; spinal neutral,Deep hip rotators,Adductors,Sagittal
+202,Hip external rotation,Deep hip rotators,Adductors,Sagittal
+203,Hip external rotation; forward hinge,Deep hip rotators,Adductors; low back,Sagittal
+204,Hip external rotation,Deep hip rotators,Adductors,Sagittal
+205,Hip external rotation,Deep hip rotators,Adductors,Sagittal
+206,Hip external rotation,Deep hip rotators,Adductors,Sagittal
+207,Hamstring stretch; spinal flexion,Hamstrings eccentrically,Hamstrings; calves,Sagittal
+208,Hamstring stretch,Hamstrings eccentrically,Hamstrings,Sagittal
+209,Hamstring stretch,Hamstrings eccentrically,Hamstrings,Sagittal
+210,Hamstring stretch,Hamstrings eccentrically,Hamstrings,Sagittal
+211,Shoulder external rotation,Rotator cuff,Pecs,Transverse
+212,Spinal rotation,Obliques,Thoracolumbar fascia,Transverse
+213,Hamstring stretch,Hamstrings eccentrically,Hamstrings,Sagittal
+214,Spinal rotation,Obliques,Thoracolumbar fascia,Transverse
+215,Shoulder external rotation,Rotator cuff,Pecs,Transverse
+216,Hip external rotation,Deep hip rotators,Adductors,Sagittal
+217,Hip external rotation,Deep hip rotators,Adductors,Sagittal
+218,Spinal neutral,Core stabilizers,None,Sagittal
+219,Hip external rotation,Deep hip rotators,Adductors,Sagittal
+220,Hamstring stretch,Hamstrings eccentrically,Hamstrings,Sagittal
+221,Spinal rotation,Obliques,Thoracolumbar fascia,Transverse
+222,Shoulder external rotation,Rotator cuff,Pecs,Transverse
+223,Core activation,Rectus abdominis; hip flexors,Low back,Sagittal
+224,Core activation,Rectus abdominis; hip flexors,Low back,Sagittal
+225,Core activation,Rectus abdominis; hip flexors,Low back,Sagittal
+226,Hip external rotation,Deep hip rotators,Adductors,Sagittal
+227,Hip external rotation,Deep hip rotators,Adductors,Sagittal
+228,Core strengthening,Rectus abdominis; obliques,Low back,Sagittal
+229,Core strengthening,Rectus abdominis; obliques,Low back,Sagittal
+230,Core strengthening,Rectus abdominis; obliques,Low back,Sagittal
+231,Spinal rotation,Obliques,Thoracolumbar fascia,Transverse
+232,Spinal rotation,Obliques,Thoracolumbar fascia,Transverse
+233,Hamstring stretch,Hamstrings eccentrically,Hamstrings,Sagittal
+234,Hip external rotation,Deep hip rotators,Adductors,Sagittal
+235,Spinal neutral,Core stabilizers,None,Sagittal
+301,Hip flexion; spinal flexion,Hamstrings eccentrically; core stabilizers,Hamstrings; calves,Sagittal
+302,Hip flexion; spinal flexion,Hamstrings eccentrically,Hamstrings,Sagittal
+303,Hip flexion,Hamstrings eccentrically,Hamstrings,Sagittal
+304,Hip flexion; spinal flexion,Hamstrings eccentrically,Hamstrings; low back,Sagittal
+305,Hip flexion; spinal flexion,Hamstrings eccentrically,Hamstrings; low back,Sagittal
+306,Hip flexion,Hamstrings eccentrically,Hamstrings,Sagittal
+307,Hip flexion,Hamstrings eccentrically,Hamstrings,Sagittal
+308,Hip flexion; spinal flexion,Hamstrings eccentrically,Hamstrings; low back,Sagittal
+309,Hip flexion,Hamstrings eccentrically,Hamstrings,Sagittal
+310,Shoulder flexion; thoracic extension,Deltoids; spinal extensors,Pecs,Sagittal
+311,Spinal rotation,Obliques,Thoracolumbar fascia,Transverse
+312,Hip flexion,Hamstrings eccentrically,Hamstrings,Sagittal
+313,Spinal flexion,Core stabilizers,Low back,Sagittal
+314,Spinal flexion,Core stabilizers,Low back,Sagittal
+315,Spinal flexion,Core stabilizers,Low back,Sagittal
+316,Hip flexion; spinal flexion,Hamstrings eccentrically,Hamstrings,Sagittal
+317,Hamstring stretch,Hamstrings eccentrically,Hamstrings,Sagittal
+318,Hamstring stretch,Hamstrings eccentrically,Hamstrings,Sagittal
+319,Hip external rotation,Deep hip rotators,Adductors,Frontal
+320,Hip external rotation,Deep hip rotators,Adductors,Frontal
+321,Spinal rotation,Obliques,Thoracolumbar fascia,Transverse
+322,Hamstring stretch,Hamstrings eccentrically,Hamstrings,Sagittal
+323,Spinal flexion,Core stabilizers,Low back,Sagittal
+324,Spinal flexion; hip flexion,Hamstrings eccentrically,Hamstrings,Sagittal
+325,Spinal flexion,Core stabilizers,Low back,Sagittal
+401,Spinal extension; scapular retraction,Spinal extensors; rhomboids,Abdominals; pecs,Sagittal
+402,Spinal extension; hip extension,Glutes; spinal extensors,Hip flexors; abdominals,Sagittal
+403,Spinal extension,Spinal extensors,Abdominals,Sagittal
+404,Spinal extension,Spinal extensors,Abdominals,Sagittal
+405,Knee flexion; hip extension,Quadriceps; glutes,Hip flexors,Sagittal
+406,Thoracic extension; scapular retraction,Spinal extensors; rhomboids,Pecs,Sagittal
+407,Spinal extension; hip extension,Glutes; spinal extensors,Hip flexors,Sagittal
+408,Thoracic extension; scapular retraction,Spinal extensors; rhomboids,Pecs,Sagittal
+409,Thoracic extension,Spinal extensors,Pecs,Sagittal
+410,Spinal extension,Spinal extensors,Abdominals,Sagittal
+411,Spinal extension,Spinal extensors,Abdominals,Sagittal
+412,Shoulder extension; scapular retraction,Triceps; rhomboids,Pecs,Transverse
+413,Shoulder extension; scapular retraction,Triceps; rhomboids,Pecs,Transverse
+414,Thoracic extension; scapular retraction,Spinal extensors,Pecs,Sagittal
+415,Spinal extension,Spinal extensors,Abdominals,Sagittal
+416,Spinal extension,Spinal extensors,Abdominals,Sagittal
+417,Spinal extension,Spinal extensors,Abdominals,Sagittal
+418,Hip extension; knee flexion,Glutes; hamstrings,Hip flexors,Sagittal
+419,Shoulder extension; scapular retraction,Triceps; rhomboids,Pecs,Transverse
+420,Shoulder extension; scapular retraction,Triceps; rhomboids,Pecs,Transverse
+421,Spinal extension,Spinal extensors,Abdominals,Sagittal
+422,Spinal extension,Spinal extensors,Abdominals,Sagittal
+423,Neck extension,Neck extensors,Sternocleidomastoid,Sagittal
+424,Thoracic extension,Spinal extensors,Pecs,Sagittal
+425,Shoulder extension; scapular retraction,Triceps; rhomboids,Pecs,Transverse
+426,Spinal extension,Spinal extensors,Abdominals,Sagittal
+427,Spinal extension,Spinal extensors,Abdominals,Sagittal
+428,Spinal extension,Spinal extensors,Abdominals,Sagittal
+429,Spinal extension,Spinal extensors,Abdominals,Sagittal
+430,Thoracic extension; chest opening,Spinal extensors,Pecs,Sagittal
+501,Spinal rotation,Obliques,Thoracolumbar fascia,Transverse
+502,Spinal rotation,Obliques,Thoracolumbar fascia,Transverse
+503,Spinal rotation; hip stability,Obliques; glute medius,Thoracolumbar fascia,Transverse
+504,Spinal rotation; hip stability,Obliques; glute medius,Thoracolumbar fascia,Transverse
+505,Spinal rotation,Obliques,Thoracolumbar fascia,Transverse
+506,Spinal rotation; balance,Obliques; core stabilizers,Thoracolumbar fascia,Transverse
+507,Spinal rotation,Obliques,Thoracolumbar fascia,Transverse
+508,Spinal rotation,Obliques,Thoracolumbar fascia,Transverse
+509,Spinal rotation; hip external rotation,Obliques,Glutes; piriformis,Transverse
+510,Spinal rotation,Obliques,Thoracolumbar fascia,Transverse
+511,Spinal rotation,Obliques,Thoracolumbar fascia,Transverse
+512,Spinal rotation; shoulder opening,Obliques,Pecs,Transverse
+513,Spinal rotation; hip flexion,Obliques,Hip flexors,Transverse
+514,Spinal rotation; spinal flexion,Obliques,Thoracolumbar fascia,Transverse
+515,Spinal rotation; hip abduction,Obliques,Adductors,Transverse
+516,Lateral flexion; rotation,Obliques,Lats,Frontal
+517,Spinal rotation,Obliques,Thoracolumbar fascia,Transverse
+518,Spinal rotation; core activation,Obliques,Thoracolumbar fascia,Transverse
+519,Spinal rotation,Obliques,Thoracolumbar fascia,Transverse
+520,Spinal rotation; spinal flexion,Obliques,Thoracolumbar fascia,Transverse
+601,Hip external rotation,Deep hip rotators,Adductors,Frontal
+602,Hip external rotation,Deep hip rotators,Adductors,Frontal
+603,Hip external rotation,Deep hip rotators,Adductors,Frontal
+604,Hip external rotation,Deep hip rotators,Adductors,Frontal
+605,Hip extension; hip abduction,Glutes,Hip flexors,Frontal
+606,Hip abduction; external rotation,Glutes; deep rotators,Adductors,Frontal
+607,Knee flexion; quad stretch,Quadriceps,Hip flexors,Sagittal
+608,Hip external rotation,Deep hip rotators,Adductors,Frontal
+609,Hip flexion; ankle dorsiflexion,Glutes; quads,Adductors,Sagittal
+610,Hamstring stretch,Hamstrings eccentrically,Hamstrings,Sagittal
+611,Hip external rotation,Deep hip rotators,Adductors,Frontal
+612,Hip extension; quad stretch,Glutes,Hip flexors,Sagittal
+613,Hip extension; quad stretch,Glutes,Hip flexors,Sagittal
+614,Hip abduction,Glute medius,Adductors,Frontal
+615,Hip abduction; external rotation,Glute medius,Adductors,Frontal
+616,Hip abduction; lateral flexion,Glute medius,Adductors,Frontal
+617,Hamstring stretch,Hamstrings eccentrically,Hamstrings,Sagittal
+618,Hip flexion; deep external rotation,Deep hip rotators,Adductors,Frontal
+619,Hip external rotation,Deep hip rotators,Adductors,Frontal
+620,Spinal rotation; hip external rotation,Obliques,Adductors,Transverse
+621,Hip abduction; balance,Glute medius,Adductors,Frontal
+622,Hip abduction; forward fold,Glutes,Adductors,Frontal
+623,Hip abduction; balance,Glute medius,Adductors,Frontal
+624,Hip external rotation; spinal rotation,Deep hip rotators,Adductors,Transverse
+625,Hip flexion; hip external rotation,Deep hip rotators,Adductors,Frontal
+701,Wrist extension; shoulder protraction,Serratus anterior; triceps,Pecs,Sagittal
+702,Wrist extension; shoulder protraction,Serratus anterior; triceps,Pecs,Sagittal
+703,Shoulder protraction; spinal rotation,Serratus anterior; obliques,Pecs,Transverse
+704,Shoulder protraction; hip flexion,Serratus anterior; core,Pecs,Sagittal
+705,Shoulder protraction; hip flexion,Serratus anterior; core,Pecs,Sagittal
+706,Wrist extension; shoulder protraction,Serratus anterior,Pecs,Sagittal
+707,Shoulder protraction; hip flexion,Serratus anterior; core,Pecs,Sagittal
+708,Shoulder abduction; wrist extension,Deltoids; serratus,Pecs,Frontal
+709,Shoulder abduction; wrist extension,Deltoids; serratus,Pecs,Frontal
+710,Shoulder abduction; wrist extension,Deltoids; serratus,Pecs,Frontal
+711,Shoulder protraction; hip flexion,Serratus anterior; core,Pecs,Sagittal
+712,Core flexion; hip flexion,Rectus abdominis,Hip extensors,Sagittal
+713,Core flexion; hip flexion,Rectus abdominis,Hip extensors,Sagittal
+714,Core flexion; hip flexion,Rectus abdominis,Hip extensors,Sagittal
+715,Shoulder flexion; wrist extension,Deltoids; triceps,Pecs,Sagittal
+716,Shoulder flexion; wrist extension,Deltoids; triceps,Pecs,Sagittal
+717,Shoulder flexion; wrist extension,Deltoids; triceps,Pecs,Sagittal
+718,Shoulder flexion; forearm stability,Deltoids; triceps,Pecs,Sagittal
+719,Shoulder flexion; forearm stability,Deltoids; triceps,Pecs,Sagittal
+720,Shoulder depression; core activation,Lower traps; core,Pecs,Transverse
+801,Hip flexion; spinal decompression,Core stabilizers,Hamstrings,Sagittal
+802,Shoulder flexion; cervical flexion,Deltoids; traps,Neck muscles,Sagittal
+803,Shoulder flexion; cervical flexion,Deltoids; traps,Neck muscles,Sagittal
+804,Spinal flexion; hip flexion,Hamstrings eccentrically,Hamstrings,Sagittal
+805,Spinal flexion; hip flexion,Hamstrings eccentrically,Hamstrings,Sagittal
+806,Spinal flexion,Hamstrings eccentrically,Hamstrings,Sagittal
+807,Shoulder flexion; core activation,Deltoids; core,Hamstrings,Sagittal
+808,Shoulder flexion; elbow flexion,Deltoids; triceps,Hamstrings,Sagittal
+809,Shoulder flexion; cervical loading,Deltoids; traps,Hamstrings,Sagittal
+810,Shoulder flexion; cervical loading,Deltoids; traps,Hamstrings,Sagittal
+811,Shoulder flexion; forearm stability,Deltoids; triceps,Hamstrings,Sagittal
+812,Shoulder flexion; forearm stability,Deltoids; triceps,Hamstrings,Sagittal
+813,Shoulder flexion; wrist extension,Deltoids; triceps,Hamstrings,Sagittal
+814,Shoulder flexion; wrist extension,Deltoids; triceps,Hamstrings,Sagittal
+815,Shoulder flexion; wrist extension,Deltoids; triceps,Hamstrings,Sagittal
+816,Hip abduction; spinal flexion,Hamstrings eccentrically,Adductors,Frontal
+817,Hip scissoring; spinal flexion,Hamstrings eccentrically,Hamstrings,Sagittal
+818,Hip flexion; spinal flexion,Hamstrings eccentrically,Hamstrings,Sagittal
+819,Spinal decompression,Core stabilizers,Hamstrings,Sagittal
+820,Shoulder flexion; scapular stability,Deltoids; serratus,Pecs,Sagittal
+901,Hip abduction; spinal lateral flexion,Obliques,IT band,Frontal
+902,Spinal rotation,Obliques,Thoracolumbar fascia,Transverse
+903,Hip flexion; knee extension,Hamstrings eccentrically,Hamstrings,Sagittal
+904,Hip external rotation,Deep hip rotators,Adductors,Frontal
+905,Hip flexion,Abdominals,Low back,Sagittal
+906,Hip flexion,Abdominals,Low back,Sagittal
+907,Hip abduction; spinal flexion,Adductors,Low back,Sagittal
+908,Spinal extension,Glutes; spinal extensors,Abdominals,Sagittal
+909,Spinal extension,Glutes; spinal extensors,Abdominals,Sagittal
+910,Spinal rotation,Obliques,Thoracolumbar fascia,Transverse
+911,Spinal lateral flexion,Obliques,Lats,Frontal
+912,Hip flexion; core activation,Rectus abdominis,Hip extensors,Sagittal
+913,Spinal flexion,Abdominals,Low back,Sagittal
+914,Hip internal/external rotation,Glutes,Adductors,Transverse
+915,Full relaxation,None,None,Neutral
+916,Spinal extension,Spinal extensors,Abdominals,Sagittal
+917,Spinal extension,Spinal extensors,Abdominals,Sagittal
+918,Shoulder extension,Posterior deltoid,Pecs,Transverse
+919,Knee flexion,Quadriceps,Hip flexors,Sagittal
+920,Spinal neutral,None,None,Sagittal
+921,Spinal flexion,Abdominals,Low back,Sagittal
+922,Spinal flexion,Abdominals,Low back,Sagittal
+923,Spinal rotation,Obliques,Thoracolumbar fascia,Transverse
+924,Spinal extension,Spinal extensors,Abdominals,Sagittal
+925,Spinal extension,Spinal extensors,Abdominals,Sagittal
+926,Hip internal rotation,Glutes,Adductors,Transverse
+927,Knee flexion; hamstring curl,Hamstrings,Quadriceps,Sagittal
+928,Shoulder extension; chest opening,Posterior deltoid,Pecs,Transverse
+929,Spinal extension; dynamic flow,Spinal extensors,Abdominals,Sagittal
+930,Spinal neutral,None,None,Sagittal
+1001,Spinal flexion; hip abduction,Minimal activation,Adductors,Sagittal
+1002,Hip external rotation,Minimal activation,Adductors,Frontal
+1003,Spinal flexion,Minimal activation,Hamstrings,Sagittal
+1004,Spinal flexion,Minimal activation,Hamstrings,Sagittal
+1005,Spinal extension,Minimal activation,Abdominals,Sagittal
+1006,Thoracic extension,Minimal activation,Pecs,Sagittal
+1007,Hip external rotation,Minimal activation,Adductors,Frontal
+1008,Spinal rotation,Minimal activation,Thoracolumbar fascia,Transverse
+1009,Hip flexion; knee flexion,Minimal activation,Low back,Sagittal
+1010,Hip flexion; spinal decompression,Minimal activation,Hamstrings,Sagittal
+1011,Spinal neutral,None,None,Neutral
+1012,Spinal lateral flexion,Minimal activation,Lats,Frontal
+1013,Spinal rotation,Minimal activation,Thoracolumbar fascia,Transverse
+1014,Thoracic extension,Minimal activation,Pecs,Sagittal
+1015,Hip external rotation,Minimal activation,Adductors,Frontal
+1016,Hip external rotation,Minimal activation,Adductors,Frontal
+1017,Spinal flexion,Minimal activation,Hamstrings,Sagittal
+1018,Hip extension,Minimal activation,Hip flexors,Sagittal
+1019,Spinal extension,Minimal activation,Abdominals,Sagittal
+1020,Spinal neutral,None,None,Neutral
+1021,Hip external rotation,Minimal activation,Adductors,Frontal
+1022,Hip external rotation,Minimal activation,Adductors,Frontal
+1023,Spinal rotation,Minimal activation,Thoracolumbar fascia,Transverse
+1024,Hamstring stretch,Minimal activation,Hamstrings,Sagittal
+1025,Spinal lateral flexion,Minimal activation,Lats,Frontal
+1026,Hip abduction; spinal flexion,Minimal activation,Adductors,Frontal
+1027,Spinal rotation,Minimal activation,Thoracolumbar fascia,Transverse
+1028,Spinal neutral,None,None,Neutral
+1029,Spinal flexion,Minimal activation,Low back,Sagittal
+1030,Spinal neutral,None,None,Neutral
+1101,Spinal neutral,Core stabilizers,None,Sagittal
+1102,Shoulder flexion; spinal extension,Deltoids,Pecs,Sagittal
+1103,Spinal extension; hip hinge,Spinal extensors,Hamstrings,Sagittal
+1104,Shoulder flexion; wrist extension,Deltoids; triceps,Pecs,Sagittal
+1105,Shoulder flexion; elbow flexion,Triceps,Pecs,Sagittal
+1106,Spinal extension; shoulder retraction,Spinal extensors,Pecs,Sagittal
+1107,Hip flexion; shoulder flexion,Deltoids,Hamstrings,Sagittal
+1108,Spinal neutral,Core stabilizers,None,Sagittal
+1109,Spinal flexion,Abdominals,Low back,Sagittal
+1110,Spinal extension,Spinal extensors,Abdominals,Sagittal
+1111,Spinal flexion,Abdominals,Low back,Sagittal
+1112,Hip flexion; knee flexion,Quadriceps,Hip flexors,Sagittal
+1113,Hip flexion; knee flexion,Quadriceps,Hip flexors,Sagittal
+1114,Hip abduction; knee flexion,Glute medius,Adductors,Frontal
+1115,Hip flexion; balance,Glute med
+1441,601,easier,Keep knees bent and reduce fold depth.
+1442,601,harder,Straighten legs fully and deepen fold.
+1443,601,prop-supported,Use blocks under hands.
+
+1444,602,easier,Keep spine tall and twist gently.
+1445,602,harder,Deepen twist by lengthening spine.
+1446,602,prop-supported,Use block behind back.
+
+1447,603,easier,Reduce twist depth and keep knees bent.
+1448,603,harder,Straighten legs and deepen twist.
+1449,603,prop-supported,Use bolster under knees.
+
+1450,604,easier,Keep knees bent and fold lightly.
+1451,604,harder,Straighten legs and deepen fold.
+1452,604,prop-supported,Use bolster under knees.
+
+1453,605,easier,Reduce twist depth.
+1454,605,harder,Add bind for deeper rotation.
+1455,605,chair,Perform twist seated.
+
+1456,606,easier,Move gently with reduced spinal range.
+1457,606,harder,Increase articulation and add arm extension.
+1458,606,prop-supported,Hands on blocks.
+
+1459,607,easier,Move slowly and reduce spinal movement.
+1460,607,harder,Increase flexion and extension depth.
+1461,607,prop-supported,Use bolster under hips.
+
+1462,608,easier,Reduce spinal movement.
+1463,608,harder,Add arm extension for deeper mobility.
+1464,608,prop-supported,Hands on blocks.
+
+1465,609,easier,Move gently with reduced spinal range.
+1466,609,harder,Increase articulation and add arm extension.
+1467,609,prop-supported,Use bolster under hips.
+
+1468,610,easier,Reduce spinal movement and keep hands on thighs.
+1469,610,harder,Increase articulation and add arm extension.
+1470,610,prop-supported,Hands on blocks.
+
+1471,611,easier,Keep knees bent in seated forward fold.
+1472,611,harder,Straighten legs and deepen fold.
+1473,611,prop-supported,Use strap around feet.
+
+1474,612,easier,Stay upright and reduce fold depth.
+1475,612,harder,Deepen fold with long spine.
+1476,612,prop-supported,Use bolster under knees.
+
+1477,613,easier,Keep knees bent and reduce hamstring load.
+1478,613,harder,Straighten legs fully.
+1479,613,prop-supported,Use blocks under hands.
+
+1480,614,easier,Stay upright and reduce fold depth.
+1481,614,harder,Deepen fold and extend arms forward.
+1482,614,prop-supported,Use bolster under chest.
+
+1483,615,easier,Keep knees bent and reduce stretch.
+1484,615,harder,Straighten legs and deepen fold.
+1485,615,prop-supported,Use bolster under knees.
+
+1486,616,easier,Shorten stance and keep back knee down.
+1487,616,harder,Deepen lunge and lift arms overhead.
+1488,616,prop-supported,Use blocks under hands.
+
+1489,617,easier,Keep back knee down and reduce hip opening.
+1490,617,harder,Deepen lunge and lift chest.
+1491,617,prop-supported,Use blocks under hands.
+
+1492,618,easier,Shorten stance and reduce hip opening.
+1493,618,harder,Deepen lunge and lift arms overhead.
+1494,618,prop-supported,Use blocks under hands.
+
+1495,619,easier,Keep back knee down and reduce hip opening.
+1496,619,harder,Deepen lunge and lift chest.
+1497,619,prop-supported,Use blocks under hands.
+
+1498,620,easier,Shorten stance and reduce stretch.
+1499,620,harder,Deepen lunge and lift arms.
+1500,620,prop-supported,Use blocks under hands.
+
+1501,621,easier,Keep front shin more vertical to reduce hip intensity.
+1502,621,harder,Deepen forward fold in pigeon.
+1503,621,prop-supported,Place bolster under hip.
+
+1504,622,easier,Stay upright and reduce hip opening.
+1505,622,harder,Fold forward deeply.
+1506,622,prop-supported,Use bolster under chest.
+
+1507,623,easier,Keep front shin more vertical.
+1508,623,harder,Deepen fold and square hips.
+1509,623,prop-supported,Use bolster under hip.
+
+1510,624,easier,Stay upright and reduce hip intensity.
+1511,624,harder,Fold forward deeply.
+1512,624,prop-supported,Use bolster under chest.
+
+1513,625,easier,Keep front shin more vertical.
+1514,625,harder,Deepen fold and extend arms forward.
+1515,625,prop-supported,Use bolster under hip.
+
+1516,626,easier,Keep knees closer together to reduce stretch.
+1517,626,harder,Slide knees wider for deeper frog pose.
+1518,626,prop-supported,Place bolster under chest or hips.
+
+1519,627,easier,Keep hips higher and reduce knee separation.
+1520,627,harder,Lower chest toward floor.
+1521,627,prop-supported,Use blankets under knees.
+
+1522,628,easier,Stay upright with hands under shoulders.
+1523,628,harder,Lower forearms to deepen stretch.
+1524,628,prop-supported,Use bolster under torso.
+
+1525,629,easier,Keep knees closer and hips higher.
+1526,629,harder,Slide knees wider and lower chest.
+1527,629,prop-supported,Use blankets under knees.
+
+1528,630,easier,Stay upright and reduce hip intensity.
+1529,630,harder,Lower forearms and deepen stretch.
+1530,630,prop-supported,Use bolster under chest.
+
+1531,631,easier,Keep hips higher and reduce hamstring stretch.
+1532,631,harder,Deepen half split by folding forward.
+1533,631,prop-supported,Use blocks under hands.
+
+1534,632,easier,Keep front knee bent slightly.
+1535,632,harder,Straighten front leg fully.
+1536,632,prop-supported,Use bolster under front thigh.
+
+1537,633,easier,Stay upright and reduce fold depth.
+1538,633,harder,Deepen fold with long spine.
+1539,633,prop-supported,Use blocks under hands.
+
+1540,634,easier,Keep hips higher and reduce stretch.
+1541,634,harder,Deepen fold and square hips.
+1542,634,prop-supported,Use bolster under hips.
+
+1543,635,easier,Keep front knee bent.
+1544,635,harder,Straighten leg fully and fold deeper.
+1545,635,prop-supported,Use blocks under hands.
+
+1546,636,easier,Move gently with reduced spinal range.
+1547,636,harder,Increase articulation and add arm extension.
+1548,636,prop-supported,Hands on blocks.
+
+1549,637,easier,Move slowly and reduce spinal movement.
+1550,637,harder,Increase flexion and extension depth.
+1551,637,prop-supported,Use bolster under hips.
+
+1552,638,easier,Reduce spinal movement.
+1553,638,harder,Add arm extension for deeper mobility.
+1554,638,prop-supported,Hands on blocks.
+
+1555,639,easier,Move gently with reduced spinal range.
+1556,639,harder,Increase articulation and add arm extension.
+1557,639,prop-supported,Use bolster under hips.
+
+1558,640,easier,Reduce spinal movement and keep hands on thighs.
+1559,640,harder,Increase articulation and add arm extension.
+1560,640,prop-supported,Hands on blocks.
+
+1561,641,easier,Keep knees bent in wide‑legged fold.
+1562,641,harder,Straighten legs and deepen fold.
+1563,641,prop-supported,Use blocks under hands.
+
+1564,642,easier,Stay upright and reduce fold depth.
+1565,642,harder,Deepen fold with long spine.
+1566,642,prop-supported,Use bolster under torso.
+
+1567,643,easier,Keep knees bent and reduce stretch.
+1568,643,harder,Straighten legs fully.
+1569,643,prop-supported,Use bolster under head.
+
+1570,644,easier,Stay upright and reduce fold depth.
+1571,644,harder,Deepen fold and extend arms forward.
+1572,644,prop-supported,Use blocks under hands.
+
+1573,645,easier,Keep knees bent and reduce hamstring load.
+1574,645,harder,Straighten legs fully and deepen fold.
+1575,645,prop-supported,Use bolster under knees.
+
+1576,646,easier,Shorten stance and keep back knee down.
+1577,646,harder,Deepen lunge and lift arms overhead.
+1578,646,prop-supported,Use blocks under hands.
+
+1579,647,easier,Keep back knee down and reduce hip opening.
+1580,647,harder,Deepen lunge and lift chest.
+1581,647,prop-supported,Use blocks under hands.
+
+1582,648,easier,Shorten stance and reduce hip opening.
+1583,648,harder,Deepen lunge and lift arms overhead.
+1584,648,prop-supported,Use blocks under hands.
+
+1585,649,easier,Keep back knee down and reduce hip opening.
+1586,649,harder,Deepen lunge and lift chest.
+1587,649,prop-supported,Use blocks under hands.
+
+1588,650,easier,Shorten stance and reduce stretch.
+1589,650,harder,Deepen lunge and lift arms.
+1590,650,prop-supported,Use blocks under hands.
+1591,651,easier,Keep toes on floor for balance support.
+1592,651,harder,Lift foot to calf or inner thigh.
+1593,651,prop-supported,Use wall for balance.
+
+1594,652,easier,Keep lifted foot lower on standing leg.
+1595,652,harder,Extend arms overhead for challenge.
+1596,652,prop-supported,Use wall behind back.
+
+1597,653,easier,Place toes on floor in Tree Pose.
+1598,653,harder,Bring foot to inner thigh and lift arms.
+1599,653,prop-supported,Use block under lifted foot.
+
+1600,654,easier,Hold ankle lightly and keep torso upright.
+1601,654,harder,Deepen backbend and kick foot into hand.
+1602,654,prop-supported,Use strap around lifted foot.
+
+1603,655,easier,Keep knees closer and reduce backbend.
+1604,655,harder,Extend opposite arm forward and deepen pose.
+1605,655,prop-supported,Use wall for balance.
+
+1606,656,easier,Keep lifted leg lower in Warrior III.
+1607,656,harder,Extend arms forward for full expression.
+1608,656,prop-supported,Use blocks under hands.
+
+1609,657,easier,Keep hands on hips for stability.
+1610,657,harder,Extend arms forward and lift leg higher.
+1611,657,prop-supported,Use wall for balance.
+
+1612,658,easier,Bend standing knee slightly for stability.
+1613,658,harder,Straighten both legs fully.
+1614,658,prop-supported,Use blocks under hands.
+
+1615,659,easier,Keep lifted leg lower in Half Moon.
+1616,659,harder,Extend top arm overhead and rotate chest.
+1617,659,prop-supported,Use block under bottom hand.
+
+1618,660,easier,Keep gaze down and reduce rotation.
+1619,660,harder,Rotate chest fully upward.
+1620,660,prop-supported,Use wall behind back.
+
+1621,661,easier,Keep lifted leg lower in Revolved Half Moon.
+1622,661,harder,Extend top arm upward and deepen twist.
+1623,661,prop-supported,Use block under bottom hand.
+
+1624,662,easier,Keep gaze down and reduce twist.
+1625,662,harder,Rotate chest fully upward.
+1626,662,prop-supported,Use wall for balance.
+
+1627,663,easier,Keep lifted leg lower in Standing Split.
+1628,663,harder,Walk hands closer to standing foot.
+1629,663,prop-supported,Use blocks under hands.
+
+1630,664,easier,Bend standing knee slightly.
+1631,664,harder,Pull torso closer to standing leg.
+1632,664,prop-supported,Use wall for balance.
+
+1633,665,easier,Keep lifted leg lower and hands on hips.
+1634,665,harder,Reach hands to standing foot.
+1635,665,prop-supported,Use blocks under hands.
+
+1636,666,easier,Keep knees bent in Chair Pose.
+1637,666,harder,Lower hips deeper and lift arms higher.
+1638,666,prop-supported,Use wall behind back.
+
+1639,667,easier,Keep twist gentle with hands at heart.
+1640,667,harder,Hook elbow outside knee for deeper twist.
+1641,667,prop-supported,Use block between thighs.
+
+1642,668,easier,Keep knees bent and reduce twist.
+1643,668,harder,Extend arms for deeper rotation.
+1644,668,prop-supported,Use wall for support.
+
+1645,669,easier,Keep knees bent and torso upright.
+1646,669,harder,Lower hips deeper and extend arms.
+1647,669,prop-supported,Use block under heels.
+
+1648,670,easier,Keep knees bent and reduce hip opening.
+1649,670,harder,Deepen squat and open knees wider.
+1650,670,prop-supported,Use block under hips.
+
+1651,671,easier,Keep lifted leg lower in Standing Hand‑to‑Big‑Toe Pose.
+1652,671,harder,Straighten lifted leg fully.
+1653,671,prop-supported,Use strap around lifted foot.
+
+1654,672,easier,Keep lifted leg bent.
+1655,672,harder,Extend leg fully to the side.
+1656,672,prop-supported,Use wall for balance.
+
+1657,673,easier,Hold knee instead of foot.
+1658,673,harder,Extend leg forward fully.
+1659,673,prop-supported,Use strap around foot.
+
+1660,674,easier,Keep lifted leg lower and torso upright.
+1661,674,harder,Extend leg fully and hinge forward.
+1662,674,prop-supported,Use wall for balance.
+
+1663,675,easier,Keep lifted leg bent in Dancer variation.
+1664,675,harder,Deepen backbend and kick foot into hand.
+1665,675,prop-supported,Use strap around lifted foot.
+
+1666,676,easier,Keep knees bent in Eagle Pose.
+1667,676,harder,Wrap foot fully behind calf.
+1668,676,prop-supported,Use wall for balance.
+
+1669,677,easier,Keep arms only in Eagle without leg bind.
+1670,677,harder,Add full leg wrap.
+1671,677,prop-supported,Use block under lifted foot.
+
+1672,678,easier,Keep knees bent and reduce bind.
+1673,678,harder,Deepen bind and lower hips.
+1674,678,prop-supported,Use strap for arms.
+
+1675,679,easier,Keep knees bent in Wide‑Legged Forward Fold.
+1676,679,harder,Straighten legs fully and fold deeper.
+1677,679,prop-supported,Use blocks under hands.
+
+1678,680,easier,Stay upright and reduce fold depth.
+1679,680,harder,Walk hands forward to deepen stretch.
+1680,680,prop-supported,Use bolster under torso.
+
+1681,681,easier,Keep knees bent and reduce hamstring load.
+1682,681,harder,Straighten legs fully and deepen fold.
+1683,681,prop-supported,Use bolster under head.
+
+1684,682,easier,Stay upright and reduce fold depth.
+1685,682,harder,Deepen fold and extend arms forward.
+1686,682,prop-supported,Use blocks under hands.
+
+1687,683,easier,Keep knees bent and reduce stretch.
+1688,683,harder,Straighten legs fully.
+1689,683,prop-supported,Use bolster under knees.
+
+1690,684,easier,Shorten stance and keep back knee down.
+1691,684,harder,Deepen lunge and lift arms overhead.
+1692,684,prop-supported,Use blocks under hands.
+
+1693,685,easier,Keep back knee down and reduce hip opening.
+1694,685,harder,Deepen lunge and lift chest.
+1695,685,prop-supported,Use blocks under hands.
+
+1696,686,easier,Shorten stance and reduce hip opening.
+1697,686,harder,Deepen lunge and lift arms overhead.
+1698,686,prop-supported,Use blocks under hands.
+
+1699,687,easier,Keep back knee down and reduce hip opening.
+1700,687,harder,Deepen lunge and lift chest.
+1701,687,prop-supported,Use blocks under hands.
+
+1702,688,easier,Shorten stance and reduce stretch.
+1703,688,harder,Deepen lunge and lift arms.
+1704,688,prop-supported,Use blocks under hands.
+
+1705,689,easier,Keep knees bent in standing fold.
+1706,689,harder,Straighten legs fully and deepen fold.
+1707,689,prop-supported,Use blocks under hands.
+
+1708,690,easier,Stay upright and reduce fold depth.
+1709,690,harder,Deepen fold with long spine.
+1710,690,prop-supported,Use bolster under torso.
+
+1711,691,easier,Keep knees bent and reduce hamstring load.
+1712,691,harder,Straighten legs fully.
+1713,691,prop-supported,Use bolster under head.
+
+1714,692,easier,Stay upright and reduce fold depth.
+1715,692,harder,Deepen fold and extend arms forward.
+1716,692,prop-supported,Use blocks under hands.
+
+1717,693,easier,Keep knees bent and reduce stretch.
+1718,693,harder,Straighten legs fully.
+1719,693,prop-supported,Use bolster under knees.
+
+1720,694,easier,Shorten stance and keep back knee down.
+1721,694,harder,Deepen lunge and lift arms overhead.
+1722,694,prop-supported,Use blocks under hands.
+
+1723,695,easier,Keep back knee down and reduce hip opening.
+1724,695,harder,Deepen lunge and lift chest.
+1725,695,prop-supported,Use blocks under hands.
+
+1726,696,easier,Shorten stance and reduce hip opening.
+1727,696,harder,Deepen lunge and lift arms overhead.
+1728,696,prop-supported,Use blocks under hands.
+
+1729,697,easier,Keep back knee down and reduce hip opening.
+1730,697,harder,Deepen lunge and lift chest.
+1731,697,prop-supported,Use blocks under hands.
+
+1732,698,easier,Shorten stance and reduce stretch.
+1733,698,harder,Deepen lunge and lift arms.
+1734,698,prop-supported,Use blocks under hands.
+
+1735,699,easier,Keep knees bent in forward fold.
+1736,699,harder,Straighten legs fully and deepen fold.
+1737,699,prop-supported,Use blocks under hands.
+
+1738,700,easier,Stay upright and reduce fold depth.
+1739,700,harder,Deepen fold with long spine.
+1740,700,prop-supported,Use bolster under torso.
+1741,701,easier,Keep toes on floor for balance support.
+1742,701,harder,Lift foot to calf or thigh.
+1743,701,prop-supported,Use wall for balance.
+
+1744,702,easier,Keep lifted foot lower on standing leg.
+1745,702,harder,Extend arms overhead for challenge.
+1746,702,prop-supported,Use wall behind back.
+
+1747,703,easier,Place toes on floor in Tree Pose.
+1748,703,harder,Bring foot to inner thigh and lift arms.
+1749,703,prop-supported,Use block under lifted foot.
+
+1750,704,easier,Hold ankle lightly and keep torso upright.
+1751,704,harder,Deepen backbend and kick foot into hand.
+1752,704,prop-supported,Use strap around lifted foot.
+
+1753,705,easier,Keep knees closer and reduce backbend.
+1754,705,harder,Extend opposite arm forward and deepen pose.
+1755,705,prop-supported,Use wall for balance.
+
+1756,706,easier,Keep lifted leg lower in Warrior III.
+1757,706,harder,Extend arms forward for full expression.
+1758,706,prop-supported,Use blocks under hands.
+
+1759,707,easier,Keep hands on hips for stability.
+1760,707,harder,Extend arms forward and lift leg higher.
+1761,707,prop-supported,Use wall for balance.
+
+1762,708,easier,Bend standing knee slightly for stability.
+1763,708,harder,Straighten both legs fully.
+1764,708,prop-supported,Use blocks under hands.
+
+1765,709,easier,Keep lifted leg lower in Half Moon.
+1766,709,harder,Extend top arm overhead and rotate chest.
+1767,709,prop-supported,Use block under bottom hand.
+
+1768,710,easier,Keep gaze down and reduce rotation.
+1769,710,harder,Rotate chest fully upward.
+1770,710,prop-supported,Use wall behind back.
+
+1771,711,easier,Keep lifted leg lower in Revolved Half Moon.
+1772,711,harder,Extend top arm upward and deepen twist.
+1773,711,prop-supported,Use block under bottom hand.
+
+1774,712,easier,Keep gaze down and reduce twist.
+1775,712,harder,Rotate chest fully upward.
+1776,712,prop-supported,Use wall for balance.
+
+1777,713,easier,Keep lifted leg lower in Standing Split.
+1778,713,harder,Walk hands closer to standing foot.
+1779,713,prop-supported,Use blocks under hands.
+
+1780,714,easier,Bend standing knee slightly.
+1781,714,harder,Pull torso closer to standing leg.
+1782,714,prop-supported,Use wall for balance.
+
+1783,715,easier,Keep lifted leg lower and hands on hips.
+1784,715,harder,Reach hands to standing foot.
+1785,715,prop-supported,Use blocks under hands.
+
+1786,716,easier,Keep knees bent in Chair Pose.
+1787,716,harder,Lower hips deeper and lift arms higher.
+1788,716,prop-supported,Use wall behind back.
+
+1789,717,easier,Keep twist gentle with hands at heart.
+1790,717,harder,Hook elbow outside knee for deeper twist.
+1791,717,prop-supported,Use block between thighs.
+
+1792,718,easier,Keep knees bent and reduce twist.
+1793,718,harder,Extend arms for deeper rotation.
+1794,718,prop-supported,Use wall for support.
+
+1795,719,easier,Keep knees bent and torso upright.
+1796,719,harder,Lower hips deeper and extend arms.
+1797,719,prop-supported,Use block under heels.
+
+1798,720,easier,Keep knees bent and reduce hip opening.
+1799,720,harder,Deepen squat and open knees wider.
+1800,720,prop-supported,Use block under hips.
+
+1801,721,easier,Keep lifted leg lower in Standing Hand‑to‑Big‑Toe Pose.
+1802,721,harder,Straighten lifted leg fully.
+1803,721,prop-supported,Use strap around lifted foot.
+
+1804,722,easier,Keep lifted leg bent.
+1805,722,harder,Extend leg fully to the side.
+1806,722,prop-supported,Use wall for balance.
+
+1807,723,easier,Hold knee instead of foot.
+1808,723,harder,Extend leg forward fully.
+1809,723,prop-supported,Use strap around foot.
+
+1810,724,easier,Keep lifted leg lower and torso upright.
+1811,724,harder,Extend leg fully and hinge forward.
+1812,724,prop-supported,Use wall for balance.
+
+1813,725,easier,Keep lifted leg bent in Dancer variation.
+1814,725,harder,Deepen backbend and kick foot into hand.
+1815,725,prop-supported,Use strap around lifted foot.
+
+1816,726,easier,Keep knees bent in Eagle Pose.
+1817,726,harder,Wrap foot fully behind calf.
+1818,726,prop-supported,Use wall for balance.
+
+1819,727,easier,Keep arms only in Eagle without leg bind.
+1820,727,harder,Add full leg wrap.
+1821,727,prop-supported,Use block under lifted foot.
+
+1822,728,easier,Keep knees bent and reduce bind.
+1823,728,harder,Deepen bind and lower hips.
+1824,728,prop-supported,Use strap for arms.
+
+1825,729,easier,Keep knees bent in Wide‑Legged Forward Fold.
+1826,729,harder,Straighten legs fully and deepen fold.
+1827,729,prop-supported,Use blocks under hands.
+
+1828,730,easier,Stay upright and reduce fold depth.
+1829,730,harder,Walk hands forward to deepen stretch.
+1830,730,prop-supported,Use bolster under torso.
+
+1831,731,easier,Keep knees bent and reduce hamstring load.
+1832,731,harder,Straighten legs fully and deepen fold.
+1833,731,prop-supported,Use bolster under head.
+
+1834,732,easier,Stay upright and reduce fold depth.
+1835,732,harder,Deepen fold and extend arms forward.
+1836,732,prop-supported,Use blocks under hands.
+
+1837,733,easier,Keep knees bent and reduce stretch.
+1838,733,harder,Straighten legs fully.
+1839,733,prop-supported,Use bolster under knees.
+
+1840,734,easier,Shorten stance and keep back knee down.
+1841,734,harder,Deepen lunge and lift arms overhead.
+1842,734,prop-supported,Use blocks under hands.
+
+1843,735,easier,Keep back knee down and reduce hip opening.
+1844,735,harder,Deepen lunge and lift chest.
+1845,735,prop-supported,Use blocks under hands.
+
+1846,736,easier,Shorten stance and reduce hip opening.
+1847,736,harder,Deepen lunge and lift arms overhead.
+1848,736,prop-supported,Use blocks under hands.
+
+1849,737,easier,Keep back knee down and reduce hip opening.
+1850,737,harder,Deepen lunge and lift chest.
+1851,737,prop-supported,Use blocks under hands.
+
+1852,738,easier,Shorten stance and reduce stretch.
+1853,738,harder,Deepen lunge and lift arms.
+1854,738,prop-supported,Use blocks under hands.
+
+1855,739,easier,Keep knees bent in forward fold.
+1856,739,harder,Straighten legs fully and deepen fold.
+1857,739,prop-supported,Use blocks under hands.
+
+1858,740,easier,Stay upright and reduce fold depth.
+1859,740,harder,Deepen fold with long spine.
+1860,740,prop-supported,Use bolster under torso.
+
+1861,741,easier,Keep knees bent and reduce hamstring load.
+1862,741,harder,Straighten legs fully.
+1863,741,prop-supported,Use bolster under head.
+
+1864,742,easier,Stay upright and reduce fold depth.
+1865,742,harder,Deepen fold and extend arms forward.
+1866,742,prop-supported,Use blocks under hands.
+
+1867,743,easier,Keep knees bent and reduce stretch.
+1868,743,harder,Straighten legs fully.
+1869,743,prop-supported,Use bolster under knees.
+
+1870,744,easier,Shorten stance and keep back knee down.
+1871,744,harder,Deepen lunge and lift arms overhead.
+1872,744,prop-supported,Use blocks under hands.
+
+1873,745,easier,Keep back knee down and reduce hip opening.
+1874,745,harder,Deepen lunge and lift chest.
+1875,745,prop-supported,Use blocks under hands.
+
+1876,746,easier,Shorten stance and reduce hip opening.
+1877,746,harder,Deepen lunge and lift arms overhead.
+1878,746,prop-supported,Use blocks under hands.
+
+1879,747,easier,Keep back knee down and reduce hip opening.
+1880,747,harder,Deepen lunge and lift chest.
+1881,747,prop-supported,Use blocks under hands.
+
+1882,748,easier,Shorten stance and reduce stretch.
+1883,748,harder,Deepen lunge and lift arms.
+1884,748,prop-supported,Use blocks under hands.
+
+1885,749,easier,Keep knees bent in forward fold.
+1886,749,harder,Straighten legs fully and deepen fold.
+1887,749,prop-supported,Use blocks under hands.
+
+1888,750,easier,Stay upright and reduce fold depth.
+1889,750,harder,Deepen fold with long spine.
+1890,750,prop-supported,Use bolster under torso.
+1891,751,easier,Keep toes on floor for balance support.
+1892,751,harder,Lift foot to calf or thigh.
+1893,751,prop-supported,Use wall for balance.
+
+1894,752,easier,Keep lifted foot lower on standing leg.
+1895,752,harder,Extend arms overhead for challenge.
+1896,752,prop-supported,Use wall behind back.
+
+1897,753,easier,Place toes on floor in Tree Pose.
+1898,753,harder,Bring foot to inner thigh and lift arms.
+1899,753,prop-supported,Use block under lifted foot.
+
+1900,754,easier,Hold ankle lightly and keep torso upright.
+1901,754,harder,Deepen backbend and kick foot into hand.
+1902,754,prop-supported,Use strap around lifted foot.
+
+1903,755,easier,Keep knees closer and reduce backbend.
+1904,755,harder,Extend opposite arm forward and deepen pose.
+1905,755,prop-supported,Use wall for balance.
+
+1906,756,easier,Keep lifted leg lower in Warrior III.
+1907,756,harder,Extend arms forward for full expression.
+1908,756,prop-supported,Use blocks under hands.
+
+1909,757,easier,Keep hands on hips for stability.
+1910,757,harder,Extend arms forward and lift leg higher.
+1911,757,prop-supported,Use wall for balance.
+
+1912,758,easier,Bend standing knee slightly for stability.
+1913,758,harder,Straighten both legs fully.
+1914,758,prop-supported,Use blocks under hands.
+
+1915,759,easier,Keep lifted leg lower in Half Moon.
+1916,759,harder,Extend top arm overhead and rotate chest.
+1917,759,prop-supported,Use block under bottom hand.
+
+1918,760,easier,Keep gaze down and reduce rotation.
+1919,760,harder,Rotate chest fully upward.
+1920,760,prop-supported,Use wall behind back.
+
+1921,761,easier,Keep lifted leg lower in Revolved Half Moon.
+1922,761,harder,Extend top arm upward and deepen twist.
+1923,761,prop-supported,Use block under bottom hand.
+
+1924,762,easier,Keep gaze down and reduce twist.
+1925,762,harder,Rotate chest fully upward.
+1926,762,prop-supported,Use wall for balance.
+
+1927,763,easier,Keep lifted leg lower in Standing Split.
+1928,763,harder,Walk hands closer to standing foot.
+1929,763,prop-supported,Use blocks under hands.
+
+1930,764,easier,Bend standing knee slightly.
+1931,764,harder,Pull torso closer to standing leg.
+1932,764,prop-supported,Use wall for balance.
+
+1933,765,easier,Keep lifted leg lower and hands on hips.
+1934,765,harder,Reach hands to standing foot.
+1935,765,prop-supported,Use blocks under hands.
+
+1936,766,easier,Keep knees bent in Chair Pose.
+1937,766,harder,Lower hips deeper and lift arms higher.
+1938,766,prop-supported,Use wall behind back.
+
+1939,767,easier,Keep twist gentle with hands at heart.
+1940,767,harder,Hook elbow outside knee for deeper twist.
+1941,767,prop-supported,Use block between thighs.
+
+1942,768,easier,Keep knees bent and reduce twist.
+1943,768,harder,Extend arms for deeper rotation.
+1944,768,prop-supported,Use wall for support.
+
+1945,769,easier,Keep knees bent and torso upright.
+1946,769,harder,Lower hips deeper and extend arms.
+1947,769,prop-supported,Use block under heels.
+
+1948,770,easier,Keep knees bent and reduce hip opening.
+1949,770,harder,Deepen squat and open knees wider.
+1950,770,prop-supported,Use block under hips.
+
+1951,771,easier,Keep lifted leg lower in Standing Hand‑to‑Big‑Toe Pose.
+1952,771,harder,Straighten lifted leg fully.
+1953,771,prop-supported,Use strap around lifted foot.
+
+1954,772,easier,Keep lifted leg bent.
+1955,772,harder,Extend leg fully to the side.
+1956,772,prop-supported,Use wall for balance.
+
+1957,773,easier,Hold knee instead of foot.
+1958,773,harder,Extend leg forward fully.
+1959,773,prop-supported,Use strap around foot.
+
+1960,774,easier,Keep lifted leg lower and torso upright.
+1961,774,harder,Extend leg fully and hinge forward.
+1962,774,prop-supported,Use wall for balance.
+
+1963,775,easier,Keep lifted leg bent in Dancer variation.
+1964,775,harder,Deepen backbend and kick foot into hand.
+1965,775,prop-supported,Use strap around lifted foot.
+
+1966,776,easier,Keep knees bent in Eagle Pose.
+1967,776,harder,Wrap foot fully behind calf.
+1968,776,prop-supported,Use wall for balance.
+
+1969,777,easier,Keep arms only in Eagle without leg bind.
+1970,777,harder,Add full leg wrap.
+1971,777,prop-supported,Use block under lifted foot.
+
+1972,778,easier,Keep knees bent and reduce bind.
+1973,778,harder,Deepen bind and lower hips.
+1974,778,prop-supported,Use strap for arms.
+
+1975,779,easier,Keep knees bent in Wide‑Legged Forward Fold.
+1976,779,harder,Straighten legs fully and deepen fold.
+1977,779,prop-supported,Use blocks under hands.
+
+1978,780,easier,Stay upright and reduce fold depth.
+1979,780,harder,Walk hands forward to deepen stretch.
+1980,780,prop-supported,Use bolster under torso.
+
+1981,781,easier,Keep knees bent and reduce hamstring load.
+1982,781,harder,Straighten legs fully and deepen fold.
+1983,781,prop-supported,Use bolster under head.
+
+1984,782,easier,Stay upright and reduce fold depth.
+1985,782,harder,Deepen fold and extend arms forward.
+1986,782,prop-supported,Use blocks under hands.
+
+1987,783,easier,Keep knees bent and reduce stretch.
+1988,783,harder,Straighten legs fully.
+1989,783,prop-supported,Use bolster under knees.
+
+1990,784,easier,Shorten stance and keep back knee down.
+1991,784,harder,Deepen lunge and lift arms overhead.
+1992,784,prop-supported,Use blocks under hands.
+
+1993,785,easier,Keep back knee down and reduce hip opening.
+1994,785,harder,Deepen lunge and lift chest.
+1995,785,prop-supported,Use blocks under hands.
+
+1996,786,easier,Shorten stance and reduce hip opening.
+1997,786,harder,Deepen lunge and lift arms overhead.
+1998,786,prop-supported,Use blocks under hands.
+
+1999,787,easier,Keep back knee down and reduce hip opening.
+2000,787,harder,Deepen lunge and lift chest.
+2001,787,prop-supported,Use blocks under hands.
+
+2002,788,easier,Shorten stance and reduce stretch.
+2003,788,harder,Deepen lunge and lift arms.
+2004,788,prop-supported,Use blocks under hands.
+
+2005,789,easier,Keep knees bent in forward fold.
+2006,789,harder,Straighten legs fully and deepen fold.
+2007,789,prop-supported,Use blocks under hands.
+
+2008,790,easier,Stay upright and reduce fold depth.
+2009,790,harder,Deepen fold with long spine.
+2010,790,prop-supported,Use bolster under torso.
+
+2011,791,easier,Keep knees bent and reduce hamstring load.
+2012,791,harder,Straighten legs fully.
+2013,791,prop-supported,Use bolster under head.
+
+2014,792,easier,Stay upright and reduce fold depth.
+2015,792,harder,Deepen fold and extend arms forward.
+2016,792,prop-supported,Use blocks under hands.
+
+2017,793,easier,Keep knees bent and reduce stretch.
+2018,793,harder,Straighten legs fully.
+2019,793,prop-supported,Use bolster under knees.
+
+2020,794,easier,Shorten stance and keep back knee down.
+2021,794,harder,Deepen lunge and lift arms overhead.
+2022,794,prop-supported,Use blocks under hands.
+
+2023,795,easier,Keep back knee down and reduce hip opening.
+2024,795,harder,Deepen lunge and lift chest.
+2025,795,prop-supported,Use blocks under hands.
+
+2026,796,easier,Shorten stance and reduce hip opening.
+2027,796,harder,Deepen lunge and lift arms overhead.
+2028,796,prop-supported,Use blocks under hands.
+
+2029,797,easier,Keep back knee down and reduce hip opening.
+2030,797,harder,Deepen lunge and lift chest.
+2031,797,prop-supported,Use blocks under hands.
+
+2032,798,easier,Shorten stance and reduce stretch.
+2033,798,harder,Deepen lunge and lift arms.
+2034,798,prop-supported,Use blocks under hands.
+
+2035,799,easier,Keep knees bent in forward fold.
+2036,799,harder,Straighten legs fully and deepen fold.
+2037,799,prop-supported,Use blocks under hands.
+
+2038,800,easier,Stay upright and reduce fold depth.
+2039,800,harder,Deepen fold with long spine.
+2040,800,prop-supported,Use bolster under torso.
+2041,801,easier,Keep toes on floor for balance support.
+2042,801,harder,Lift foot to calf or thigh.
+2043,801,prop-supported,Use wall for balance.
+
+2044,802,easier,Keep lifted foot lower on standing leg.
+2045,802,harder,Extend arms overhead for challenge.
+2046,802,prop-supported,Use wall behind back.
+
+2047,803,easier,Place toes on floor in Tree Pose.
+2048,803,harder,Bring foot to inner thigh and lift arms.
+2049,803,prop-supported,Use block under lifted foot.
+
+2050,804,easier,Hold ankle lightly and keep torso upright.
+2051,804,harder,Deepen backbend and kick foot into hand.
+2052,804,prop-supported,Use strap around lifted foot.
+
+2053,805,easier,Keep knees closer and reduce backbend.
+2054,805,harder,Extend opposite arm forward and deepen pose.
+2055,805,prop-supported,Use wall for balance.
+
+2056,806,easier,Keep lifted leg lower in Warrior III.
+2057,806,harder,Extend arms forward for full expression.
+2058,806,prop-supported,Use blocks under hands.
+
+2059,807,easier,Keep hands on hips for stability.
+2060,807,harder,Extend arms forward and lift leg higher.
+2061,807,prop-supported,Use wall for balance.
+
+2062,808,easier,Bend standing knee slightly for stability.
+2063,808,harder,Straighten both legs fully.
+2064,808,prop-supported,Use blocks under hands.
+
+2065,809,easier,Keep lifted leg lower in Half Moon.
+2066,809,harder,Extend top arm overhead and rotate chest.
+2067,809,prop-supported,Use block under bottom hand.
+
+2068,810,easier,Keep gaze down and reduce rotation.
+2069,810,harder,Rotate chest fully upward.
+2070,810,prop-supported,Use wall behind back.
+
+2071,811,easier,Keep lifted leg lower in Revolved Half Moon.
+2072,811,harder,Extend top arm upward and deepen twist.
+2073,811,prop-supported,Use block under bottom hand.
+
+2074,812,easier,Keep gaze down and reduce twist.
+2075,812,harder,Rotate chest fully upward.
+2076,812,prop-supported,Use wall for balance.
+
+2077,813,easier,Keep lifted leg lower in Standing Split.
+2078,813,harder,Walk hands closer to standing foot.
+2079,813,prop-supported,Use blocks under hands.
+
+2080,814,easier,Bend standing knee slightly.
+2081,814,harder,Pull torso closer to standing leg.
+2082,814,prop-supported,Use wall for balance.
+
+2083,815,easier,Keep lifted leg lower and hands on hips.
+2084,815,harder,Reach hands to standing foot.
+2085,815,prop-supported,Use blocks under hands.
+
+2086,816,easier,Keep knees bent in Chair Pose.
+2087,816,harder,Lower hips deeper and lift arms higher.
+2088,816,prop-supported,Use wall behind back.
+
+2089,817,easier,Keep twist gentle with hands at heart.
+2090,817,harder,Hook elbow outside knee for deeper twist.
+2091,817,prop-supported,Use block between thighs.
+
+2092,818,easier,Keep knees bent and reduce twist.
+2093,818,harder,Extend arms for deeper rotation.
+2094,818,prop-supported,Use wall for support.
+
+2095,819,easier,Keep knees bent and torso upright.
+2096,819,harder,Lower hips deeper and extend arms.
+2097,819,prop-supported,Use block under heels.
+
+2098,820,easier,Keep knees bent and reduce hip opening.
+2099,820,harder,Deepen squat and open knees wider.
+2100,820,prop-supported,Use block under hips.
+
+2101,821,easier,Keep lifted leg lower in Standing Hand‑to‑Big‑Toe Pose.
+2102,821,harder,Straighten lifted leg fully.
+2103,821,prop-supported,Use strap around lifted foot.
+
+2104,822,easier,Keep lifted leg bent.
+2105,822,harder,Extend leg fully to the side.
+2106,822,prop-supported,Use wall for balance.
+
+2107,823,easier,Hold knee instead of foot.
+2108,823,harder,Extend leg forward fully.
+2109,823,prop-supported,Use strap around foot.
+
+2110,824,easier,Keep lifted leg lower and torso upright.
+2111,824,harder,Extend leg fully and hinge forward.
+2112,824,prop-supported,Use wall for balance.
+
+2113,825,easier,Keep lifted leg bent in Dancer variation.
+2114,825,harder,Deepen backbend and kick foot into hand.
+2115,825,prop-supported,Use strap around lifted foot.
+
+2116,826,easier,Keep knees bent in Eagle Pose.
+2117,826,harder,Wrap foot fully behind calf.
+2118,826,prop-supported,Use wall for balance.
+
+2119,827,easier,Keep arms only in Eagle without leg bind.
+2120,827,harder,Add full leg wrap.
+2121,827,prop-supported,Use block under lifted foot.
+
+2122,828,easier,Keep knees bent and reduce bind.
+2123,828,harder,Deepen bind and lower hips.
+2124,828,prop-supported,Use strap for arms.
+
+2125,829,easier,Keep knees bent in Wide‑Legged Forward Fold.
+2126,829,harder,Straighten legs fully and deepen fold.
+2127,829,prop-supported,Use blocks under hands.
+
+2128,830,easier,Stay upright and reduce fold depth.
+2129,830,harder,Walk hands forward to deepen stretch.
+2130,830,prop-supported,Use bolster under torso.
+
+2131,831,easier,Keep knees bent and reduce hamstring load.
+2132,831,harder,Straighten legs fully and deepen fold.
+2133,831,prop-supported,Use bolster under head.
+
+2134,832,easier,Stay upright and reduce fold depth.
+2135,832,harder,Deepen fold and extend arms forward.
+2136,832,prop-supported,Use blocks under hands.
+
+2137,833,easier,Keep knees bent and reduce stretch.
+2138,833,harder,Straighten legs fully.
+2139,833,prop-supported,Use bolster under knees.
+
+2140,834,easier,Shorten stance and keep back knee down.
+2141,834,harder,Deepen lunge and lift arms overhead.
+2142,834,prop-supported,Use blocks under hands.
+
+2143,835,easier,Keep back knee down and reduce hip opening.
+2144,835,harder,Deepen lunge and lift chest.
+2145,835,prop-supported,Use blocks under hands.
+
+2146,836,easier,Shorten stance and reduce hip opening.
+2147,836,harder,Deepen lunge and lift arms overhead.
+2148,836,prop-supported,Use blocks under hands.
+
+2149,837,easier,Keep back knee down and reduce hip opening.
+2150,837,harder,Deepen lunge and lift chest.
+2151,837,prop-supported,Use blocks under hands.
+
+2152,838,easier,Shorten stance and reduce stretch.
+2153,838,harder,Deepen lunge and lift arms.
+2154,838,prop-supported,Use blocks under hands.
+
+2155,839,easier,Keep knees bent in forward fold.
+2156,839,harder,Straighten legs fully
+2157,839,harder,Straighten legs fully and deepen fold.
+2158,839,prop-supported,Use blocks under hands.
+
+2159,840,easier,Stay upright and reduce fold depth.
+2160,840,harder,Deepen fold with long spine.
+2161,840,prop-supported,Use bolster under torso.
+
+2162,841,easier,Keep knees bent and reduce hamstring load.
+2163,841,harder,Straighten legs fully.
+2164,841,prop-supported,Use bolster under head.
+
+2165,842,easier,Stay upright and reduce fold depth.
+2166,842,harder,Deepen fold and extend arms forward.
+2167,842,prop-supported,Use blocks under hands.
+
+2168,843,easier,Keep knees bent and reduce stretch.
+2169,843,harder,Straighten legs fully.
+2170,843,prop-supported,Use bolster under knees.
+
+2171,844,easier,Shorten stance and keep back knee down.
+2172,844,harder,Deepen lunge and lift arms overhead.
+2173,844,prop-supported,Use blocks under hands.
+
+2174,845,easier,Keep back knee down and reduce hip opening.
+2175,845,harder,Deepen lunge and lift chest.
+2176,845,prop-supported,Use blocks under hands.
+
+2177,846,easier,Shorten stance and reduce hip opening.
+2178,846,harder,Deepen lunge and lift arms overhead.
+2179,846,prop-supported,Use blocks under hands.
+
+2180,847,easier,Keep back knee down and reduce hip opening.
+2181,847,harder,Deepen lunge and lift chest.
+2182,847,prop-supported,Use blocks under hands.
+
+2183,848,easier,Shorten stance and reduce stretch.
+2184,848,harder,Deepen lunge and lift arms.
+2185,848,prop-supported,Use blocks under hands.
+
+2186,849,easier,Keep knees bent in forward fold.
+2187,849,harder,Straighten legs fully and deepen fold.
+2188,849,prop-supported,Use blocks under hands.
+
+2189,850,easier,Stay upright and reduce fold depth.
+2190,850,harder,Deepen fold with long spine.
+2191,850,prop-supported,Use bolster under torso.
+
+2192,851,easier,Keep toes on floor for balance support.
+2193,851,harder,Lift foot to calf or thigh.
+2194,851,prop-supported,Use wall for balance.
+
+2195,852,easier,Keep lifted foot lower on standing leg.
+2196,852,harder,Extend arms overhead for challenge.
+2197,852,prop-supported,Use wall behind back.
+
+2198,853,easier,Place toes on floor in Tree Pose.
+2199,853,harder,Bring foot to inner thigh and lift arms.
+2200,853,prop-supported,Use block under lifted foot.
+
+2201,854,easier,Hold ankle lightly and keep torso upright.
+2202,854,harder,Deepen backbend and kick foot into hand.
+2203,854,prop-supported,Use strap around lifted foot.
+
+2204,855,easier,Keep knees closer and reduce backbend.
+2205,855,harder,Extend opposite arm forward and deepen pose.
+2206,855,prop-supported,Use wall for balance.
+
+2207,856,easier,Keep lifted leg lower in Warrior III.
+2208,856,harder,Extend arms forward for full expression.
+2209,856,prop-supported,Use blocks under hands.
+
+2210,857,easier,Keep hands on hips for stability.
+2211,857,harder,Extend arms forward and lift leg higher.
+2212,857,prop-supported,Use wall for balance.
+
+2213,858,easier,Bend standing knee slightly for stability.
+2214,858,harder,Straighten both legs fully.
+2215,858,prop-supported,Use blocks under hands.
+
+2216,859,easier,Keep lifted leg lower in Half Moon.
+2217,859,harder,Extend top arm overhead and rotate chest.
+2218,859,prop-supported,Use block under bottom hand.
+
+2219,860,easier,Keep gaze down and reduce rotation.
+2220,860,harder,Rotate chest fully upward.
+2221,860,prop-supported,Use wall behind back.
+
+2222,861,easier,Keep lifted leg lower in Revolved Half Moon.
+2223,861,harder,Extend top arm upward and deepen twist.
+2224,861,prop-supported,Use block under bottom hand.
+
+2225,862,easier,Keep gaze down and reduce twist.
+2226,862,harder,Rotate chest fully upward.
+2227,862,prop-supported,Use wall for balance.
+
+2228,863,easier,Keep lifted leg lower in Standing Split.
+2229,863,harder,Walk hands closer to standing foot.
+2230,863,prop-supported,Use blocks under hands.
+
+2231,864,easier,Bend standing knee slightly.
+2232,864,harder,Pull torso closer to standing leg.
+2233,864,prop-supported,Use wall for balance.
+
+2234,865,easier,Keep lifted leg lower and hands on hips.
+2235,865,harder,Reach hands to standing foot.
+2236,865,prop-supported,Use blocks under hands.
+
+2237,866,easier,Keep knees bent in Chair Pose.
+2238,866,harder,Lower hips deeper and lift arms higher.
+2239,866,prop-supported,Use wall behind back.
+
+2240,867,easier,Keep twist gentle with hands at heart.
+2241,867,harder,Hook elbow outside knee for deeper twist.
+2242,867,prop-supported,Use block between thighs.
+
+2243,868,easier,Keep knees bent and reduce twist.
+2244,868,harder,Extend arms for deeper rotation.
+2245,868,prop-supported,Use wall for support.
+
+2246,869,easier,Keep knees bent and torso upright.
+2247,869,harder,Lower hips deeper and extend arms.
+2248,869,prop-supported,Use block under heels.
+
+2249,870,easier,Keep knees bent and reduce hip opening.
+2250,870,harder,Deepen squat and open knees wider.
+2251,870,prop-supported,Use block under hips.
+
+2252,871,easier,Keep lifted leg lower in Standing Hand‑to‑Big‑Toe Pose.
+2253,871,harder,Straighten lifted leg fully.
+2254,871,prop-supported,Use strap around lifted foot.
+
+2255,872,easier,Keep lifted leg bent.
+2256,872,harder,Extend leg fully to the side.
+2257,872,prop-supported,Use wall for balance.
+
+2258,873,easier,Hold knee instead of foot.
+2259,873,harder,Extend leg forward fully.
+2260,873,prop-supported,Use strap around foot.
+
+2261,874,easier,Keep lifted leg lower and torso upright.
+2262,874,harder,Extend leg fully and hinge forward.
+2263,874,prop-supported,Use wall for balance.
+
+2264,875,easier,Keep lifted leg bent in Dancer variation.
+2265,875,harder,Deepen backbend and kick foot into hand.
+2266,875,prop-supported,Use strap around lifted foot.
+
+2267,876,easier,Keep knees bent in Eagle Pose.
+2268,876,harder,Wrap foot fully behind calf.
+2269,876,prop-supported,Use wall for balance.
+
+2270,877,easier,Keep arms only in Eagle without leg bind.
+2271,877,harder,Add full leg wrap.
+2272,877,prop-supported,Use block under lifted foot.
+
+2273,878,easier,Keep knees bent and reduce bind.
+2274,878,harder,Deepen bind and lower hips.
+2275,878,prop-supported,Use strap for arms.
+
+2276,879,easier,Keep knees bent in Wide‑Legged Forward Fold.
+2277,879,harder,Straighthten legs fully and deepen fold.
+2278,879,prop-supported,Use blocks under hands.
+
+2279,880,easier,Stay upright and reduce fold depth.
+2280,880,harder,Walk hands forward to deepen stretch.
+2281,880,prop-supported,Use bolster under torso.
+
+2282,881,easier,Keep knees bent and reduce hamstring load.
+2283,881,harder,Straighten legs fully and deepen fold.
+2284,881,prop-supported,Use bolster under head.
+
+2285,882,easier,Stay upright and reduce fold depth.
+2286,882,harder,Deepen fold and extend arms forward.
+2287,882,prop-supported,Use blocks under hands.
+
+2288,883,easier,Keep knees bent and reduce stretch.
+2289,883,harder,Straighten legs fully.
+2290,883,prop-supported,Use bolster under knees.
+
+2291,884,easier,Shorten stance and keep back knee down.
+2292,884,harder,Deepen lunge and lift arms overhead.
+2293,884,prop-supported,Use blocks under hands.
+
+2294,885,easier,Keep back knee down and reduce hip opening.
+2295,885,harder,Deepen lunge and lift chest.
+2296,885,prop-supported,Use blocks under hands.
+
+2297,886,easier,Shorten stance and reduce hip opening.
+2298,886,harder,Deepen lunge and lift arms overhead.
+2299,886,prop-supported,Use blocks under hands.
+
+2300,887,easier,Keep back knee down and reduce hip opening.
+2301,887,harder,Deepen lunge and lift chest.
+2302,887,prop-supported,Use blocks under hands.
+
+2303,888,easier,Shorten stance and reduce stretch.
+2304,888,harder,Deepen lunge and lift arms.
+2305,888,prop-supported,Use blocks under hands.
+
+2306,889,easier,Keep knees bent in forward fold.
+2307,889,harder,Straighten legs fully and deepen fold.
+2308,889,prop-supported,Use blocks under hands.
+
+2309,890,easier,Stay upright and reduce fold depth.
+2310,890,harder,Deepen fold with long spine.
+2311,890,prop-supported,Use bolster under torso.
+
+2312,891,easier,Keep knees bent and reduce hamstring load.
+2313,891,harder,Straighten legs fully.
+2314,891,prop-supported,Use bolster under head.
+
+2315,892,easier,Stay upright and reduce fold depth.
+2316,892,harder,Deepen fold and extend arms forward.
+2317,892,prop-supported,Use blocks under hands.
+
+2318,893,easier,Keep knees bent and reduce stretch.
+2319,893,harder,Straighten legs fully.
+2320,893,prop-supported,Use bolster under knees.
+
+2321,894,easier,Shorten stance and keep back knee down.
+2322,894,harder,Deepen lunge and lift arms overhead.
+2323,894,prop-supported,Use blocks under hands.
+
+2324,895,easier,Keep back knee down and reduce hip opening.
+2325,895,harder,Deepen lunge and lift chest.
+2326,895,prop-supported,Use blocks under hands.
+
+2327,896,easier,Shorten stance and reduce hip opening.
+2328,896,harder,Deepen lunge and lift arms overhead.
+2329,896,prop-supported,Use blocks under hands.
+
+2330,897,easier,Keep back knee down and reduce hip opening.
+2331,897,harder,Deepen lunge and lift chest.
+2332,897,prop-supported,Use blocks under hands.
+
+2333,898,easier,Shorten stance and reduce stretch.
+2334,898,harder,Deepen lunge and lift arms.
+2335,898,prop-supported,Use blocks under hands.
+
+2336,899,easier,Keep knees bent in forward fold.
+2337,899,harder,Straighten legs fully and deepen fold.
+2338,899,prop-supported,Use blocks under hands.
+
+2339,900,easier,Stay upright and reduce fold depth.
+2340,900,harder,Deepen fold with long spine.
+2341,900,prop-supported,Use bolster under torso.
+2342,901,easier,Keep knees bent in forward fold.
+2343,901,harder,Straighten legs fully and deepen fold.
+2344,901,prop-supported,Use blocks under hands.
+
+2345,902,easier,Stay upright and reduce fold depth.
+2346,902,harder,Deepen fold with long spine.
+2347,902,prop-supported,Use bolster under torso.
+
+2348,903,easier,Keep knees bent and reduce hamstring load.
+2349,903,harder,Straighten legs fully.
+2350,903,prop-supported,Use bolster under head.
+
+2351,904,easier,Stay upright and reduce fold depth.
+2352,904,harder,Deepen fold and extend arms forward.
+2353,904,prop-supported,Use blocks under hands.
+
+2354,905,easier,Keep knees bent and reduce stretch.
+2355,905,harder,Straighten legs fully.
+2356,905,prop-supported,Use bolster under knees.
+
+2357,906,easier,Shorten stance and keep back knee down.
+2358,906,harder,Deepen lunge and lift arms overhead.
+2359,906,prop-supported,Use blocks under hands.
+
+2360,907,easier,Keep back knee down and reduce hip opening.
+2361,907,harder,Deepen lunge and lift chest.
+2362,907,prop-supported,Use blocks under hands.
+
+2363,908,easier,Shorten stance and reduce hip opening.
+2364,908,harder,Deepen lunge and lift arms overhead.
+2365,908,prop-supported,Use blocks under hands.
+
+2366,909,easier,Keep back knee down and reduce hip opening.
+2367,909,harder,Deepen lunge and lift chest.
+2368,909,prop-supported,Use blocks under hands.
+
+2369,910,easier,Shorten stance and reduce stretch.
+2370,910,harder,Deepen lunge and lift arms.
+2371,910,prop-supported,Use blocks under hands.
+
+2372,911,easier,Keep knees bent in forward fold.
+2373,911,harder,Straighten legs fully and deepen fold.
+2374,911,prop-supported,Use blocks under hands.
+
+2375,912,easier,Stay upright and reduce fold depth.
+2376,912,harder,Deepen fold with long spine.
+2377,912,prop-supported,Use bolster under torso.
+
+2378,913,easier,Keep knees bent and reduce hamstring load.
+2379,913,harder,Straighten legs fully.
+2380,913,prop-supported,Use bolster under head.
+
+2381,914,easier,Stay upright and reduce fold depth.
+2382,914,harder,Deepen fold and extend arms forward.
+2383,914,prop-supported,Use blocks under hands.
+
+2384,915,easier,Keep knees bent and reduce stretch.
+2385,915,harder,Straighten legs fully.
+2386,915,prop-supported,Use bolster under knees.
+
+2387,916,easier,Shorten stance and keep back knee down.
+2388,916,harder,Deepen lunge and lift arms overhead.
+2389,916,prop-supported,Use blocks under hands.
+
+2390,917,easier,Keep back knee down and reduce hip opening.
+2391,917,harder,Deepen lunge and lift chest.
+2392,917,prop-supported,Use blocks under hands.
+
+2393,918,easier,Shorten stance and reduce hip opening.
+2394,918,harder,Deepen lunge and lift arms overhead.
+2395,918,prop-supported,Use blocks under hands.
+
+2396,919,easier,Keep back knee down and reduce hip opening.
+2397,919,harder,Deepen lunge and lift chest.
+2398,919,prop-supported,Use blocks under hands.
+
+2399,920,easier,Shorten stance and reduce stretch.
+2400,920,harder,Deepen lunge and lift arms.
+2401,920,prop-supported,Use blocks under hands.
+
+2402,921,easier,Keep toes on floor for balance support.
+2403,921,harder,Lift foot to calf or thigh.
+2404,921,prop-supported,Use wall for balance.
+
+2405,922,easier,Keep lifted foot lower on standing leg.
+2406,922,harder,Extend arms overhead for challenge.
+2407,922,prop-supported,Use wall behind back.
+
+2408,923,easier,Place toes on floor in Tree Pose.
+2409,923,harder,Bring foot to inner thigh and lift arms.
+2410,923,prop-supported,Use block under lifted foot.
+
+2411,924,easier,Hold ankle lightly and keep torso upright.
+2412,924,harder,Deepen backbend and kick foot into hand.
+2413,924,prop-supported,Use strap around lifted foot.
+
+2414,925,easier,Keep knees closer and reduce backbend.
+2415,925,harder,Extend opposite arm forward and deepen pose.
+2416,925,prop-supported,Use wall for balance.
+
+2417,926,easier,Keep lifted leg lower in Warrior III.
+2418,926,harder,Extend arms forward for full expression.
+2419,926,prop-supported,Use blocks under hands.
+
+2420,927,easier,Keep hands on hips for stability.
+2421,927,harder,Extend arms forward and lift leg higher.
+2422,927,prop-supported,Use wall for balance.
+
+2423,928,easier,Bend standing knee slightly for stability.
+2424,928,harder,Straighten both legs fully.
+2425,928,prop-supported,Use blocks under hands.
+
+2426,929,easier,Keep lifted leg lower in Half Moon.
+2427,929,harder,Extend top arm overhead and rotate chest.
+2428,929,prop-supported,Use block under bottom hand.
+
+2429,930,easier,Keep gaze down and reduce rotation.
+2430,930,harder,Rotate chest fully upward.
+2431,930,prop-supported,Use wall behind back.
+
+2432,931,easier,Keep lifted leg lower in Revolved Half Moon.
+2433,931,harder,Extend top arm upward and deepen twist.
+2434,931,prop-supported,Use block under bottom hand.
+
+2435,932,easier,Keep gaze down and reduce twist.
+2436,932,harder,Rotate chest fully upward.
+2437,932,prop-supported,Use wall for balance.
+
+2438,933,easier,Keep lifted leg lower in Standing Split.
+2439,933,harder,Walk hands closer to standing foot.
+2440,933,prop-supported,Use blocks under hands.
+
+2441,934,easier,Bend standing knee slightly.
+2442,934,harder,Pull torso closer to standing leg.
+2443,934,prop-supported,Use wall for balance.
+
+2444,935,easier,Keep lifted leg lower and hands on hips.
+2445,935,harder,Reach hands to standing foot.
+2446,935,prop-supported,Use blocks under hands.
+
+2447,936,easier,Keep knees bent in Chair Pose.
+2448,936,harder,Lower hips deeper and lift arms higher.
+2449,936,prop-supported,Use wall behind back.
+
+2450,937,easier,Keep twist gentle with hands at heart.
+2451,937,harder,Hook elbow outside knee for deeper twist.
+2452,937,prop-supported,Use block between thighs.
+
+2453,938,easier,Keep knees bent and reduce twist.
+2454,938,harder,Extend arms for deeper rotation.
+2455,938,prop-supported,Use wall for support.
+
+2456,939,easier,Keep knees bent and torso upright.
+2457,939,harder,Lower hips deeper and extend arms.
+2458,939,prop-supported,Use block under heels.
+
+2459,940,easier,Keep knees bent and reduce hip opening.
+2460,940,harder,Deepen squat and open knees wider.
+2461,940,prop-supported,Use block under hips.
+
+2462,941,easier,Keep lifted leg lower in Standing Hand‑to‑Big‑Toe Pose.
+2463,941,harder,Straighten lifted leg fully.
+2464,941,prop-supported,Use strap around lifted foot.
+
+2465,942,easier,Keep lifted leg bent.
+2466,942,harder,Extend leg fully to the side.
+2467,942,prop-supported,Use wall for balance.
+
+2468,943,easier,Hold knee instead of foot.
+2469,943,harder,Extend leg forward fully.
+2470,943,prop-supported,Use strap around foot.
+
+2471,944,easier,Keep lifted leg lower and torso upright.
+2472,944,harder,Extend leg fully and hinge forward.
+2473,944,prop-supported,Use wall for balance.
+
+2474,945,easier,Keep lifted leg bent in Dancer variation.
+2475,945,harder,Deepen backbend and kick foot into hand.
+2476,945,prop-supported,Use strap around lifted foot.
+
+2477,946,easier,Keep knees bent in Eagle Pose.
+2478,946,harder,Wrap foot fully behind calf.
+2479,946,prop-supported,Use wall for balance.
+
+2480,947,easier,Keep arms only in Eagle without leg bind.
+2481,947,harder,Add full leg wrap.
+2482,947,prop-supported,Use block under lifted foot.
+
+2483,948,easier,Keep knees bent and reduce bind.
+2484,948,harder,Deepen bind and lower hips.
+2485,948,prop-supported,Use strap for arms.
+
+2486,949,easier,Keep knees bent in Wide‑Legged Forward Fold.
+2487,949,harder,Straighten legs fully and deepen fold.
+2488,949,prop-supported,Use blocks under hands.
+
+2489,950,easier,Stay upright and reduce fold depth.
+2490,950,harder,Walk hands forward to deepen stretch.
+2491,950,prop-supported,Use bolster under torso.
+
+2492,951,easier,Keep knees bent in forward fold.
+2493,951,harder,Straighten legs fully and deepen fold.
+2494,951,prop-supported,Use blocks under hands.
+
+2495,952,easier,Stay upright and reduce fold depth.
+2496,952,harder,Deepen fold with long spine.
+2497,952,prop-supported,Use bolster under torso.
+
+2498,953,easier,Keep knees bent and reduce hamstring load.
+2499,953,harder,Straighten legs fully.
+2500,953,prop-supported,Use bolster under head.
+
+2501,954,easier,Stay upright and reduce fold depth.
+2502,954,harder,Deepen fold and extend arms forward.
+2503,954,prop-supported,Use blocks under hands.
+
+2504,955,easier,Keep knees bent and reduce stretch.
+2505,955,harder,Straighten legs fully.
+2506,955,prop-supported,Use bolster under knees.
+
+2507,956,easier,Shorten stance and keep back knee down.
+2508,956,harder,Deepen lunge and lift arms overhead.
+2509,956,prop-supported,Use blocks under hands.
+
+2510,957,easier,Keep back knee down and reduce hip opening.
+2511,957,harder,Deepen lunge and lift chest.
+2512,957,prop-supported,Use blocks under hands.
+
+2513,958,easier,Shorten stance and reduce hip opening.
+2514,958,harder,Deepen lunge and lift arms overhead.
+2515,958,prop-supported,Use blocks under hands.
+
+2516,959,easier,Keep back knee down and reduce hip opening.
+2517,959,harder,Deepen lunge and lift chest.
+2518,959,prop-supported,Use blocks under hands.
+
+2519,960,easier,Shorten stance and reduce stretch.
+2520,960,harder,Deepen lunge and lift arms.
+2521,960,prop-supported,Use blocks under hands.
+
+2522,961,easier,Keep toes on floor for balance support.
+2523,961,harder,Lift foot to calf or thigh.
+2524,961,prop-supported,Use wall for balance.
+
+2525,962,easier,Keep lifted foot lower on standing leg.
+2526,962,harder,Extend arms overhead for challenge.
+2527,962,prop-supported,Use wall behind back.
+
+2528,963,easier,Place toes on floor in Tree Pose.
+2529,963,harder,Bring foot to inner thigh and lift arms.
+2530,963,prop-supported,Use block under lifted foot.
+
+2531,964,easier,Hold ankle lightly and keep torso upright.
+2532,964,harder,Deepen backbend and kick foot into hand.
+2533,964,prop-supported,Use strap around lifted foot.
+
+2534,965,easier,Keep knees closer and reduce backbend.
+2535,965,harder,Extend opposite arm forward and deepen pose.
+2536,965,prop-supported,Use wall for balance.
+
+2537,966,easier,Keep lifted leg lower in Warrior III.
+2538,966,harder,Extend arms forward for full expression.
+2539,966,prop-supported,Use blocks under hands.
+
+2540,967,easier,Keep hands on hips for stability.
+2541,967,harder,Extend arms forward and lift leg higher.
+2542,967,prop-supported,Use wall for balance.
+
+2543,968,easier,Bend standing knee slightly for stability.
+2544,968,harder,Straighten both legs fully.
+2545,968,prop-supported,Use blocks under hands.
+
+2546,969,easier,Keep lifted leg lower in Half Moon.
+2547,969,harder,Extend top arm overhead and rotate chest.
+2548,969,prop-supported,Use block under bottom hand.
+
+2549,970,easier,Keep gaze down and reduce rotation.
+2550,970,harder,Rotate chest fully upward.
+2551,970,prop-supported,Use wall behind back.
+
+2552,971,easier,Keep lifted leg lower in Revolved Half Moon.
+2553,971,harder,Extend top arm upward and deepen twist.
+2554,971,prop-supported,Use block under bottom hand.
+
+2555,972,easier,Keep gaze down and reduce twist.
+2556,972,harder,Rotate chest fully upward.
+2557,972,prop-supported,Use wall for balance.
+
+2558,973,easier,Keep lifted leg lower in Standing Split.
+2559,973,harder,Walk hands closer to standing foot.
+2560,973,prop-supported,Use blocks under hands.
+
+2561,974,easier,Bend standing knee slightly.
+2562,974,harder,Pull torso closer to standing leg.
+2563,974,prop-supported,Use wall for balance.
+
+2564,975,easier,Keep lifted leg lower and hands on hips.
+2565,975,harder,Reach hands to standing foot.
+2566,975,prop-supported,Use blocks under hands.
+
+2567,976,easier,Keep knees bent in Chair Pose.
+2568,976,harder,Lower hips deeper and lift arms higher.
+2569,976,prop-supported,Use wall behind back.
+
+2570,977,easier,Keep twist gentle with hands at heart.
+2571,977,harder,Hook elbow outside knee for deeper twist.
+2572,977,prop-supported,Use block between thighs.
+
+2573,978,easier,Keep knees bent and reduce twist.
+2574,978,harder,Extend arms for deeper rotation.
+2575,978,prop-supported,Use wall for support.
+
+2576,979,easier,Keep knees bent and torso upright.
+2577,979,harder,Lower hips deeper and extend arms.
+2578,979,prop-supported,Use block under heels.
+
+2579,980,easier,Keep knees bent and reduce hip opening.
+2580,980,harder,Deepen squat and open knees wider.
+2581,980,prop-supported,Use block under hips.
+
+2582,981,easier,Keep lifted leg lower in Standing Hand‑to‑Big‑Toe Pose.
+2583,981,harder,Straighten lifted leg fully.
+2584,981,prop-supported,Use strap around lifted foot.
+
+2585,982,easier,Keep lifted leg bent.
+2586,982,harder,Extend leg fully to the side.
+2587,982,prop-supported,Use wall for balance.
+
+2588,983,easier,Hold knee instead of foot.
+2589,983,harder,Extend leg forward fully.
+2590,983,prop-supported,Use strap around foot.
+
+2591,984,easier,Keep lifted leg lower and torso upright.
+2592,984,harder,Extend leg fully and hinge forward.
+2593,984,prop-supported,Use wall for balance.
+
+2594,985,easier,Keep lifted leg bent in Dancer variation.
+2595,985,harder,Deepen backbend and kick foot into hand.
+2596,985,prop-supported,Use strap around lifted foot.
+
+2597,986,easier,Keep knees bent in Eagle Pose.
+2598,986,harder,Wrap foot fully behind calf.
+2599,986,prop-supported,Use wall for balance.
+
+2600,987,easier,Keep arms only in Eagle without leg bind.
+2601,987,harder,Add full leg wrap.
+2602,987,prop-supported,Use block under lifted foot.
+
+2603,988,easier,Keep knees bent and reduce bind.
+2604,988,harder,Deepen bind and lower hips.
+2605,988,prop-supported,Use strap for arms.
+
+2606,989,easier,Keep knees bent in Wide‑Legged Forward Fold.
+2607,989,harder,Straighten legs fully and deepen fold.
+2608,989,prop-supported,Use blocks under hands.
+
+2609,990,easier,Stay upright and reduce fold depth.
+2610,990,harder,Walk hands forward to deepen stretch.
+2611,990,prop-supported,Use bolster under torso.
+
+2612,991,easier,Keep knees bent and reduce hamstring load.
+2613,991,harder,Straighten legs fully and deepen fold.
+2614,991,prop-supported,Use bolster under head.
+
+2615,992,easier,Stay upright and reduce fold depth.
+2616,992,harder,Deepen fold and extend arms forward.
+2617,992,prop-supported,Use blocks under hands.
+
+2618,993,easier,Keep knees bent and reduce stretch.
+2619,993,harder,Straighten legs fully.
+2620,993,prop-supported,Use bolster under knees.
+
+2621,994,easier,Shorten stance and keep back knee down.
+2622,994,harder,Deepen lunge and lift arms overhead.
+2623,994,prop-supported,Use blocks under hands.
+
+2624,995,easier,Keep back knee down and reduce hip opening.
+2625,995,harder,Deepen lunge and lift chest.
+2626,995,prop-supported,Use blocks under hands.
+
+2627,996,easier,Shorten stance and reduce hip opening.
+2628,996,harder,Deepen lunge and lift arms overhead.
+2629,996,prop-supported,Use blocks under hands.
+
+2630,997,easier,Keep back knee down and reduce hip opening.
+2631,997,harder,Deepen lunge and lift chest.
+2632,997,prop-supported,Use blocks under hands.
+
+2633,998,easier,Shorten stance and reduce stretch.
+2634,998,harder,Deepen lunge and lift arms.
+2635,998,prop-supported,Use blocks under hands.
+
+2636,999,easier,Keep knees bent in forward fold.
+2637,999,harder,Straighten legs fully and deepen fold.
+2638,999,prop-supported,Use blocks under hands.
+
+2639,1000,easier,Stay upright and reduce fold depth.
+2640,1000,harder,Deepen fold with long spine.
+2641,1000,prop-supported,Use bolster under torso.
+2492,951,easier,Keep knees bent in forward fold.
+2493,951,harder,Straighten legs fully and deepen fold.
+2494,951,prop-supported,Use blocks under hands.
+
+2495,952,easier,Stay upright and reduce fold depth.
+2496,952,harder,Deepen fold with long spine.
+2497,952,prop-supported,Use bolster under torso.
+
+2498,953,easier,Keep knees bent and reduce hamstring load.
+2499,953,harder,Straighten legs fully.
+2500,953,prop-supported,Use bolster under head.
+
+2501,954,easier,Stay upright and reduce fold depth.
+2502,954,harder,Deepen fold and extend arms forward.
+2503,954,prop-supported,Use blocks under hands.
+
+2504,955,easier,Keep knees bent and reduce stretch.
+2505,955,harder,Straighten legs fully.
+2506,955,prop-supported,Use bolster under knees.
+
+2507,956,easier,Shorten stance and keep back knee down.
+2508,956,harder,Deepen lunge and lift arms overhead.
+2509,956,prop-supported,Use blocks under hands.
+
+2510,957,easier,Keep back knee down and reduce hip opening.
+2511,957,harder,Deepen lunge and lift chest.
+2512,957,prop-supported,Use blocks under hands.
+
+2513,958,easier,Shorten stance and reduce hip opening.
+2514,958,harder,Deepen lunge and lift arms overhead.
+2515,958,prop-supported,Use blocks under hands.
+
+2516,959,easier,Keep back knee down and reduce hip opening.
+2517,959,harder,Deepen lunge and lift chest.
+2518,959,prop-supported,Use blocks under hands.
+
+2519,960,easier,Shorten stance and reduce stretch.
+2520,960,harder,Deepen lunge and lift arms.
+2521,960,prop-supported,Use blocks under hands.
+
+2522,961,easier,Keep toes on floor for balance support.
+2523,961,harder,Lift foot to calf or thigh.
+2524,961,prop-supported,Use wall for balance.
+
+2525,962,easier,Keep lifted foot lower on standing leg.
+2526,962,harder,Extend arms overhead for challenge.
+2527,962,prop-supported,Use wall behind back.
+
+2528,963,easier,Place toes on floor in Tree Pose.
+2529,963,harder,Bring foot to inner thigh and lift arms.
+2530,963,prop-supported,Use block under lifted foot.
+
+2531,964,easier,Hold ankle lightly and keep torso upright.
+2532,964,harder,Deepen backbend and kick foot into hand.
+2533,964,prop-supported,Use strap around lifted foot.
+
+2534,965,easier,Keep knees closer and reduce backbend.
+2535,965,harder,Extend opposite arm forward and deepen pose.
+2536,965,prop-supported,Use wall for balance.
+
+2537,966,easier,Keep lifted leg lower in Warrior III.
+2538,966,harder,Extend arms forward for full expression.
+2539,966,prop-supported,Use blocks under hands.
+
+2540,967,easier,Keep hands on hips for stability.
+2541,967,harder,Extend arms forward and lift leg higher.
+2542,967,prop-supported,Use wall for balance.
+
+2543,968,easier,Bend standing knee slightly for stability.
+2544,968,harder,Straighten both legs fully.
+2545,968,prop-supported,Use blocks under hands.
+
+2546,969,easier,Keep lifted leg lower in Half Moon.
+2547,969,harder,Extend top arm overhead and rotate chest.
+2548,969,prop-supported,Use block under bottom hand.
+
+2549,970,easier,Keep gaze down and reduce rotation.
+2550,970,harder,Rotate chest fully upward.
+2551,970,prop-supported,Use wall behind back.
+
+2552,971,easier,Keep lifted leg lower in Revolved Half Moon.
+2553,971,harder,Extend top arm upward and deepen twist.
+2554,971,prop-supported,Use block under bottom hand.
+
+2555,972,easier,Keep gaze down and reduce twist.
+2556,972,harder,Rotate chest fully upward.
+2557,972,prop-supported,Use wall for balance.
+
+2558,973,easier,Keep lifted leg lower in Standing Split.
+2559,973,harder,Walk hands closer to standing foot.
+2560,973,prop-supported,Use blocks under hands.
+
+2561,974,easier,Bend standing knee slightly.
+2562,974,harder,Pull torso closer to standing leg.
+2563,974,prop-supported,Use wall for balance.
+
+2564,975,easier,Keep lifted leg lower and hands on hips.
+2565,975,harder,Reach hands to standing foot.
+2566,975,prop-supported,Use blocks under hands.
+
+2567,976,easier,Keep knees bent in Chair Pose.
+2568,976,harder,Lower hips deeper and lift arms higher.
+2569,976,prop-supported,Use wall behind back.
+
+2570,977,easier,Keep twist gentle with hands at heart.
+2571,977,harder,Hook elbow outside knee for deeper twist.
+2572,977,prop-supported,Use block between thighs.
+
+2573,978,easier,Keep knees bent and reduce twist.
+2574,978,harder,Extend arms for deeper rotation.
+2575,978,prop-supported,Use wall for support.
+
+2576,979,easier,Keep knees bent and torso upright.
+2577,979,harder,Lower hips deeper and extend arms.
+2578,979,prop-supported,Use block under heels.
+
+2579,980,easier,Keep knees bent and reduce hip opening.
+2580,980,harder,Deepen squat and open knees wider.
+2581,980,prop-supported,Use block under hips.
+
+2582,981,easier,Keep lifted leg lower in Standing Hand‑to‑Big‑Toe Pose.
+2583,981,harder,Straighten lifted leg fully.
+2584,981,prop-supported,Use strap around lifted foot.
+
+2585,982,easier,Keep lifted leg bent.
+2586,982,harder,Extend leg fully to the side.
+2587,982,prop-supported,Use wall for balance.
+
+2588,983,easier,Hold knee instead of foot.
+2589,983,harder,Extend leg forward fully.
+2590,983,prop-supported,Use strap around foot.
+
+2591,984,easier,Keep lifted leg lower and torso upright.
+2592,984,harder,Extend leg fully and hinge forward.
+2593,984,prop-supported,Use wall for balance.
+
+2594,985,easier,Keep lifted leg bent in Dancer variation.
+2595,985,harder,Deepen backbend and kick foot into hand.
+2596,985,prop-supported,Use strap around lifted foot.
+
+2597,986,easier,Keep knees bent in Eagle Pose.
+2598,986,harder,Wrap foot fully behind calf.
+2599,986,prop-supported,Use wall for balance.
+
+2600,987,easier,Keep arms only in Eagle without leg bind.
+2601,987,harder,Add full leg wrap.
+2602,987,prop-supported,Use block under lifted foot.
+
+2603,988,easier,Keep knees bent and reduce bind.
+2604,988,harder,Deepen bind and lower hips.
+2605,988,prop-supported,Use strap for arms.
+
+2606,989,easier,Keep knees bent in Wide‑Legged Forward Fold.
+2607,989,harder,Straighten legs fully and deepen fold.
+2608,989,prop-supported,Use blocks under hands.
+
+2609,990,easier,Stay upright and reduce fold depth.
+2610,990,harder,Walk hands forward to deepen stretch.
+2611,990,prop-supported,Use bolster under torso.
+
+2612,991,easier,Keep knees bent and reduce hamstring load.
+2613,991,harder,Straighten legs fully and deepen fold.
+2614,991,prop-supported,Use bolster under head.
+
+2615,992,easier,Stay upright and reduce fold depth.
+2616,992,harder,Deepen fold and extend arms forward.
+2617,992,prop-supported,Use blocks under hands.
+
+2618,993,easier,Keep knees bent and reduce stretch.
+2619,993,harder,Straighten legs fully.
+2620,993,prop-supported,Use bolster under knees.
+
+2621,994,easier,Shorten stance and keep back knee down.
+2622,994,harder,Deepen lunge and lift arms overhead.
+2623,994,prop-supported,Use blocks under hands.
+
+2624,995,easier,Keep back knee down and reduce hip opening.
+2625,995,harder,Deepen lunge and lift chest.
+2626,995,prop-supported,Use blocks under hands.
+
+2627,996,easier,Shorten stance and reduce hip opening.
+2628,996,harder,Deepen lunge and lift arms overhead.
+2629,996,prop-supported,Use blocks under hands.
+
+2630,997,easier,Keep back knee down and reduce hip opening.
+2631,997,harder,Deepen lunge and lift chest.
+2632,997,prop-supported,Use blocks under hands.
+
+2633,998,easier,Shorten stance and reduce stretch.
+2634,998,harder,Deepen lunge and lift arms.
+2635,998,prop-supported,Use blocks under hands.
+
+2636,999,easier,Keep knees bent in forward fold.
+2637,999,harder,Straighten legs fully and deepen fold.
+2638,999,prop-supported,Use blocks under hands.
+
+2639,1000,easier,Stay upright and reduce fold depth.
+2640,1000,harder,Deepen fold with long spine.
+2641,1000,prop-supported,Use bolster under torso.
+2792,1051,easier,Keep knees bent in forward fold.
+2793,1051,harder,Straighten legs fully and deepen fold.
+2794,1051,prop-supported,Use blocks under hands.
+
+2795,1052,easier,Stay upright and reduce fold depth.
+2796,1052,harder,Deepen fold with long spine.
+2797,1052,prop-supported,Use bolster under torso.
+
+2798,1053,easier,Keep knees bent and reduce hamstring load.
+2799,1053,harder,Straighten legs fully.
+2800,1053,prop-supported,Use bolster under head.
+
+2801,1054,easier,Stay upright and reduce fold depth.
+2802,1054,harder,Deepen fold and extend arms forward.
+2803,1054,prop-supported,Use blocks under hands.
+
+2804,1055,easier,Keep knees bent and reduce stretch.
+2805,1055,harder,Straighten legs fully.
+2806,1055,prop-supported,Use bolster under knees.
+
+2807,1056,easier,Shorten stance and keep back knee down.
+2808,1056,harder,Deepen lunge and lift arms overhead.
+2809,1056,prop-supported,Use blocks under hands.
+
+2810,1057,easier,Keep back knee down and reduce hip opening.
+2811,1057,harder,Deepen lunge and lift chest.
+2812,1057,prop-supported,Use blocks under hands.
+
+2813,1058,easier,Shorten stance and reduce hip opening.
+2814,1058,harder,Deepen lunge and lift arms overhead.
+2815,1058,prop-supported,Use blocks under hands.
+
+2816,1059,easier,Keep back knee down and reduce hip opening.
+2817,1059,harder,Deepen lunge and lift chest.
+2818,1059,prop-supported,Use blocks under hands.
+
+2819,1060,easier,Shorten stance and reduce stretch.
+2820,1060,harder,Deepen lunge and lift arms.
+2821,1060,prop-supported,Use blocks under hands.
+
+2822,1061,easier,Keep toes on floor for balance support.
+2823,1061,harder,Lift foot to calf or thigh.
+2824,1061,prop-supported,Use wall for balance.
+
+2825,1062,easier,Keep lifted foot lower on standing leg.
+2826,1062,harder,Extend arms overhead for challenge.
+2827,1062,prop-supported,Use wall behind back.
+
+2828,1063,easier,Place toes on floor in Tree Pose.
+2829,1063,harder,Bring foot to inner thigh and lift arms.
+2830,1063,prop-supported,Use block under lifted foot.
+
+2831,1064,easier,Hold ankle lightly and keep torso upright.
+2832,1064,harder,Deepen backbend and kick foot into hand.
+2833,1064,prop-supported,Use strap around lifted foot.
+
+2834,1065,easier,Keep knees closer and reduce backbend.
+2835,1065,harder,Extend opposite arm forward and deepen pose.
+2836,1065,prop-supported,Use wall for balance.
+
+2837,1066,easier,Keep lifted leg lower in Warrior III.
+2838,1066,harder,Extend arms forward for full expression.
+2839,1066,prop-supported,Use blocks under hands.
+
+2840,1067,easier,Keep hands on hips for stability.
+2841,1067,harder,Extend arms forward and lift leg higher.
+2842,1067,prop-supported,Use wall for balance.
+
+2843,1068,easier,Bend standing knee slightly for stability.
+2844,1068,harder,Straighten both legs fully.
+2845,1068,prop-supported,Use blocks under hands.
+
+2846,1069,easier,Keep lifted leg lower in Half Moon.
+2847,1069,harder,Extend top arm overhead and rotate chest.
+2848,1069,prop-supported,Use block under bottom hand.
+
+2849,1070,easier,Keep gaze down and reduce rotation.
+2850,1070,harder,Rotate chest fully upward.
+2851,1070,prop-supported,Use wall behind back.
+
+2852,1071,easier,Keep lifted leg lower in Revolved Half Moon.
+2853,1071,harder,Extend top arm upward and deepen twist.
+2854,1071,prop-supported,Use block under bottom hand.
+
+2855,1072,easier,Keep gaze down and reduce twist.
+2856,1072,harder,Rotate chest fully upward.
+2857,1072,prop-supported,Use wall for balance.
+
+2858,1073,easier,Keep lifted leg lower in Standing Split.
+2859,1073,harder,Walk hands closer to standing foot.
+2860,1073,prop-supported,Use blocks under hands.
+
+2861,1074,easier,Bend standing knee slightly.
+2862,1074,harder,Pull torso closer to standing leg.
+2863,1074,prop-supported,Use wall for balance.
+
+2864,1075,easier,Keep lifted leg lower and hands on hips.
+2865,1075,harder,Reach hands to standing foot.
+2866,1075,prop-supported,Use blocks under hands.
+
+2867,1076,easier,Keep knees bent in Chair Pose.
+2868,1076,harder,Lower hips deeper and lift arms higher.
+2869,1076,prop-supported,Use wall behind back.
+
+2870,1077,easier,Keep twist gentle with hands at heart.
+2871,1077,harder,Hook elbow outside knee for deeper twist.
+2872,1077,prop-supported,Use block between thighs.
+
+2873,1078,easier,Keep knees bent and reduce twist.
+2874,1078,harder,Extend arms for deeper rotation.
+2875,1078,prop-supported,Use wall for support.
+
+2876,1079,easier,Keep knees bent and torso upright.
+2877,1079,harder,Lower hips deeper and extend arms.
+2878,1079,prop-supported,Use block under heels.
+
+2879,1080,easier,Keep knees bent and reduce hip opening.
+2880,1080,harder,Deepen squat and open knees wider.
+2881,1080,prop-supported,Use block under hips.
+
+2882,1081,easier,Keep lifted leg lower in Standing Hand‑to‑Big‑Toe Pose.
+2883,1081,harder,Straighten lifted leg fully.
+2884,1081,prop-supported,Use strap around lifted foot.
+
+2885,1082,easier,Keep lifted leg bent.
+2886,1082,harder,Extend leg fully to the side.
+2887,1082,prop-supported,Use wall for balance.
+
+2888,1083,easier,Hold knee instead of foot.
+2889,1083,harder,Extend leg forward fully.
+2890,1083,prop-supported,Use strap around foot.
+
+2891,1084,easier,Keep lifted leg lower and torso upright.
+2892,1084,harder,Extend leg fully and hinge forward.
+2893,1084,harder,Extend leg fully and hinge forward.
+2894,1084,prop-supported,Use wall for balance.
+
+2895,1085,easier,Keep lifted leg bent in Dancer variation.
+2896,1085,harder,Deepen backbend and kick foot into hand.
+2897,1085,prop-supported,Use strap around lifted foot.
+
+2898,1086,easier,Keep knees bent in Eagle Pose.
+2899,1086,harder,Wrap foot fully behind calf.
+2900,1086,prop-supported,Use wall for balance.
+
+2901,1087,easier,Keep arms only in Eagle without leg bind.
+2902,1087,harder,Add full leg wrap.
+2903,1087,prop-supported,Use block under lifted foot.
+
+2904,1088,easier,Keep knees bent and reduce bind.
+2905,1088,harder,Deepen bind and lower hips.
+2906,1088,prop-supported,Use strap for arms.
+
+2907,1089,easier,Keep knees bent in Wide‑Legged Forward Fold.
+2908,1089,harder,Straighten legs fully and deepen fold.
+2909,1089,prop-supported,Use blocks under hands.
+
+2910,1090,easier,Stay upright and reduce fold depth.
+2911,1090,harder,Walk hands forward to deepen stretch.
+2912,1090,prop-supported,Use bolster under torso.
+
+2913,1091,easier,Keep knees bent and reduce hamstring load.
+2914,1091,harder,Straighten legs fully and deepen fold.
+2915,1091,prop-supported,Use bolster under head.
+
+2916,1092,easier,Stay upright and reduce fold depth.
+2917,1092,harder,Deepen fold and extend arms forward.
+2918,1092,prop-supported,Use blocks under hands.
+
+2919,1093,easier,Keep knees bent and reduce stretch.
+2920,1093,harder,Straighten legs fully.
+2921,1093,prop-supported,Use bolster under knees.
+
+2922,1094,easier,Shorten stance and keep back knee down.
+2923,1094,harder,Deepen lunge and lift arms overhead.
+2924,1094,prop-supported,Use blocks under hands.
+
+2925,1095,easier,Keep back knee down and reduce hip opening.
+2926,1095,harder,Deepen lunge and lift chest.
+2927,1095,prop-supported,Use blocks under hands.
+
+2928,1096,easier,Shorten stance and reduce hip opening.
+2929,1096,harder,Deepen lunge and lift arms overhead.
+2930,1096,prop-supported,Use blocks under hands.
+
+2931,1097,easier,Keep back knee down and reduce hip opening.
+2932,1097,harder,Deepen lunge and lift chest.
+2933,1097,prop-supported,Use blocks under hands.
+
+2934,1098,easier,Shorten stance and reduce stretch.
+2935,1098,harder,Deepen lunge and lift arms.
+2936,1098,prop-supported,Use blocks under hands.
+
+2937,1099,easier,Keep knees bent in forward fold.
+2938,1099,harder,Straighten legs fully and deepen fold.
+2939,1099,prop-supported,Use blocks under hands.
+
+2940,1100,easier,Stay upright and reduce fold depth.
+2941,1100,harder,Deepen fold with long spine.
+2942,1100,prop-supported,Use bolster under torso.
+
+2943,1101,easier,Step back slowly with reduced range.
+2944,1101,harder,Add a deeper lunge during transition.
+2945,1101,prop-supported,Use blocks for hand support.
+
+2946,1102,easier,Move through transition with bent knees.
+2947,1102,harder,Straighten legs fully during transition.
+2948,1102,prop-supported,Use wall for balance.
+
+2949,1103,easier,Keep spine neutral during transition.
+2950,1103,harder,Add a twist while stepping through.
+2951,1103,prop-supported,Use blocks under hands.
+
+2952,1104,easier,Step forward with smaller stride.
+2953,1104,harder,Step forward into deep lunge.
+2954,1104,prop-supported,Use wall for stability.
+
+2955,1105,easier,Move slowly with reduced hip opening.
+2956,1105,harder,Add hip rotation during transition.
+2957,1105,prop-supported,Use blocks for support.
+
+2958,1106,easier,Keep knees bent while stepping back.
+2959,1106,harder,Step back into full Warrior stance.
+2960,1106,prop-supported,Use wall for balance.
+
+2961,1107,easier,Transition with minimal spinal movement.
+2962,1107,harder,Add backbend during transition.
+2963,1107,prop-supported,Use blocks under hands.
+
+2964,1108,easier,Step lightly with reduced range.
+2965,1108,harder,Add arm extension during transition.
+2966,1108,prop-supported,Use wall for support.
+
+2967,1109,easier,Keep knees bent and move slowly.
+2968,1109,harder,Add twist while stepping forward.
+2969,1109,prop-supported,Use blocks under hands.
+
+2970,1110,easier,Shorten step length.
+2971,1110,harder,Step into deep lunge with arms overhead.
+2972,1110,prop-supported,Use wall for balance.
+
+2973,1111,easier,Move with bent knees and reduced range.
+2974,1111,harder,Add hip opening during transition.
+2975,1111,prop-supported,Use blocks for support.
+
+2976,1112,easier,Keep spine neutral while stepping back.
+2977,1112,harder,Add backbend during transition.
+2978,1112,prop-supported,Use wall for support.
+
+2979,1113,easier,Step forward with smaller stride.
+2980,1113,harder,Step into deep Warrior stance.
+2981,1113,prop-supported,Use blocks under hands.
+
+2982,1114,easier,Move slowly with reduced hip rotation.
+2983,1114,harder,Add twist during transition.
+2984,1114,prop-supported,Use wall for balance.
+
+2985,1115,easier,Keep knees bent and step lightly.
+2986,1115,harder,Add arm extension during transition.
+2987,1115,prop-supported,Use blocks under hands.
+
+2988,1116,easier,Shorten stance and reduce movement.
+2989,1116,harder,Step into deep lunge with chest lifted.
+2990,1116,prop-supported,Use wall for support.
+
+2991,1117,easier,Move slowly with minimal spinal movement.
+2992,1117,harder,Add twist and arm extension.
+2993,1117,prop-supported,Use blocks under hands.
+
+2994,1118,easier,Keep knees bent during transition.
+2995,1118,harder,Step into full Warrior III.
+2996,1118,prop-supported,Use wall for balance.
+
+2997,1119,easier,Step lightly with reduced hip opening.
+2998,1119,harder,Add hip rotation during transition.
+2999,1119,prop-supported,Use blocks for support.
+
+3000,1120,easier,Move slowly with bent knees.
+3001,1120,harder,Add backbend during transition.
+3002,1120,prop-supported,Use wall for support.
+
+3003,1121,easier,Shorten step length.
+3004,1121,harder,Step into deep lunge with arms overhead.
+3005,1121,prop-supported,Use blocks under hands.
+
+3006,1122,easier,Keep spine neutral while stepping forward.
+3007,1122,harder,Add twist during transition.
+3008,1122,prop-supported,Use wall for balance.
+
+3009,1123,easier,Move slowly with reduced hip opening.
+3010,1123,harder,Add hip rotation during transition.
+3011,1123,prop-supported,Use blocks for support.
+
+3012,1124,easier,Keep knees bent and step lightly.
+3013,1124,harder,Add arm extension during transition.
+3014,1124,prop-supported,Use wall for support.
+
+3015,1125,easier,Shorten stance and reduce movement.
+3016,1125,harder,Step into deep Warrior stance.
+3017,1125,prop-supported,Use blocks under hands.
+
+3018,1126,easier,Move slowly with minimal spinal movement.
+3019,1126,harder,Add twist and chest expansion.
+3020,1126,prop-supported,Use wall for balance.
+
+3021,1127,easier,Keep knees bent during transition.
+3022,1127,harder,Step into full Warrior III.
+3023,1127,prop-supported,Use blocks under hands.
+
+3024,1128,easier,Step lightly with reduced hip opening.
+3025,1128,harder,Add hip rotation during transition.
+3026,1128,prop-supported,Use wall for support.
+
+3027,1129,easier,Move slowly with bent knees.
+3028,1129,harder,Add backbend during transition.
+3029,1129,prop-supported,Use blocks under hands.
+
+3030,1130,easier,Shorten step length.
+3031,1130,harder,Step into deep lunge with arms overhead.
+3032,1130,prop-supported,Use wall for balance.
+
+3033,1131,easier,Keep spine neutral while stepping forward.
+3034,1131,harder,Add twist during transition.
+3035,1131,prop-supported,Use blocks under hands.
+
+3036,1132,easier,Move slowly with reduced hip opening.
+3037,1132,harder,Add hip rotation during transition.
+3038,1132,prop-supported,Use wall for support.
+
+3039,1133,easier,Keep knees bent and step lightly.
+3040,1133,harder,Add arm extension during transition.
+3041,1133,prop-supported,Use blocks under hands.
+
+3042,1134,easier,Shorten stance and reduce movement.
+3043,1134,harder,Step into deep Warrior stance.
+3044,1134,prop-supported,Use wall for balance.
+
+3045,1135,easier,Move slowly with minimal spinal movement.
+3046,1135,harder,Add twist and chest expansion.
+3047,1135,prop-supported,Use blocks under hands.
+
+3048,1136,easier,Keep knees bent during transition.
+3049,1136,harder,Step into full Warrior III.
+3050,1136,prop-supported,Use wall for support.
+
+3051,1137,easier,Step lightly with reduced hip opening.
+3052,1137,harder,Add hip rotation during transition.
+3053,1137,prop-supported,Use blocks under hands.
+
+3054,1138,easier,Move slowly with bent knees.
+3055,1138,harder,Add backbend during transition.
+3056,1138,prop-supported,Use wall for support.
+
+3057,1139,easier,Shorten step length.
+3058,1139,harder,Step into deep lunge with arms overhead.
+3059,1139,prop-supported,Use blocks under hands.
+
+3060,1140,easier,Keep spine neutral while stepping forward.
+3061,1140,harder,Add twist during transition.
+3062,1140,prop-supported,Use wall for balance.
+
+3063,1141,easier,Move slowly with reduced hip opening.
+3064,1141,harder,Add hip rotation during transition.
+3065,1141,prop-supported,Use blocks under hands.
+
+3066,1142,easier,Keep knees bent and step lightly.
+3067,1142,harder,Add arm extension during transition.
+3068,1142,prop-supported,Use wall for support.
+
+3069,1143,easier,Shorten stance and reduce movement.
+3070,1143,harder,Step into deep Warrior stance.
+3071,1143,prop-supported,Use blocks under hands.
+
+3072,1144,easier,Move slowly with minimal spinal movement.
+3073,1144,harder,Add twist and chest expansion.
+3074,1144,prop-supported,Use wall for balance.
+
+3075,1145,easier,Keep knees bent during transition.
+3076,1145,harder,Step into full Warrior III.
+3077,1145,prop-supported,Use blocks under hands.
+
+3078,1146,easier,Step lightly with reduced hip opening.
+3079,1146,harder,Add hip rotation during transition.
+3080,1146,prop-supported,Use wall for support.
+
+3081,1147,easier,Move slowly with bent knees.
+3082,1147,harder,Add backbend during transition.
+3083,1147,prop-supported,Use blocks under hands.
+
+3084,1148,easier,Shorten step length.
+3085,1148,harder,Step into deep lunge with arms overhead.
+3086,1148,prop-supported,Use wall for balance.
+
+3087,1149,easier,Keep spine neutral while stepping forward.
+3088,1149,harder,Add twist during transition.
+3089,1149,prop-supported,Use blocks under hands.
+
+3090,1150,easier,Move slowly with reduced hip opening.
+3091,1150,harder,Add hip rotation during transition.
+3092,1150,prop-supported,Use wall for support.

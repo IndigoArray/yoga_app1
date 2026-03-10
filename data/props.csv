@@ -102,3 +102,435 @@ pose_id,prop,usage
 
 140,Block,"Under bottom hand for twist support"
 140,Wall,"Back heel against wall for stability"
+
+201,Block,Grounding
+201,Block,Hip Opening
+
+202,Cushion,Grounding
+
+203,Block,Hip Opening
+
+204,Cushion,Grounding
+
+205,Cushion,Hip Opening
+
+206,Cushion,Hip Opening
+
+207,Block,Hip Opening
+207,Block,Forward Fold Prep
+
+208,Block,Hamstring Stretch
+
+209,Strap,Hamstring Stretch
+
+210,Strap,Hamstring Stretch
+
+211,None,Shoulder Mobility
+
+212,None,Spinal Mobility
+
+213,Strap,Hamstring Stretch
+
+214,Strap,Spinal Mobility
+
+215,Strap,Shoulder Mobility
+
+216,Block,Hip Opening
+
+217,Block,Hip Opening
+
+218,None,Grounding
+
+219,Block,Hip Opening
+
+220,Strap,Hamstring Stretch
+
+221,None,Spinal Mobility
+
+222,Strap,Shoulder Mobility
+
+223,None,Core Activation
+
+224,None,Core Activation
+
+225,None,Core Activation
+
+226,None,Hip Opening
+
+227,None,Hip Opening
+
+228,None,Core Strengthening
+
+229,None,Core Strengthening
+
+230,None,Core Strengthening
+
+231,None,Spinal Mobility
+
+232,None,Spinal Mobility
+
+233,Block,Hamstring Stretch
+
+234,Block,Hip Opening
+
+235,Cushion,Grounding
+
+301,Block,Hamstring Stretch
+301,Block,Calming
+301,Block,Lower Back Release
+
+302,None,Hamstring Stretch
+302,None,Calming
+
+303,Block,Hamstring Stretch
+
+304,Strap,Hamstring Stretch
+304,Strap,Lower Back Release
+
+305,Strap,Hamstring Stretch
+305,Strap,Lower Back Release
+
+306,Block,Hamstring Stretch
+
+307,None,Hamstring Stretch
+
+308,Block,Hamstring Stretch
+308,Block,Lower Back Release
+
+309,Block,Hamstring Stretch
+
+310,Strap,Shoulder Stretch
+
+311,None,Spinal Mobility
+
+312,Block,Hamstring Stretch
+
+313,None,Calming
+
+314,None,Calming
+
+315,Wall,Calming
+
+316,Chair,Accessible Forward Fold
+
+317,Strap,Hamstring Stretch
+
+318,Block,Hamstring Stretch
+
+319,None,Hip Opening
+
+320,None,Hip Opening
+
+321,None,Spinal Mobility
+
+322,Block,Hamstring Stretch
+
+323,Block,Calming
+
+324,Bolster,Restorative Forward Fold
+
+325,None,Calming
+301,Block,Hamstring Stretch
+301,Block,Calming
+301,Block,Lower Back Release
+
+302,None,Hamstring Stretch
+302,None,Calming
+
+303,Block,Hamstring Stretch
+
+304,Strap,Hamstring Stretch
+304,Strap,Lower Back Release
+
+305,Strap,Hamstring Stretch
+305,Strap,Lower Back Release
+
+306,Block,Hamstring Stretch
+
+307,None,Hamstring Stretch
+
+308,Block,Hamstring Stretch
+308,Block,Lower Back Release
+
+309,Block,Hamstring Stretch
+
+310,Strap,Shoulder Stretch
+
+311,None,Spinal Mobility
+
+312,Block,Hamstring Stretch
+
+313,None,Calming
+
+314,None,Calming
+
+315,Wall,Calming
+
+316,Chair,Accessible Forward Fold
+
+317,Strap,Hamstring Stretch
+
+318,Block,Hamstring Stretch
+
+319,None,Hip Opening
+
+320,None,Hip Opening
+
+321,None,Spinal Mobility
+
+322,Block,Hamstring Stretch
+
+323,Block,Calming
+
+324,Bolster,Restorative Forward Fold
+
+325,None,Calming
+501,None,Spinal Twist
+501,None,Detox Sequence
+
+502,None,Spinal Twist
+
+503,Block,Standing Twist
+
+504,Block,Deep Twist
+
+505,None,Standing Twist
+
+506,None,Balancing Twist
+
+507,None,Gentle Twist
+
+508,None,Gentle Twist
+
+509,Block,Seated Twist
+
+510,None,Seated Twist
+
+511,None,Deep Twist
+
+512,None,Gentle Twist
+
+513,Block,Lunge Twist
+
+514,None,Forward Fold Twist
+
+515,None,Wide-Legged Twist
+
+516,None,Side Bend + Twist
+
+517,None,Gentle Seated Twist
+
+518,None,Core Twist
+
+519,None,Seated Twist
+
+520,None,Resting Twist
+601,Block,Hip Opening
+601,Block,Restorative
+
+602,Block,Deep Hip Opening
+
+603,Block,Hip Opening
+
+604,None,Gentle Hip Opening
+
+605,Blocks,Hip Flexor Stretch
+
+606,Bolster,Deep Yin Hip Opening
+
+607,Strap,Quad Stretch
+
+608,Strap,Hip Opening
+
+609,Block,Deep Squat
+
+610,Block,Hamstring + Hip Opening
+
+611,None,Gentle Hip Opening
+
+612,Block,Hip Flexor Stretch
+
+613,Block,Hip Flexor Stretch
+
+614,None,Standing Hip Opening
+
+615,None,Strengthening Hip Opener
+
+616,None,Lateral Hip Opening
+
+617,Blocks,Hamstring + Hip Opening
+
+618,Blocks,Advanced Hip Opening
+
+619,Block,Butterfly Fold
+
+620,None,Twisting Hip Opener
+
+621,Chair,Balancing Hip Opener
+
+622,Bolster,Restorative Hip Opening
+
+623,Chair,Balancing Hip Opener
+
+624,Block,Pigeon Twist
+
+625,Block,Deep Lizard Twist
+701,None,Arm Balance
+701,None,Core Strengthening
+
+702,None,Arm Balance
+
+703,None,Twisting Arm Balance
+
+704,None,Advanced Arm Balance
+
+705,None,Advanced Arm Balance
+
+706,None,Arm Balance Prep
+
+707,None,Advanced Arm Balance
+
+708,None,Side Balance
+
+709,None,Side Balance Variation
+
+710,None,Side Balance Strengthening
+
+711,None,Advanced Arm Balance
+
+712,None,Core Strengthening
+
+713,None,Strengthening
+
+714,None,Strengthening
+
+715,Wall,Handstand Prep
+
+716,Wall,Handstand Prep
+
+717,Wall,Handstand
+
+718,Wall,Forearm Stand
+
+719,Wall,Forearm Stand Prep
+
+720,Blocks,Seated Arm Balance
+801,Wall,Restorative Inversion
+
+802,Blanket,Supported Inversion
+
+803,Blanket,Inversion
+
+804,Blanket,Forward Fold Inversion
+
+805,Blanket,Deep Inversion
+
+806,Blanket,Restorative Inversion
+
+807,Wall,Headstand Prep
+
+808,Wall,Tripod Prep
+
+809,Wall,Headstand
+
+810,Wall,Tripod Headstand
+
+811,Wall,Forearm Stand
+
+812,Wall,Forearm Stand Prep
+
+813,Wall,Handstand Prep
+
+814,Wall,Handstand Variation
+
+815,Wall,Handstand
+
+816,Blanket,Shoulderstand Variation
+
+817,Blanket,Shoulderstand Variation
+
+818,Blanket,Gentle Plow Variation
+
+819,Bolster,Restorative Inversion
+
+820,None,Shoulder Strengthening
+901,Bolster,Restorative
+902,None,Gentle Twist
+903,Strap,Hamstring Stretch
+904,None,Hip Opening
+905,None,Lower Back Release
+906,None,Lower Back Release
+907,Bolster,Restorative
+908,Block,Backbend Prep
+909,Block,Backbend Prep
+910,None,Deep Twist
+911,None,Side Stretch
+912,None,Core Activation
+913,None,Lumbar Mobility
+914,None,Hip Mobility
+915,None,Relaxation
+916,None,Gentle Backbend
+917,None,Back Strengthening
+918,None,Shoulder Stretch
+919,None,Quad Stretch
+920,None,Resting Pose
+921,None,Resting Pose
+922,None,Resting Pose
+923,None,Shoulder Twist
+924,None,Gentle Backbend
+925,None,Backbend (Yin)
+926,None,Hip Mobility
+927,None,Hamstring Strengthening
+928,Strap,Chest Opening
+929,None,Gentle Backbend Flow
+930,None,Resting Pose
+1001,Bolster,Restorative
+1002,Bolster,Restorative
+1003,Bolster,Restorative Forward Fold
+1004,Bolster,Restorative Forward Fold
+1005,Block,Restorative Backbend
+1006,Bolster,Chest Opening
+1007,Bolster,Restorative Hip Opening
+1008,Bolster,Restorative Twist
+1009,Chair,Restorative Inversion
+1010,Wall,Restorative Inversion
+1011,Bolster,Deep Relaxation
+1012,Bolster,Side Stretch
+1013,Bolster,Restorative Twist
+1014,Bolster,Chest Opening
+1015,Bolster,Hip Opening
+1016,Bolster,Hip Opening
+1017,Bolster,Forward Fold (Yin)
+1018,Bolster,Hip Flexor Stretch
+1019,Bolster,Gentle Backbend
+1020,Bolster,Deep Relaxation
+1021,Bolster,Hip Opening
+1022,Bolster,Hip Opening
+1023,Strap,Gentle Twist
+1024,Strap,Hamstring Stretch
+1025,Bolster,Side Stretch
+1026,Bolster,Wide-Leg Forward Fold
+1027,Bolster,Restorative Twist
+1028,Bolster,Prone Rest
+1029,Bolster,Lower Back Release
+1030,Bolster,Deep Relaxation
+1101,None,Transition
+1102,None,Transition
+1103,None,Transition
+1104,None,Strengthening
+1105,None,Strengthening
+1106,None,Backbend Transition
+1107,None,Transition
+1108,None,Transition
+1109,None,Spinal Mobility
+1110,None,Spinal Mobility
+1111,None,Resting Transition
+1112,None,Standing Transition
+1113,None,Standing Transition
+1114,None,Standing Transition
+1115,None,Balance Transition
+1116,None,Lunge Transition
+1117,None,Lunge Transition
+1118,None,Step Transition
+1119,None,Step Transition
+1120,None,Relaxation Transition

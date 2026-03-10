@@ -1,41 +1,1265 @@
-pose_id,prep_pose,counter_pose
-101,Standing Cat-Cow,Standing Forward Fold
-102,Mountain Pose,Standing Side Bend
-103,Half Forward Fold,Mountain Pose
-104,Mountain Pose,Standing Backbend
-105,Standing March,Standing Forward Fold
-106,Low Lunge,Standing Forward Fold
-107,Warrior I,Reverse Warrior
-108,High Lunge,Standing Forward Fold
-109,Warrior II,Triangle Pose
-110,Warrior II,Reverse Warrior
-111,Warrior II,Extended Side Angle
-112,Wide-Legged Stance,Standing Backbend
-113,Standing Forward Fold,Low Lunge
-114,Mountain Pose,Eagle Pose Release
-115,Mountain Pose,Standing Forward Fold
-116,Low Lunge,Standing Forward Fold
-117,Standing Knee to Chest,Standing Forward Fold
-118,Standing March,Low Lunge
-119,Cat-Cow,Half Split
-120,Wide-Legged Stance,Standing Forward Fold
-121,Mountain Pose,Standing Side Bend
-122,Wide-Legged Stance,Low Lunge
-123,Mountain Pose,Standing Forward Fold
-124,Mountain Pose,Standing Backbend
-125,Mountain Pose,Standing Forward Fold
-126,Chair Pose,Standing Forward Fold
-127,Mountain Pose,Standing Forward Fold
-128,Standing March,Standing Forward Fold
-129,Standing March,Standing Quad Stretch Release
-130,Standing March,Standing Forward Fold
-131,Standing March,Standing Forward Fold
-132,Mountain Pose,Standing Chest Opener
-133,Standing Wrist Stretch,Standing Forward Fold
-134,Mountain Pose,Standing Wrist Stretch Release
-135,Standing March,Standing Forward Fold
-136,Standing March,Standing Calf Stretch Release
-137,Mountain Pose,Standing Side Bend
-138,Mountain Pose,Standing Chest Opener
-139,Mountain Pose,Standing Forward Fold
-140,High Lunge,Standing Forward Fold
+pose_id,sequencing_role,prep_pose,counter_pose
+101,warm_up,Standing Cat-Cow,Standing Forward Fold
+101,transition,Standing Cat-Cow,Standing Forward Fold
+
+102,warm_up,Mountain Pose,Standing Side Bend
+102,transition,Mountain Pose,Standing Side Bend
+
+103,peak,Half Forward Fold,Mountain Pose
+103,warm_up,Half Forward Fold,Mountain Pose
+
+104,transition,Mountain Pose,Standing Backbend
+104,warm_up,Mountain Pose,Standing Backbend
+
+105,warm_up,Standing March,Standing Forward Fold
+
+106,warm_up,Low Lunge,Standing Forward Fold
+
+107,peak,Warrior I,Reverse Warrior
+
+108,peak,High Lunge,Standing Forward Fold
+
+109,warm_up,Warrior II,Triangle Pose
+109,peak,Warrior II,Triangle Pose
+
+110,warm_up,Warrior II,Reverse Warrior
+
+111,peak,Warrior II,Extended Side Angle
+111,warm_up,Warrior II,Extended Side Angle
+
+112,warm_up,Wide-Legged Stance,Standing Backbend
+
+113,peak,Standing Forward Fold,Low Lunge
+113,warm_up,Standing Forward Fold,Low Lunge
+
+114,warm_up,Mountain Pose,Eagle Pose Release
+
+115,peak,Mountain Pose,Standing Forward Fold
+115,warm_up,Mountain Pose,Standing Forward Fold
+
+116,warm_up,Low Lunge,Standing Forward Fold
+
+117,peak,Standing Knee to Chest,Standing Forward Fold
+117,warm_up,Standing Knee to Chest,Standing Forward Fold
+
+118,warm_up,Standing March,Low Lunge
+
+119,warm_up,Cat-Cow,Half Split
+
+120,warm_up,Wide-Legged Stance,Standing Forward Fold
+
+121,warm_up,Mountain Pose,Standing Side Bend
+
+122,warm_up,Wide-Legged Stance,Low Lunge
+
+123,warm_up,Mountain Pose,Standing Forward Fold
+
+124,warm_up,Mountain Pose,Standing Backbend
+
+125,warm_up,Mountain Pose,Standing Forward Fold
+
+126,warm_up,Chair Pose,Standing Forward Fold
+
+127,warm_up,Mountain Pose,Standing Forward Fold
+
+128,warm_up,Standing March,Standing Forward Fold
+
+129,warm_up,Standing March,Standing Quad Stretch Release
+
+130,warm_up,Standing March,Standing Forward Fold
+
+131,warm_up,Standing March,Standing Forward Fold
+
+132,warm_up,Mountain Pose,Standing Chest Opener
+
+133,warm_up,Standing Wrist Stretch,Standing Forward Fold
+
+134,warm_up,Mountain Pose,Standing Wrist Stretch Release
+
+135,warm_up,Standing March,Standing Forward Fold
+
+136,warm_up,Standing March,Standing Calf Stretch Release
+
+137,warm_up,Mountain Pose,Standing Side Bend
+
+138,warm_up,Mountain Pose,Standing Chest Opener
+
+139,warm_up,Mountain Pose,Standing Forward Fold
+
+140,warm_up,High Lunge,Standing Forward Fold
+141,warm_up,Mountain Pose,Standing Forward Fold
+142,warm_up,Standing March,Standing Side Bend
+143,warm_up,Mountain Pose,Standing Chest Opener
+144,warm_up,Standing Wrist Stretch,Standing Forward Fold
+145,warm_up,Standing March,Standing Quad Stretch Release
+146,warm_up,Standing March,Standing Forward Fold
+147,warm_up,Mountain Pose,Standing Backbend
+148,warm_up,Mountain Pose,Standing Forward Fold
+149,warm_up,Standing March,Standing Forward Fold
+150,warm_up,Standing March,Standing Calf Stretch Release
+151,warm_up,Mountain Pose,Standing Side Bend
+152,warm_up,Mountain Pose,Standing Chest Opener
+153,warm_up,Mountain Pose,Standing Forward Fold
+154,warm_up,High Lunge,Standing Forward Fold
+155,warm_up,Standing March,Standing Forward Fold
+156,warm_up,Standing March,Standing Forward Fold
+157,warm_up,Mountain Pose,Standing Chest Opener
+158,warm_up,Standing Wrist Stretch,Standing Forward Fold
+159,warm_up,Standing March,Standing Forward Fold
+160,warm_up,Standing March,Standing Forward Fold
+161,warm_up,Mountain Pose,Standing Forward Fold
+162,warm_up,Standing March,Standing Side Bend
+163,warm_up,Mountain Pose,Standing Chest Opener
+164,warm_up,Standing Wrist Stretch,Standing Forward Fold
+165,warm_up,Standing March,Standing Quad Stretch Release
+166,warm_up,Standing March,Standing Forward Fold
+167,warm_up,Mountain Pose,Standing Backbend
+168,warm_up,Mountain Pose,Standing Forward Fold
+169,warm_up,Standing March,Standing Forward Fold
+170,warm_up,Standing March,Standing Calf Stretch Release
+171,warm_up,Mountain Pose,Standing Side Bend
+172,warm_up,Mountain Pose,Standing Chest Opener
+173,warm_up,Mountain Pose,Standing Forward Fold
+174,warm_up,High Lunge,Standing Forward Fold
+175,warm_up,Standing March,Standing Forward Fold
+176,warm_up,Standing March,Standing Forward Fold
+177,warm_up,Mountain Pose,Standing Chest Opener
+178,warm_up,Standing Wrist Stretch,Standing Forward Fold
+179,warm_up,Standing March,Standing Forward Fold
+180,warm_up,Standing March,Standing Forward Fold
+
+181,warm_up,Mountain Pose,Standing Forward Fold
+182,warm_up,Standing March,Standing Side Bend
+183,warm_up,Mountain Pose,Standing Chest Opener
+184,warm_up,Standing Wrist Stretch,Standing Forward Fold
+185,warm_up,Standing March,Standing Quad Stretch Release
+186,warm_up,Standing March,Standing Forward Fold
+187,warm_up,Mountain Pose,Standing Backbend
+188,warm_up,Mountain Pose,Standing Forward Fold
+189,warm_up,Standing March,Standing Forward Fold
+190,warm_up,Standing March,Standing Calf Stretch Release
+191,warm_up,Mountain Pose,Standing Side Bend
+192,warm_up,Mountain Pose,Standing Chest Opener
+193,warm_up,Mountain Pose,Standing Forward Fold
+194,warm_up,High Lunge,Standing Forward Fold
+195,warm_up,Standing March,Standing Forward Fold
+196,warm_up,Standing March,Standing Forward Fold
+197,warm_up,Mountain Pose,Standing Chest Opener
+198,warm_up,Standing Wrist Stretch,Standing Forward Fold
+199,warm_up,Standing March,Standing Forward Fold
+200,warm_up,Standing March,Standing Forward Fold
+201,warm_up,Easy Seat,Seated Forward Fold
+201,cool_down,Butterfly Pose,Reclined Twist
+
+202,warm_up,Easy Seat,Seated Side Bend
+202,cool_down,Butterfly Pose,Reclined Twist
+
+203,warm_up,Easy Seat,Seated Forward Fold
+203,cool_down,Butterfly Pose,Reclined Twist
+
+204,warm_up,Easy Seat,Seated Side Bend
+
+205,warm_up,Easy Seat,Seated Forward Fold
+205,cool_down,Butterfly Pose,Reclined Twist
+
+206,warm_up,Easy Seat,Seated Forward Fold
+
+207,warm_up,Seated Cat-Cow,Reclined Twist
+207,cool_down,Butterfly Pose,Reclined Twist
+
+208,warm_up,Seated Cat-Cow,Reclined Twist
+
+209,warm_up,Seated Cat-Cow,Reclined Twist
+
+210,warm_up,Seated Cat-Cow,Reclined Twist
+
+211,warm_up,Shoulder Rolls,Seated Forward Fold
+
+212,warm_up,Easy Seat,Reclined Twist
+
+213,warm_up,Seated Cat-Cow,Reclined Twist
+213,cool_down,Butterfly Pose,Reclined Twist
+
+214,warm_up,Easy Seat,Reclined Twist
+
+215,warm_up,Shoulder Rolls,Seated Forward Fold
+
+216,warm_up,Easy Seat,Seated Forward Fold
+
+217,warm_up,Easy Seat,Seated Forward Fold
+
+218,warm_up,Easy Seat,Seated Forward Fold
+
+219,warm_up,Easy Seat,Seated Forward Fold
+
+220,warm_up,Seated Cat-Cow,Reclined Twist
+
+221,warm_up,Easy Seat,Reclined Twist
+
+222,warm_up,Shoulder Rolls,Seated Forward Fold
+
+223,peak,Boat Pose,Reclined Twist
+
+224,peak,Boat Pose,Reclined Twist
+
+225,peak,Boat Pose,Reclined Twist
+
+226,warm_up,Easy Seat,Seated Forward Fold
+
+227,warm_up,Easy Seat,Seated Forward Fold
+
+228,peak,Boat Pose,Reclined Twist
+
+229,peak,Boat Pose,Reclined Twist
+
+230,peak,Boat Pose,Reclined Twist
+
+231,warm_up,Easy Seat,Reclined Twist
+
+232,warm_up,Easy Seat,Reclined Twist
+
+233,warm_up,Seated Cat-Cow,Reclined Twist
+
+234,warm_up,Easy Seat,Seated Forward Fold
+
+235,warm_up,Easy Seat,Reclined Twist
+235,cool_down,Butterfly Pose,Reclined Twist
+236,warm_up,Seated Cat-Cow,Reclined Twist
+237,warm_up,Seated Cat-Cow,Reclined Twist
+238,warm_up,Easy Seat,Seated Forward Fold
+239,warm_up,Easy Seat,Reclined Twist
+240,warm_up,Seated Cat-Cow,Reclined Twist
+241,warm_up,Easy Seat,Seated Forward Fold
+242,warm_up,Easy Seat,Reclined Twist
+243,warm_up,Easy Seat,Seated Forward Fold
+244,warm_up,Easy Seat,Reclined Twist
+245,warm_up,Seated Cat-Cow,Reclined Twist
+246,warm_up,Easy Seat,Seated Forward Fold
+247,warm_up,Easy Seat,Reclined Twist
+248,warm_up,Seated Cat-Cow,Reclined Twist
+249,warm_up,Easy Seat,Seated Forward Fold
+250,warm_up,Easy Seat,Reclined Twist
+251,warm_up,Seated Cat-Cow,Reclined Twist
+252,warm_up,Easy Seat,Seated Forward Fold
+253,warm_up,Easy Seat,Reclined Twist
+254,warm_up,Seated Cat-Cow,Reclined Twist
+255,warm_up,Easy Seat,Seated Forward Fold
+256,warm_up,Easy Seat,Reclined Twist
+257,warm_up,Seated Cat-Cow,Reclined Twist
+258,warm_up,Easy Seat,Seated Forward Fold
+259,warm_up,Easy Seat,Reclined Twist
+260,warm_up,Seated Cat-Cow,Reclined Twist
+261,warm_up,Standing Forward Fold,Sphinx Pose
+262,warm_up,Half Forward Fold,Sphinx Pose
+263,warm_up,Standing Forward Fold,Cobra Pose
+264,warm_up,Half Forward Fold,Cobra Pose
+265,warm_up,Standing Forward Fold,Bridge Pose
+266,warm_up,Half Forward Fold,Bridge Pose
+267,warm_up,Standing Forward Fold,Sphinx Pose
+268,warm_up,Half Forward Fold,Sphinx Pose
+269,warm_up,Standing Forward Fold,Cobra Pose
+270,warm_up,Half Forward Fold,Cobra Pose
+
+271,peak,Low Lunge,Camel Pose
+272,peak,Low Lunge,Camel Pose
+273,peak,Locust Pose,Child’s Pose
+274,peak,Locust Pose,Child’s Pose
+275,peak,Bridge Pose,Seated Forward Fold
+276,peak,Bridge Pose,Seated Forward Fold
+277,peak,Cobra Pose,Child’s Pose
+278,peak,Cobra Pose,Child’s Pose
+279,peak,Sphinx Pose,Child’s Pose
+280,peak,Sphinx Pose,Child’s Pose
+281,warm_up,Seated Cat-Cow,Seated Side Bend
+282,warm_up,Easy Seat,Seated Forward Fold
+283,warm_up,Easy Seat,Reclined Twist
+284,warm_up,Seated Cat-Cow,Seated Side Bend
+285,warm_up,Easy Seat,Reclined Twist
+286,warm_up,Seated Cat-Cow,Seated Side Bend
+287,warm_up,Easy Seat,Reclined Twist
+288,warm_up,Seated Cat-Cow,Seated Side Bend
+289,warm_up,Easy Seat,Reclined Twist
+290,warm_up,Seated Cat-Cow,Seated Side Bend
+
+291,peak,Lunge Twist,Child’s Pose
+292,peak,Lunge Twist,Child’s Pose
+293,peak,Revolved Chair,Standing Forward Fold
+294,peak,Revolved Chair,Standing Forward Fold
+295,peak,Revolved Triangle,Standing Forward Fold
+296,peak,Revolved Triangle,Standing Forward Fold
+297,peak,Revolved Side Angle,Child’s Pose
+298,peak,Revolved Side Angle,Child’s Pose
+299,peak,Reclined Twist,Bridge Pose
+300,peak,Reclined Twist,Bridge Pose
+281,warm_up,Seated Cat-Cow,Seated Side Bend
+282,warm_up,Easy Seat,Seated Forward Fold
+283,warm_up,Easy Seat,Reclined Twist
+284,warm_up,Seated Cat-Cow,Seated Side Bend
+285,warm_up,Easy Seat,Reclined Twist
+286,warm_up,Seated Cat-Cow,Seated Side Bend
+287,warm_up,Easy Seat,Reclined Twist
+288,warm_up,Seated Cat-Cow,Seated Side Bend
+289,warm_up,Easy Seat,Reclined Twist
+290,warm_up,Seated Cat-Cow,Seated Side Bend
+
+291,peak,Lunge Twist,Child’s Pose
+292,peak,Lunge Twist,Child’s Pose
+293,peak,Revolved Chair,Standing Forward Fold
+294,peak,Revolved Chair,Standing Forward Fold
+295,peak,Revolved Triangle,Standing Forward Fold
+296,peak,Revolved Triangle,Standing Forward Fold
+297,peak,Revolved Side Angle,Child’s Pose
+298,peak,Revolved Side Angle,Child’s Pose
+299,peak,Reclined Twist,Bridge Pose
+300,peak,Reclined Twist,Bridge Pose
+301,warm_up,Standing Forward Fold,Sphinx Pose
+301,cool_down,Seated Forward Fold,Reclined Twist
+
+302,warm_up,Half Forward Fold,Sphinx Pose
+302,cool_down,Seated Forward Fold,Reclined Twist
+
+303,warm_up,Standing Forward Fold,Cobra Pose
+303,cool_down,Seated Forward Fold,Reclined Twist
+
+304,warm_up,Half Forward Fold,Cobra Pose
+304,cool_down,Seated Forward Fold,Reclined Twist
+
+305,warm_up,Standing Forward Fold,Bridge Pose
+305,cool_down,Seated Forward Fold,Reclined Twist
+
+306,warm_up,Standing Forward Fold,Sphinx Pose
+306,cool_down,Seated Forward Fold,Reclined Twist
+
+307,warm_up,Standing Forward Fold,Cobra Pose
+307,cool_down,Seated Forward Fold,Reclined Twist
+
+308,warm_up,Half Forward Fold,Sphinx Pose
+308,cool_down,Seated Forward Fold,Reclined Twist
+
+309,warm_up,Standing Forward Fold,Cobra Pose
+309,cool_down,Seated Forward Fold,Reclined Twist
+
+310,warm_up,Mountain Pose,Standing Backbend
+
+311,warm_up,Easy Seat,Reclined Twist
+
+312,warm_up,Standing Forward Fold,Sphinx Pose
+312,cool_down,Seated Forward Fold,Reclined Twist
+
+313,cool_down,Seated Forward Fold,Reclined Twist
+
+314,cool_down,Seated Forward Fold,Reclined Twist
+
+315,cool_down,Seated Forward Fold,Reclined Twist
+
+316,warm_up,Standing Forward Fold,Sphinx Pose
+316,cool_down,Seated Forward Fold,Reclined Twist
+
+317,warm_up,Standing Forward Fold,Cobra Pose
+317,cool_down,Seated Forward Fold,Reclined Twist
+
+318,warm_up,Standing Forward Fold,Sphinx Pose
+318,cool_down,Seated Forward Fold,Reclined Twist
+
+319,warm_up,Easy Seat,Reclined Twist
+
+320,warm_up,Easy Seat,Reclined Twist
+
+321,warm_up,Easy Seat,Seated Side Bend
+
+322,warm_up,Standing Forward Fold,Sphinx Pose
+322,cool_down,Seated Forward Fold,Reclined Twist
+
+323,cool_down,Seated Forward Fold,Reclined Twist
+
+324,cool_down,Seated Forward Fold,Reclined Twist
+
+325,cool_down,Seated Forward Fold,Reclined Twist
+
+326,warm_up,Cat-Cow,Low Lunge
+327,warm_up,Cat-Cow,Low Lunge
+328,warm_up,Cat-Cow,Low Lunge
+329,warm_up,Cat-Cow,Low Lunge
+330,warm_up,Cat-Cow,Low Lunge
+
+331,warm_up,Low Lunge,Half Split
+332,warm_up,Low Lunge,Half Split
+333,warm_up,Low Lunge,Half Split
+334,warm_up,Low Lunge,Half Split
+335,warm_up,Low Lunge,Half Split
+
+336,warm_up,Cat-Cow,Reclined Twist
+337,warm_up,Cat-Cow,Reclined Twist
+338,warm_up,Cat-Cow,Reclined Twist
+339,warm_up,Cat-Cow,Reclined Twist
+340,warm_up,Cat-Cow,Reclined Twist
+
+341,peak,Pigeon Prep,Reclined Twist
+342,peak,Pigeon Prep,Reclined Twist
+343,peak,Pigeon Prep,Reclined Twist
+344,peak,Pigeon Prep,Reclined Twist
+345,peak,Pigeon Prep,Reclined Twist
+
+346,peak,Lizard Pose,Half Split
+347,peak,Lizard Pose,Half Split
+348,peak,Lizard Pose,Half Split
+349,peak,Lizard Pose,Half Split
+350,peak,Lizard Pose,Half Split
+351,peak,Plank Pose,Child’s Pose
+352,peak,Plank Pose,Child’s Pose
+353,peak,Plank Pose,Child’s Pose
+354,peak,Plank Pose,Child’s Pose
+355,peak,Plank Pose,Child’s Pose
+
+356,peak,Downward Dog,Child’s Pose
+357,peak,Downward Dog,Child’s Pose
+358,peak,Downward Dog,Child’s Pose
+359,peak,Downward Dog,Child’s Pose
+360,peak,Downward Dog,Child’s Pose
+
+361,peak,Dolphin Pose,Sphinx Pose
+362,peak,Dolphin Pose,Sphinx Pose
+363,peak,Dolphin Pose,Sphinx Pose
+364,peak,Dolphin Pose,Sphinx Pose
+365,peak,Dolphin Pose,Sphinx Pose
+
+366,peak,Forearm Plank,Child’s Pose
+367,peak,Forearm Plank,Child’s Pose
+368,peak,Forearm Plank,Child’s Pose
+369,peak,Forearm Plank,Child’s Pose
+370,peak,Forearm Plank,Child’s Pose
+
+371,peak,Low Lunge,Half Split
+372,peak,Low Lunge,Half Split
+373,peak,Low Lunge,Half Split
+374,peak,Low Lunge,Half Split
+375,peak,Low Lunge,Half Split
+
+376,peak,Cat-Cow,Reclined Twist
+377,peak,Cat-Cow,Reclined Twist
+378,peak,Cat-Cow,Reclined Twist
+379,peak,Cat-Cow,Reclined Twist
+380,peak,Cat-Cow,Reclined Twist
+
+381,peak,Downward Dog,Child’s Pose
+382,peak,Downward Dog,Child’s Pose
+383,peak,Downward Dog,Child’s Pose
+384,peak,Downward Dog,Child’s Pose
+385,peak,Downward Dog,Child’s Pose
+
+386,peak,Dolphin Pose,Sphinx Pose
+387,peak,Dolphin Pose,Sphinx Pose
+388,peak,Dolphin Pose,Sphinx Pose
+389,peak,Dolphin Pose,Sphinx Pose
+390,peak,Dolphin Pose,Sphinx Pose
+
+391,peak,Forearm Stand Prep,Child’s Pose
+392,peak,Forearm Stand Prep,Child’s Pose
+393,peak,Forearm Stand Prep,Child’s Pose
+394,peak,Forearm Stand Prep,Child’s Pose
+395,peak,Forearm Stand Prep,Child’s Pose
+
+396,peak,Handstand Prep,Standing Forward Fold
+397,peak,Handstand Prep,Standing Forward Fold
+398,peak,Handstand Prep,Standing Forward Fold
+399,peak,Handstand Prep,Standing Forward Fold
+400,peak,Handstand Prep,Standing Forward Fold
+401,peak,Low Lunge,Child’s Pose
+402,peak,Low Lunge,Seated Forward Fold
+403,warm_up,Sphinx Pose,Child’s Pose
+404,warm_up,Sphinx Pose,Child’s Pose
+405,peak,Low Lunge,Half Split
+406,warm_up,Cat-Cow,Child’s Pose
+407,peak,Low Lunge,Seated Forward Fold
+408,warm_up,Sphinx Pose,Child’s Pose
+409,warm_up,Sphinx Pose,Child’s Pose
+410,peak,Low Lunge,Child’s Pose
+411,peak,Low Lunge,Child’s Pose
+412,warm_up,Shoulder Rolls,Seated Forward Fold
+413,warm_up,Shoulder Rolls,Seated Forward Fold
+414,warm_up,Sphinx Pose,Child’s Pose
+415,peak,Low Lunge,Seated Forward Fold
+416,peak,Low Lunge,Seated Forward Fold
+417,peak,Low Lunge,Seated Forward Fold
+418,warm_up,Quad Stretch,Half Split
+419,warm_up,Shoulder Rolls,Seated Forward Fold
+420,warm_up,Shoulder Rolls,Seated Forward Fold
+421,warm_up,Sphinx Pose,Child’s Pose
+422,warm_up,Sphinx Pose,Child’s Pose
+423,warm_up,Neck Rolls,Neck Release
+424,warm_up,Sphinx Pose,Child’s Pose
+425,warm_up,Shoulder Rolls,Seated Forward Fold
+426,peak,Low Lunge,Seated Forward Fold
+427,peak,Low Lunge,Seated Forward Fold
+428,peak,Low Lunge,Seated Forward Fold
+429,peak,Low Lunge,Seated Forward Fold
+430,cool_down,Supported Fish,Child’s Pose
+
+431,warm_up,Cat-Cow,Reclined Twist
+432,warm_up,Cat-Cow,Reclined Twist
+433,warm_up,Cat-Cow,Reclined Twist
+434,warm_up,Cat-Cow,Reclined Twist
+435,warm_up,Cat-Cow,Reclined Twist
+
+436,warm_up,Low Lunge,Half Split
+437,warm_up,Low Lunge,Half Split
+438,warm_up,Low Lunge,Half Split
+439,warm_up,Low Lunge,Half Split
+440,warm_up,Low Lunge,Half Split
+
+441,peak,Pigeon Prep,Reclined Twist
+442,peak,Pigeon Prep,Reclined Twist
+443,peak,Pigeon Prep,Reclined Twist
+444,peak,Pigeon Prep,Reclined Twist
+445,peak,Pigeon Prep,Reclined Twist
+
+446,peak,Lizard Pose,Half Split
+447,peak,Lizard Pose,Half Split
+448,peak,Lizard Pose,Half Split
+449,peak,Lizard Pose,Half Split
+450,peak,Lizard Pose,Half Split
+451,peak,Downward Dog,Child’s Pose
+452,peak,Downward Dog,Child’s Pose
+453,peak,Downward Dog,Child’s Pose
+454,peak,Downward Dog,Child’s Pose
+455,peak,Downward Dog,Child’s Pose
+
+456,peak,Dolphin Pose,Sphinx Pose
+457,peak,Dolphin Pose,Sphinx Pose
+458,peak,Dolphin Pose,Sphinx Pose
+459,peak,Dolphin Pose,Sphinx Pose
+460,peak,Dolphin Pose,Sphinx Pose
+
+461,peak,Forearm Plank,Child’s Pose
+462,peak,Forearm Plank,Child’s Pose
+463,peak,Forearm Plank,Child’s Pose
+464,peak,Forearm Plank,Child’s Pose
+465,peak,Forearm Plank,Child’s Pose
+
+466,peak,Handstand Prep,Standing Forward Fold
+467,peak,Handstand Prep,Standing Forward Fold
+468,peak,Handstand Prep,Standing Forward Fold
+469,peak,Handstand Prep,Standing Forward Fold
+470,peak,Handstand Prep,Standing Forward Fold
+
+471,peak,Crow Prep,Child’s Pose
+472,peak,Crow Prep,Child’s Pose
+473,peak,Crow Prep,Child’s Pose
+474,peak,Crow Prep,Child’s Pose
+475,peak,Crow Prep,Child’s Pose
+
+476,peak,Side Plank,Child’s Pose
+477,peak,Side Plank,Child’s Pose
+478,peak,Side Plank,Child’s Pose
+479,peak,Side Plank,Child’s Pose
+480,peak,Side Plank,Child’s Pose
+
+481,peak,Forearm Stand Prep,Child’s Pose
+482,peak,Forearm Stand Prep,Child’s Pose
+483,peak,Forearm Stand Prep,Child’s Pose
+484,peak,Forearm Stand Prep,Child’s Pose
+485,peak,Forearm Stand Prep,Child’s Pose
+
+486,peak,Handstand Wall Prep,Standing Forward Fold
+487,peak,Handstand Wall Prep,Standing Forward Fold
+488,peak,Handstand Wall Prep,Standing Forward Fold
+489,peak,Handstand Wall Prep,Standing Forward Fold
+490,peak,Handstand Wall Prep,Standing Forward Fold
+
+491,peak,Plank Pose,Child’s Pose
+492,peak,Plank Pose,Child’s Pose
+493,peak,Plank Pose,Child’s Pose
+494,peak,Plank Pose,Child’s Pose
+495,peak,Plank Pose,Child’s Pose
+
+496,peak,Downward Dog,Child’s Pose
+497,peak,Downward Dog,Child’s Pose
+498,peak,Downward Dog,Child’s Pose
+499,peak,Downward Dog,Child’s Pose
+500,peak,Downward Dog,Child’s Pose
+501,warm_up,Easy Seat,Seated Side Bend
+502,warm_up,Easy Seat,Seated Forward Fold
+503,warm_up,Cat-Cow,Reclined Twist
+504,warm_up,Cat-Cow,Reclined Twist
+505,warm_up,Easy Seat,Seated Forward Fold
+506,peak,Chair Pose,Standing Forward Fold
+507,warm_up,Easy Seat,Reclined Twist
+508,warm_up,Easy Seat,Reclined Twist
+509,peak,Low Lunge Twist,Child’s Pose
+510,warm_up,Easy Seat,Seated Side Bend
+
+511,warm_up,Easy Seat,Reclined Twist
+512,warm_up,Shoulder Rolls,Seated Forward Fold
+513,warm_up,Cat-Cow,Reclined Twist
+514,warm_up,Easy Seat,Seated Forward Fold
+515,warm_up,Cat-Cow,Reclined Twist
+516,warm_up,Easy Seat,Seated Side Bend
+517,warm_up,Easy Seat,Reclined Twist
+518,peak,Chair Twist,Standing Forward Fold
+519,warm_up,Easy Seat,Reclined Twist
+520,warm_up,Easy Seat,Seated Forward Fold
+
+521,warm_up,Cat-Cow,Reclined Twist
+522,warm_up,Cat-Cow,Reclined Twist
+523,warm_up,Cat-Cow,Reclined Twist
+524,warm_up,Cat-Cow,Reclined Twist
+525,warm_up,Cat-Cow,Reclined Twist
+
+526,warm_up,Low Lunge,Half Split
+527,warm_up,Low Lunge,Half Split
+528,warm_up,Low Lunge,Half Split
+529,warm_up,Low Lunge,Half Split
+530,warm_up,Low Lunge,Half Split
+
+531,peak,Pigeon Prep,Reclined Twist
+532,peak,Pigeon Prep,Reclined Twist
+533,peak,Pigeon Prep,Reclined Twist
+534,peak,Pigeon Prep,Reclined Twist
+535,peak,Pigeon Prep,Reclined Twist
+
+536,peak,Lizard Pose,Half Split
+537,peak,Lizard Pose,Half Split
+538,peak,Lizard Pose,Half Split
+539,peak,Lizard Pose,Half Split
+540,peak,Lizard Pose,Half Split
+
+541,warm_up,Cat-Cow,Reclined Twist
+542,warm_up,Cat-Cow,Reclined Twist
+543,warm_up,Cat-Cow,Reclined Twist
+544,warm_up,Cat-Cow,Reclined Twist
+545,warm_up,Cat-Cow,Reclined Twist
+
+546,warm_up,Low Lunge,Half Split
+547,warm_up,Low Lunge,Half Split
+548,warm_up,Low Lunge,Half Split
+549,warm_up,Low Lunge,Half Split
+550,warm_up,Low Lunge,Half Split
+501,warm_up,Easy Seat,Seated Side Bend
+502,warm_up,Easy Seat,Seated Forward Fold
+503,warm_up,Cat-Cow,Reclined Twist
+504,warm_up,Cat-Cow,Reclined Twist
+505,warm_up,Easy Seat,Seated Forward Fold
+506,peak,Chair Pose,Standing Forward Fold
+507,warm_up,Easy Seat,Reclined Twist
+508,warm_up,Easy Seat,Reclined Twist
+509,peak,Low Lunge Twist,Child’s Pose
+510,warm_up,Easy Seat,Seated Side Bend
+
+511,warm_up,Easy Seat,Reclined Twist
+512,warm_up,Shoulder Rolls,Seated Forward Fold
+513,warm_up,Cat-Cow,Reclined Twist
+514,warm_up,Easy Seat,Seated Forward Fold
+515,warm_up,Cat-Cow,Reclined Twist
+516,warm_up,Easy Seat,Seated Side Bend
+517,warm_up,Easy Seat,Reclined Twist
+518,peak,Chair Twist,Standing Forward Fold
+519,warm_up,Easy Seat,Reclined Twist
+520,warm_up,Easy Seat,Seated Forward Fold
+
+521,warm_up,Cat-Cow,Reclined Twist
+522,warm_up,Cat-Cow,Reclined Twist
+523,warm_up,Cat-Cow,Reclined Twist
+524,warm_up,Cat-Cow,Reclined Twist
+525,warm_up,Cat-Cow,Reclined Twist
+
+526,warm_up,Low Lunge,Half Split
+527,warm_up,Low Lunge,Half Split
+528,warm_up,Low Lunge,Half Split
+529,warm_up,Low Lunge,Half Split
+530,warm_up,Low Lunge,Half Split
+
+531,peak,Pigeon Prep,Reclined Twist
+532,peak,Pigeon Prep,Reclined Twist
+533,peak,Pigeon Prep,Reclined Twist
+534,peak,Pigeon Prep,Reclined Twist
+535,peak,Pigeon Prep,Reclined Twist
+
+536,peak,Lizard Pose,Half Split
+537,peak,Lizard Pose,Half Split
+538,peak,Lizard Pose,Half Split
+539,peak,Lizard Pose,Half Split
+540,peak,Lizard Pose,Half Split
+
+541,warm_up,Cat-Cow,Reclined Twist
+542,warm_up,Cat-Cow,Reclined Twist
+543,warm_up,Cat-Cow,Reclined Twist
+544,warm_up,Cat-Cow,Reclined Twist
+545,warm_up,Cat-Cow,Reclined Twist
+
+546,warm_up,Low Lunge,Half Split
+547,warm_up,Low Lunge,Half Split
+548,warm_up,Low Lunge,Half Split
+549,warm_up,Low Lunge,Half Split
+550,warm_up,Low Lunge,Half Split
+551,peak,Pigeon Pose,Reclined Twist
+552,peak,Pigeon Pose,Reclined Twist
+553,peak,Pigeon Pose,Reclined Twist
+554,peak,Pigeon Pose,Reclined Twist
+555,peak,Pigeon Pose,Reclined Twist
+
+556,peak,Frog Pose,Child’s Pose
+557,peak,Frog Pose,Child’s Pose
+558,peak,Frog Pose,Child’s Pose
+559,peak,Frog Pose,Child’s Pose
+560,peak,Frog Pose,Child’s Pose
+
+561,peak,Half Split,Reclined Twist
+562,peak,Half Split,Reclined Twist
+563,peak,Half Split,Reclined Twist
+564,peak,Half Split,Reclined Twist
+565,peak,Half Split,Reclined Twist
+
+566,warm_up,Cat-Cow,Reclined Twist
+567,warm_up,Cat-Cow,Reclined Twist
+568,warm_up,Cat-Cow,Reclined Twist
+569,warm_up,Cat-Cow,Reclined Twist
+570,warm_up,Cat-Cow,Reclined Twist
+
+571,peak,Butterfly Fold,Reclined Twist
+572,peak,Butterfly Fold,Reclined Twist
+573,peak,Butterfly Fold,Reclined Twist
+574,peak,Butterfly Fold,Reclined Twist
+575,peak,Butterfly Fold,Reclined Twist
+
+576,warm_up,Low Lunge,Half Split
+577,warm_up,Low Lunge,Half Split
+578,warm_up,Low Lunge,Half Split
+579,warm_up,Low Lunge,Half Split
+580,warm_up,Low Lunge,Half Split
+
+581,peak,Wide-Legged Forward Fold,Sphinx Pose
+582,peak,Wide-Legged Forward Fold,Sphinx Pose
+583,peak,Wide-Legged Forward Fold,Sphinx Pose
+584,peak,Wide-Legged Forward Fold,Sphinx Pose
+585,peak,Wide-Legged Forward Fold,Sphinx Pose
+
+586,warm_up,Cat-Cow,Reclined Twist
+587,warm_up,Cat-Cow,Reclined Twist
+588,warm_up,Cat-Cow,Reclined Twist
+589,warm_up,Cat-Cow,Reclined Twist
+590,warm_up,Cat-Cow,Reclined Twist
+
+591,peak,Garland Pose,Reclined Twist
+592,peak,Garland Pose,Reclined Twist
+593,peak,Garland Pose,Reclined Twist
+594,peak,Garland Pose,Reclined Twist
+595,peak,Garland Pose,Reclined Twist
+
+596,warm_up,Low Lunge,Half Split
+597,warm_up,Low Lunge,Half Split
+598,warm_up,Low Lunge,Half Split
+599,warm_up,Low Lunge,Half Split
+600,warm_up,Low Lunge,Half Split
+601,peak,Pigeon Pose,Reclined Twist
+602,peak,Pigeon Pose,Reclined Twist
+603,peak,Pigeon Pose,Reclined Twist
+604,peak,Pigeon Pose,Reclined Twist
+605,peak,Pigeon Pose,Reclined Twist
+
+606,peak,Frog Pose,Child’s Pose
+607,peak,Frog Pose,Child’s Pose
+608,peak,Frog Pose,Child’s Pose
+609,peak,Frog Pose,Child’s Pose
+610,peak,Frog Pose,Child’s Pose
+
+611,peak,Lizard Pose,Half Split
+612,peak,Lizard Pose,Half Split
+613,peak,Lizard Pose,Half Split
+614,peak,Lizard Pose,Half Split
+615,peak,Lizard Pose,Half Split
+
+616,peak,Fire Log Pose,Reclined Twist
+617,peak,Fire Log Pose,Reclined Twist
+618,peak,Fire Log Pose,Reclined Twist
+619,peak,Fire Log Pose,Reclined Twist
+620,peak,Fire Log Pose,Reclined Twist
+
+621,peak,Side Crow Prep,Child’s Pose
+622,peak,Side Crow Prep,Child’s Pose
+623,peak,Side Crow Prep,Child’s Pose
+624,peak,Side Crow Prep,Child’s Pose
+625,peak,Side Crow Prep,Child’s Pose
+
+626,peak,Crow Pose,Child’s Pose
+627,peak,Crow Pose,Child’s Pose
+628,peak,Crow Pose,Child’s Pose
+629,peak,Crow Pose,Child’s Pose
+630,peak,Crow Pose,Child’s Pose
+
+631,peak,Side Plank,Child’s Pose
+632,peak,Side Plank,Child’s Pose
+633,peak,Side Plank,Child’s Pose
+634,peak,Side Plank,Child’s Pose
+635,peak,Side Plank,Child’s Pose
+
+636,peak,Forearm Stand Prep,Child’s Pose
+637,peak,Forearm Stand Prep,Child’s Pose
+638,peak,Forearm Stand Prep,Child’s Pose
+639,peak,Forearm Stand Prep,Child’s Pose
+640,peak,Forearm Stand Prep,Child’s Pose
+
+641,peak,Handstand Prep,Standing Forward Fold
+642,peak,Handstand Prep,Standing Forward Fold
+643,peak,Handstand Prep,Standing Forward Fold
+644,peak,Handstand Prep,Standing Forward Fold
+645,peak,Handstand Prep,Standing Forward Fold
+
+646,peak,Plank Pose,Child’s Pose
+647,peak,Plank Pose,Child’s Pose
+648,peak,Plank Pose,Child’s Pose
+649,peak,Plank Pose,Child’s Pose
+650,peak,Plank Pose,Child’s Pose
+
+651,peak,Side Plank,Child’s Pose
+652,peak,Side Plank,Child’s Pose
+653,peak,Side Plank,Child’s Pose
+654,peak,Side Plank,Child’s Pose
+655,peak,Side Plank,Child’s Pose
+
+656,peak,Wild Thing,Child’s Pose
+657,peak,Wild Thing,Child’s Pose
+658,peak,Wild Thing,Child’s Pose
+659,peak,Wild Thing,Child’s Pose
+660,peak,Wild Thing,Child’s Pose
+
+661,peak,Eka Pada Koundinyasana Prep,Child’s Pose
+662,peak,Eka Pada Koundinyasana Prep,Child’s Pose
+663,peak,Eka Pada Koundinyasana Prep,Child’s Pose
+664,peak,Eka Pada Koundinyasana Prep,Child’s Pose
+665,peak,Eka Pada Koundinyasana Prep,Child’s Pose
+
+666,peak,Side Crow,Child’s Pose
+667,peak,Side Crow,Child’s Pose
+668,peak,Side Crow,Child’s Pose
+669,peak,Side Crow,Child’s Pose
+670,peak,Side Crow,Child’s Pose
+
+671,peak,Firefly Prep,Child’s Pose
+672,peak,Firefly Prep,Child’s Pose
+673,peak,Firefly Prep,Child’s Pose
+674,peak,Firefly Prep,Child’s Pose
+675,peak,Firefly Prep,Child’s Pose
+
+676,peak,Firefly Pose,Child’s Pose
+677,peak,Firefly Pose,Child’s Pose
+678,peak,Firefly Pose,Child’s Pose
+679,peak,Firefly Pose,Child’s Pose
+680,peak,Firefly Pose,Child’s Pose
+
+681,peak,Handstand Wall Prep,Standing Forward Fold
+682,peak,Handstand Wall Prep,Standing Forward Fold
+683,peak,Handstand Wall Prep,Standing Forward Fold
+684,peak,Handstand Wall Prep,Standing Forward Fold
+685,peak,Handstand Wall Prep,Standing Forward Fold
+
+686,peak,Forearm Stand,Child’s Pose
+687,peak,Forearm Stand,Child’s Pose
+688,peak,Forearm Stand,Child’s Pose
+689,peak,Forearm Stand,Child’s Pose
+690,peak,Forearm Stand,Child’s Pose
+
+691,peak,Handstand,Standing Forward Fold
+692,peak,Handstand,Standing Forward Fold
+693,peak,Handstand,Standing Forward Fold
+694,peak,Handstand,Standing Forward Fold
+695,peak,Handstand,Standing Forward Fold
+
+696,peak,Headstand Prep,Child’s Pose
+697,peak,Headstand Prep,Child’s Pose
+698,peak,Headstand Prep,Child’s Pose
+699,peak,Headstand Prep,Child’s Pose
+700,peak,Headstand Prep,Child’s Pose
+701,peak,Crow Pose,Child’s Pose
+702,peak,Crow Pose,Child’s Pose
+703,peak,Side Crow,Child’s Pose
+704,peak,Side Crow,Child’s Pose
+705,peak,Side Crow,Child’s Pose
+
+706,peak,Plank Pose,Child’s Pose
+707,peak,Plank Pose,Child’s Pose
+708,peak,Side Plank,Child’s Pose
+709,peak,Side Plank,Child’s Pose
+710,peak,Side Plank,Child’s Pose
+
+711,peak,Boat Pose,Reclined Twist
+712,peak,Boat Pose,Reclined Twist
+713,peak,Boat Pose,Reclined Twist
+714,peak,Boat Pose,Reclined Twist
+715,peak,Boat Pose,Reclined Twist
+
+716,peak,Handstand Prep,Standing Forward Fold
+717,peak,Handstand Prep,Standing Forward Fold
+718,peak,Forearm Stand Prep,Child’s Pose
+719,peak,Forearm Stand Prep,Child’s Pose
+720,peak,Forearm Stand Prep,Child’s Pose
+
+721,peak,Headstand Prep,Child’s Pose
+722,peak,Headstand Prep,Child’s Pose
+723,peak,Headstand Prep,Child’s Pose
+724,peak,Headstand Prep,Child’s Pose
+725,peak,Headstand Prep,Child’s Pose
+
+726,peak,Shoulderstand Prep,Sphinx Pose
+727,peak,Shoulderstand Prep,Sphinx Pose
+728,peak,Shoulderstand Prep,Sphinx Pose
+729,peak,Shoulderstand Prep,Sphinx Pose
+730,peak,Shoulderstand Prep,Sphinx Pose
+
+731,peak,Handstand Wall Prep,Standing Forward Fold
+732,peak,Handstand Wall Prep,Standing Forward Fold
+733,peak,Handstand Wall Prep,Standing Forward Fold
+734,peak,Handstand Wall Prep,Standing Forward Fold
+735,peak,Handstand Wall Prep,Standing Forward Fold
+
+736,peak,Forearm Stand,Child’s Pose
+737,peak,Forearm Stand,Child’s Pose
+738,peak,Forearm Stand,Child’s Pose
+739,peak,Forearm Stand,Child’s Pose
+740,peak,Forearm Stand,Child’s Pose
+
+741,peak,Handstand,Standing Forward Fold
+742,peak,Handstand,Standing Forward Fold
+743,peak,Handstand,Standing Forward Fold
+744,peak,Handstand,Standing Forward Fold
+745,peak,Handstand,Standing Forward Fold
+
+746,peak,Headstand,Child’s Pose
+747,peak,Headstand,Child’s Pose
+748,peak,Headstand,Child’s Pose
+749,peak,Headstand,Child’s Pose
+750,peak,Headstand,Child’s Pose
+
+751,peak,Shoulderstand,Bridge Pose
+752,peak,Shoulderstand,Bridge Pose
+753,peak,Shoulderstand,Bridge Pose
+754,peak,Shoulderstand,Bridge Pose
+755,peak,Shoulderstand,Bridge Pose
+
+756,peak,Plow Pose,Sphinx Pose
+757,peak,Plow Pose,Sphinx Pose
+758,peak,Plow Pose,Sphinx Pose
+759,peak,Plow Pose,Sphinx Pose
+760,peak,Plow Pose,Sphinx Pose
+
+761,peak,Legs Up the Wall,None
+762,peak,Legs Up the Wall,None
+763,peak,Legs Up the Wall,None
+764,peak,Legs Up the Wall,None
+765,peak,Legs Up the Wall,None
+
+766,peak,Handstand Prep,Standing Forward Fold
+767,peak,Handstand Prep,Standing Forward Fold
+768,peak,Forearm Stand Prep,Child’s Pose
+769,peak,Forearm Stand Prep,Child’s Pose
+770,peak,Forearm Stand Prep,Child’s Pose
+
+771,peak,Headstand Prep,Child’s Pose
+772,peak,Headstand Prep,Child’s Pose
+773,peak,Headstand Prep,Child’s Pose
+774,peak,Headstand Prep,Child’s Pose
+775,peak,Headstand Prep,Child’s Pose
+
+776,peak,Shoulderstand Prep,Sphinx Pose
+777,peak,Shoulderstand Prep,Sphinx Pose
+778,peak,Shoulderstand Prep,Sphinx Pose
+779,peak,Shoulderstand Prep,Sphinx Pose
+780,peak,Shoulderstand Prep,Sphinx Pose
+
+781,peak,Handstand Wall Prep,Standing Forward Fold
+782,peak,Handstand Wall Prep,Standing Forward Fold
+783,peak,Handstand Wall Prep,Standing Forward Fold
+784,peak,Handstand Wall Prep,Standing Forward Fold
+785,peak,Handstand Wall Prep,Standing Forward Fold
+
+786,peak,Forearm Stand,Child’s Pose
+787,peak,Forearm Stand,Child’s Pose
+788,peak,Forearm Stand,Child’s Pose
+789,peak,Forearm Stand,Child’s Pose
+790,peak,Forearm Stand,Child’s Pose
+
+791,peak,Handstand,Standing Forward Fold
+792,peak,Handstand,Standing Forward Fold
+793,peak,Handstand,Standing Forward Fold
+794,peak,Handstand,Standing Forward Fold
+795,peak,Handstand,Standing Forward Fold
+
+796,peak,Headstand,Child’s Pose
+797,peak,Headstand,Child’s Pose
+798,peak,Headstand,Child’s Pose
+799,peak,Headstand,Child’s Pose
+800,peak,Headstand,Child’s Pose
+801,peak,Downward Dog,Child’s Pose
+802,peak,Dolphin Pose,Sphinx Pose
+803,peak,Dolphin Pose,Sphinx Pose
+804,peak,Forward Fold,Sphinx Pose
+805,peak,Forward Fold,Sphinx Pose
+806,peak,Forward Fold,Sphinx Pose
+807,peak,Forearm Plank,Child’s Pose
+808,peak,Forearm Plank,Child’s Pose
+809,peak,Shoulderstand Prep,Sphinx Pose
+810,peak,Shoulderstand Prep,Sphinx Pose
+
+811,peak,Forearm Stand Prep,Child’s Pose
+812,peak,Forearm Stand Prep,Child’s Pose
+813,peak,Handstand Prep,Standing Forward Fold
+814,peak,Handstand Prep,Standing Forward Fold
+815,peak,Handstand Prep,Standing Forward Fold
+
+816,peak,Wide-Legged Forward Fold,Reclined Twist
+817,peak,Forward Fold,Reclined Twist
+818,peak,Forward Fold,Reclined Twist
+819,cool_down,Legs Up the Wall,None
+820,peak,Forearm Plank,Child’s Pose
+
+821,warm_up,Cat-Cow,Reclined Twist
+822,warm_up,Cat-Cow,Reclined Twist
+823,warm_up,Cat-Cow,Reclined Twist
+824,warm_up,Cat-Cow,Reclined Twist
+825,warm_up,Cat-Cow,Reclined Twist
+
+826,warm_up,Bridge Pose,Reclined Twist
+827,warm_up,Bridge Pose,Reclined Twist
+828,warm_up,Bridge Pose,Reclined Twist
+829,warm_up,Bridge Pose,Reclined Twist
+830,warm_up,Bridge Pose,Reclined Twist
+
+831,warm_up,Sphinx Pose,Child’s Pose
+832,warm_up,Sphinx Pose,Child’s Pose
+833,warm_up,Sphinx Pose,Child’s Pose
+834,warm_up,Sphinx Pose,Child’s Pose
+835,warm_up,Sphinx Pose,Child’s Pose
+
+836,warm_up,Cat-Cow,Reclined Twist
+837,warm_up,Cat-Cow,Reclined Twist
+838,warm_up,Cat-Cow,Reclined Twist
+839,warm_up,Cat-Cow,Reclined Twist
+840,warm_up,Cat-Cow,Reclined Twist
+
+841,warm_up,Seated Forward Fold,Reclined Twist
+842,warm_up,Seated Forward Fold,Reclined Twist
+843,warm_up,Seated Forward Fold,Reclined Twist
+844,warm_up,Seated Forward Fold,Reclined Twist
+845,warm_up,Seated Forward Fold,Reclined Twist
+
+846,warm_up,Bridge Pose,Reclined Twist
+847,warm_up,Bridge Pose,Reclined Twist
+848,warm_up,Bridge Pose,Reclined Twist
+849,warm_up,Bridge Pose,Reclined Twist
+850,warm_up,Bridge Pose,Reclined Twist
+
+851,warm_up,Sphinx Pose,Child’s Pose
+852,warm_up,Sphinx Pose,Child’s Pose
+853,warm_up,Sphinx Pose,Child’s Pose
+854,warm_up,Sphinx Pose,Child’s Pose
+855,warm_up,Sphinx Pose,Child’s Pose
+
+856,warm_up,Cat-Cow,Reclined Twist
+857,warm_up,Cat-Cow,Reclined Twist
+858,warm_up,Cat-Cow,Reclined Twist
+859,warm_up,Cat-Cow,Reclined Twist
+860,warm_up,Cat-Cow,Reclined Twist
+
+861,warm_up,Seated Forward Fold,Reclined Twist
+862,warm_up,Seated Forward Fold,Reclined Twist
+863,warm_up,Seated Forward Fold,Reclined Twist
+864,warm_up,Seated Forward Fold,Reclined Twist
+865,warm_up,Seated Forward Fold,Reclined Twist
+
+866,warm_up,Bridge Pose,Reclined Twist
+867,warm_up,Bridge Pose,Reclined Twist
+868,warm_up,Bridge Pose,Reclined Twist
+869,warm_up,Bridge Pose,Reclined Twist
+870,warm_up,Bridge Pose,Reclined Twist
+
+871,warm_up,Sphinx Pose,Child’s Pose
+872,warm_up,Sphinx Pose,Child’s Pose
+873,warm_up,Sphinx Pose,Child’s Pose
+874,warm_up,Sphinx Pose,Child’s Pose
+875,warm_up,Sphinx Pose,Child’s Pose
+
+876,warm_up,Cat-Cow,Reclined Twist
+877,warm_up,Cat-Cow,Reclined Twist
+878,warm_up,Cat-Cow,Reclined Twist
+879,warm_up,Cat-Cow,Reclined Twist
+880,warm_up,Cat-Cow,Reclined Twist
+
+881,warm_up,Seated Forward Fold,Reclined Twist
+882,warm_up,Seated Forward Fold,Reclined Twist
+883,warm_up,Seated Forward Fold,Reclined Twist
+884,warm_up,Seated Forward Fold,Reclined Twist
+885,warm_up,Seated Forward Fold,Reclined Twist
+
+886,warm_up,Bridge Pose,Reclined Twist
+887,warm_up,Bridge Pose,Reclined Twist
+888,warm_up,Bridge Pose,Reclined Twist
+889,warm_up,Bridge Pose,Reclined Twist
+890,warm_up,Bridge Pose,Reclined Twist
+
+891,warm_up,Sphinx Pose,Child’s Pose
+892,warm_up,Sphinx Pose,Child’s Pose
+893,warm_up,Sphinx Pose,Child’s Pose
+894,warm_up,Sphinx Pose,Child’s Pose
+895,warm_up,Sphinx Pose,Child’s Pose
+
+896,warm_up,Cat-Cow,Reclined Twist
+897,warm_up,Cat-Cow,Reclined Twist
+898,warm_up,Cat-Cow,Reclined Twist
+899,warm_up,Cat-Cow,Reclined Twist
+900,warm_up,Cat-Cow,Reclined Twist
+901,cool_down,Seated Side Bend,None
+902,cool_down,Easy Seat,None
+903,cool_down,Hamstring Warmup,None
+904,cool_down,Butterfly Pose,None
+905,cool_down,Knees to Chest,None
+906,cool_down,Knees to Chest,None
+907,cool_down,Reclined Bound Angle,None
+908,cool_down,Sphinx Pose,None
+909,cool_down,Sphinx Pose,None
+910,cool_down,Easy Twist,None
+
+911,cool_down,Side Bend,None
+912,cool_down,Knees to Chest,None
+913,cool_down,Seated Forward Fold,None
+914,cool_down,Windshield Wipers,None
+915,cool_down,None,None
+916,cool_down,Bridge Pose,None
+917,cool_down,Bridge Pose,None
+918,cool_down,Shoulder Rolls,None
+919,cool_down,Quad Stretch,None
+920,cool_down,None,None
+
+921,cool_down,Seated Forward Fold,None
+922,cool_down,Seated Forward Fold,None
+923,cool_down,Easy Twist,None
+924,cool_down,Sphinx Pose,None
+925,cool_down,Sphinx Pose,None
+926,cool_down,Windshield Wipers,None
+927,cool_down,Hamstring Warmup,None
+928,cool_down,Chest Opener,None
+929,cool_down,Sphinx Pose,None
+930,cool_down,None,None
+
+931,cool_down,None,None
+932,cool_down,None,None
+933,cool_down,None,None
+934,cool_down,None,None
+935,cool_down,None,None
+936,cool_down,None,None
+937,cool_down,None,None
+938,cool_down,None,None
+939,cool_down,None,None
+940,cool_down,None,None
+
+941,cool_down,None,None
+942,cool_down,None,None
+943,cool_down,None,None
+944,cool_down,None,None
+945,cool_down,None,None
+946,cool_down,None,None
+947,cool_down,None,None
+948,cool_down,None,None
+949,cool_down,None,None
+950,cool_down,None,None
+
+951,cool_down,None,None
+952,cool_down,None,None
+953,cool_down,None,None
+954,cool_down,None,None
+955,cool_down,None,None
+956,cool_down,None,None
+957,cool_down,None,None
+958,cool_down,None,None
+959,cool_down,None,None
+960,cool_down,None,None
+
+961,cool_down,None,None
+962,cool_down,None,None
+963,cool_down,None,None
+964,cool_down,None,None
+965,cool_down,None,None
+966,cool_down,None,None
+967,cool_down,None,None
+968,cool_down,None,None
+969,cool_down,None,None
+970,cool_down,None,None
+
+971,cool_down,None,None
+972,cool_down,None,None
+973,cool_down,None,None
+974,cool_down,None,None
+975,cool_down,None,None
+976,cool_down,None,None
+977,cool_down,None,None
+978,cool_down,None,None
+979,cool_down,None,None
+980,cool_down,None,None
+
+981,cool_down,None,None
+982,cool_down,None,None
+983,cool_down,None,None
+984,cool_down,None,None
+985,cool_down,None,None
+986,cool_down,None,None
+987,cool_down,None,None
+988,cool_down,None,None
+989,cool_down,None,None
+990,cool_down,None,None
+
+991,cool_down,None,None
+992,cool_down,None,None
+993,cool_down,None,None
+994,cool_down,None,None
+995,cool_down,None,None
+996,cool_down,None,None
+997,cool_down,None,None
+998,cool_down,None,None
+999,cool_down,None,None
+1000,cool_down,None,None
+
+1001,cool_down,None,None
+1002,cool_down,None,None
+1003,cool_down,None,None
+1004,cool_down,None,None
+1005,cool_down,None,None
+1006,cool_down,None,None
+1007,cool_down,None,None
+1008,cool_down,None,None
+1009,cool_down,None,None
+1010,cool_down,None,None
+
+1011,cool_down,None,None
+1012,cool_down,None,None
+1013,cool_down,None,None
+1014,cool_down,None,None
+1015,cool_down,None,None
+1016,cool_down,None,None
+1017,cool_down,None,None
+1018,cool_down,None,None
+1019,cool_down,None,None
+1020,cool_down,None,None
+
+1021,cool_down,None,None
+1022,cool_down,None,None
+1023,cool_down,None,None
+1024,cool_down,None,None
+1025,cool_down,None,None
+1026,cool_down,None,None
+1027,cool_down,None,None
+1028,cool_down,None,None
+1029,cool_down,None,None
+1030,cool_down,None,None
+1101,transition,Mountain Pose,Mountain Pose
+1102,transition,Mountain Pose,Standing Forward Fold
+1103,transition,Half Lift,Standing Forward Fold
+1104,transition,Mountain Pose,Standing Backbend
+1105,transition,Mountain Pose,Standing Forward Fold
+1106,transition,Mountain Pose,Mountain Pose
+1107,transition,Mountain Pose,Standing Forward Fold
+1108,transition,Mountain Pose,Mountain Pose
+1109,transition,Mountain Pose,Standing Forward Fold
+1110,transition,Mountain Pose,Standing Backbend
+1111,transition,Mountain Pose,Standing Forward Fold
+1112,transition,Chair Pose,Standing Forward Fold
+1113,transition,Chair Pose,Standing Forward Fold
+1114,transition,Mountain Pose,Standing Forward Fold
+1115,transition,Mountain Pose,Standing Forward Fold

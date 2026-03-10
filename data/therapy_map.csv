@@ -1,142 +1,201 @@
-pose_id,therapy_condition
-101,Posture Correction
-101,Grounding
-101,Anxiety Relief
+therapy_condition,pose_id
+Lower Back Pain,101
+Lower Back Pain,102
+Lower Back Pain,103
+Lower Back Pain,104
+Lower Back Pain,201
+Lower Back Pain,207
+Lower Back Pain,209
+Lower Back Pain,210
+Lower Back Pain,301
+Lower Back Pain,302
+Lower Back Pain,304
+Lower Back Pain,305
+Lower Back Pain,325
+Lower Back Pain,601
+Lower Back Pain,604
+Lower Back Pain,609
+Lower Back Pain,611
+Lower Back Pain,901
+Lower Back Pain,902
+Lower Back Pain,905
+Lower Back Pain,906
+Lower Back Pain,914
+Lower Back Pain,915
+Lower Back Pain,1001
+Lower Back Pain,1002
+Lower Back Pain,1003
+Lower Back Pain,1007
+Lower Back Pain,1011
 
-102,Posture Correction
-102,Chest Opening
-102,Energy Boost
+Hip Mobility,207
+Hip Mobility,208
+Hip Mobility,216
+Hip Mobility,219
+Hip Mobility,601
+Hip Mobility,602
+Hip Mobility,603
+Hip Mobility,604
+Hip Mobility,605
+Hip Mobility,606
+Hip Mobility,609
+Hip Mobility,611
+Hip Mobility,616
+Hip Mobility,617
+Hip Mobility,618
+Hip Mobility,620
+Hip Mobility,622
+Hip Mobility,623
+Hip Mobility,624
+Hip Mobility,625
+Hip Mobility,901
+Hip Mobility,907
+Hip Mobility,1002
+Hip Mobility,1015
+Hip Mobility,1016
 
-103,Hamstring Flexibility
-103,Stress Relief
-103,Lower Back Release
+Hamstring Tightness,101
+Hamstring Tightness,102
+Hamstring Tightness,301
+Hamstring Tightness,302
+Hamstring Tightness,304
+Hamstring Tightness,305
+Hamstring Tightness,308
+Hamstring Tightness,317
+Hamstring Tightness,903
+Hamstring Tightness,617
+Hamstring Tightness,1003
+Hamstring Tightness,1024
 
-104,Spinal Lengthening
-104,Posture Correction
+Sciatica Relief,301
+Sciatica Relief,304
+Sciatica Relief,305
+Sciatica Relief,601
+Sciatica Relief,604
+Sciatica Relief,905
+Sciatica Relief,914
+Sciatica Relief,1001
+Sciatica Relief,1002
+Sciatica Relief,1003
 
-105,Leg Strengthening
-105,Core Activation
-105,Confidence Building
+Anxiety Relief,104
+Anxiety Relief,201
+Anxiety Relief,207
+Anxiety Relief,304
+Anxiety Relief,305
+Anxiety Relief,611
+Anxiety Relief,901
+Anxiety Relief,902
+Anxiety Relief,915
+Anxiety Relief,1001
+Anxiety Relief,1002
+Anxiety Relief,1007
+Anxiety Relief,1011
 
-106,Hip Flexor Stretch
-106,Chest Opening
-106,Balance Training
+Stress Relief,101
+Stress Relief,104
+Stress Relief,201
+Stress Relief,207
+Stress Relief,304
+Stress Relief,305
+Stress Relief,325
+Stress Relief,611
+Stress Relief,901
+Stress Relief,902
+Stress Relief,915
+Stress Relief,1001
+Stress Relief,1002
+Stress Relief,1003
+Stress Relief,1007
+Stress Relief,1011
 
-107,Hip Strengthening
-107,Focus & Concentration
-107,Confidence Building
+Digestion Support,103
+Digestion Support,210
+Digestion Support,305
+Digestion Support,902
+Digestion Support,921
+Digestion Support,923
+Digestion Support,1003
+Digestion Support,1013
 
-108,Balance Training
-108,Core Strengthening
-108,Leg Strengthening
+Shoulder Mobility,105
+Shoulder Mobility,106
+Shoulder Mobility,215
+Shoulder Mobility,222
+Shoulder Mobility,410
+Shoulder Mobility,418
+Shoulder Mobility,512
+Shoulder Mobility,918
+Shoulder Mobility,928
+Shoulder Mobility,1006
+Shoulder Mobility,1014
 
-109,Side Body Stretch
-109,Spinal Mobility
-109,Hip Opening
+Neck Tension Relief,101
+Neck Tension Relief,102
+Neck Tension Relief,201
+Neck Tension Relief,304
+Neck Tension Relief,305
+Neck Tension Relief,901
+Neck Tension Relief,902
+Neck Tension Relief,915
+Neck Tension Relief,1001
+Neck Tension Relief,1011
 
-110,Side Body Strengthening
-110,IT Band Stretch
-110,Hip Mobility
+Core Strengthening,229
+Core Strengthening,230
+Core Strengthening,228
+Core Strengthening,518
+Core Strengthening,703
+Core Strengthening,704
+Core Strengthening,713
+Core Strengthening,714
+Core Strengthening,717
+Core Strengthening,718
+Core Strengthening,912
+Core Strengthening,927
 
-111,Side Body Stretch
-111,Emotional Release
-111,Spinal Mobility
+Balance,101
+Balance,102
+Balance,103
+Balance,229
+Balance,230
+Balance,621
+Balance,623
+Balance,708
+Balance,709
+Balance,710
+Balance,717
+Balance,1115
 
-112,Hamstring Flexibility
-112,Stress Relief
-112,Lower Back Release
+Chest Opening,401
+Chest Opening,402
+Chest Opening,408
+Chest Opening,409
+Chest Opening,412
+Chest Opening,413
+Chest Opening,419
+Chest Opening,420
+Chest Opening,430
+Chest Opening,1006
+Chest Opening,1014
 
-113,Hamstring Flexibility
-113,Balance Training
-113,Leg Strengthening
+Hip Flexor Tightness,605
+Hip Flexor Tightness,612
+Hip Flexor Tightness,613
+Hip Flexor Tightness,618
+Hip Flexor Tightness,1018
 
-114,Shoulder Mobility
-114,Focus & Concentration
-114,Balance Training
+Glute Strengthening,602
+Glute Strengthening,603
+Glute Strengthening,609
+Glute Strengthening,616
+Glute Strengthening,927
 
-115,Balance Training
-115,Calming the Mind
-115,Posture Correction
-
-116,Backbend Strengthening
-116,Chest Opening
-116,Balance Training
-
-117,Hip Mobility
-117,Balance Training
-117,Hamstring Flexibility
-
-118,Hip Flexor Stretch
-118,Leg Strengthening
-118,Energy Boost
-
-119,Hip Flexor Stretch
-119,Lower Back Relief
-119,Stress Relief
-
-120,Hip Strengthening
-120,Inner Thigh Strengthening
-120,Confidence Building
-
-121,Energy Boost
-121,Posture Correction
-
-122,Inner Thigh Stretch
-122,Hip Mobility
-122,Leg Strengthening
-
-123,Chest Opening
-123,Energy Boost
-123,Posture Correction
-
-124,Spinal Mobility
-124,Detoxification Support
-
-125,Side Body Stretch
-125,Spinal Mobility
-
-126,Hip Opening
-126,Balance Training
-126,Glute Strengthening
-
-127,Spinal Mobility
-127,Warm‑Up Preparation
-
-128,Balance Training
-128,Core Activation
-
-129,Quad Stretch
-129,Knee Mobility
-
-130,Hip Mobility
-130,Warm‑Up Preparation
-
-131,Cardiovascular Warm‑Up
-131,Leg Activation
-
-132,Shoulder Mobility
-132,Upper Body Warm‑Up
-
-133,Chest Opening
-133,Posture Correction
-
-134,Wrist Mobility
-134,Upper Body Warm‑Up
-
-135,Hamstring Flexibility
-135,Lower Back Relief
-
-136,Calf Stretch
-136,Ankle Mobility
-
-137,IT Band Stretch
-137,Side Body Release
-
-138,Shoulder Mobility
-138,Chest Opening
-
-139,Balance Training
-139,Proprioception Training
-
-140,Spinal Mobility
-140,Detoxification Support
+Fatigue Relief,901
+Fatigue Relief,902
+Fatigue Relief,915
+Fatigue Relief,1001
+Fatigue Relief,1002
+Fatigue Relief,1007
+Fatigue Relief,1011
+Fatigue Relief,1020

@@ -39,3 +39,258 @@ id,english_name,sanskrit_name,category,level,description,image_path
 138,Standing Shoulder Opener,N/A,Standing,Beginner,Arms overhead clasp stretch,standing/standing_shoulder_opener_watercolor.png
 139,Standing Balance Prep,N/A,Standing,Beginner,Simple balance warm-up shifting weight,standing/standing_balance_prep_watercolor.png
 140,Standing Twist Lunge,N/A,Standing,Intermediate,Lunge with torso twist,standing/standing_twist_lunge_watercolor.png
+201,Staff Pose,Dandasana,Seated,Beginner,Neutral seated alignment strengthening back,seated/staff_pose_watercolor.png
+202,Easy Pose,Sukhasana,Seated,Beginner,Comfortable cross‑legged seat for grounding,seated/easy_pose_watercolor.png
+203,Hero Pose,Virasana,Seated,Beginner-Intermediate,Seated kneeling posture opening quads,seated/hero_pose_watercolor.png
+204,Thunderbolt Pose,Vajrasana,Seated,Beginner,Kneeling seat aiding digestion,seated/thunderbolt_pose_watercolor.png
+205,Lotus Pose,Padmasana,Seated,Advanced,Classic meditative seat with deep hip opening,seated/lotus_pose_watercolor.png
+206,Half Lotus Pose,Ardha Padmasana,Seated,Intermediate,One‑leg lotus variation,seated/half_lotus_pose_watercolor.png
+207,Bound Angle Pose,Baddha Konasana,Seated,Beginner-Intermediate,Hip opener with soles together,seated/bound_angle_watercolor.png
+208,Wide‑Angle Seated Forward Bend,Upavistha Konasana,Seated,Intermediate,Wide‑leg seated stretch,seated/wide_angle_forward_bend_watercolor.png
+209,Seated Forward Fold,Paschimottanasana,Seated,Beginner-Intermediate,Forward fold over extended legs,seated/seated_forward_fold_watercolor.png
+210,Head‑to‑Knee Pose,Janu Sirsasana,Seated,Beginner-Intermediate,Forward fold over one leg,seated/head_to_knee_watercolor.png
+211,Seated Side Bend,Parsva Upavistha Konasana,Seated,Beginner,Lateral stretch from seated,seated/seated_side_bend_watercolor.png
+212,Seated Twist,Ardha Matsyendrasana,Seated,Intermediate,Classic seated spinal twist,seated/seated_twist_watercolor.png
+213,Marichyasana A,Marichyasana I,Seated,Intermediate,Forward fold with knee bend and bind,seated/marichyasana_a_watercolor.png
+214,Marichyasana C,Marichyasana III,Seated,Intermediate,Seated twist variation,seated/marichyasana_c_watercolor.png
+215,Cow Face Pose,Gomukhasana,Seated,Intermediate,Deep hip and shoulder opener,seated/cow_face_pose_watercolor.png
+216,Fire Log Pose,Agnistambhasana,Seated,Intermediate,Stacked‑shin hip opener,seated/fire_log_pose_watercolor.png
+217,Pigeon Pose (Seated),Kapotasana Prep,Seated,Intermediate,Hip opener with forward fold,seated/seated_pigeon_watercolor.png
+218,Seated Cat‑Cow,N/A,Seated,Beginner,Gentle spinal mobility,seated/seated_cat_cow_watercolor.png
+219,Seated Figure Four,N/A,Seated,Beginner-Intermediate,Hip opener crossing ankle over knee,seated/seated_figure_four_watercolor.png
+220,Seated Hamstring Stretch,N/A,Seated,Beginner,Forward fold over one extended leg,seated/seated_hamstring_stretch_watercolor.png
+221,Seated Wide Twist,N/A,Seated,Beginner,Wide‑leg seated twist,seated/seated_wide_twist_watercolor.png
+222,Seated Shoulder Stretch,N/A,Seated,Beginner,Shoulder mobility stretch,seated/seated_shoulder_stretch_watercolor.png
+223,Seated Wrist Stretch,N/A,Seated,Beginner,Wrist mobility warm‑up,seated/seated_wrist_stretch_watercolor.png
+224,Seated Side Body Stretch,N/A,Seated,Beginner,Lateral stretch with one arm overhead,seated/seated_side_body_stretch_watercolor.png
+225,Seated Chest Opener,N/A,Seated,Beginner,Hands behind back opening chest,seated/seated_chest_opener_watercolor.png
+226,Seated Hip Circles,N/A,Seated,Beginner,Hip mobility warm‑up,seated/seated_hip_circles_watercolor.png
+227,Seated Knee to Chest,N/A,Seated,Beginner,Gentle hip flexion stretch,seated/seated_knee_to_chest_watercolor.png
+228,Seated Leg Lift,N/A,Seated,Beginner-Intermediate,Core and hip flexor activation,seated/seated_leg_lift_watercolor.png
+229,Boat Pose,Navasana,Seated,Intermediate,Core strengthening balance,seated/boat_pose_watercolor.png
+230,Half Boat Pose,Ardha Navasana,Seated,Intermediate,Lower abdominal strengthening,seated/half_boat_pose_watercolor.png
+231,Seated Bound Twist,Bharadvajasana,Seated,Intermediate,Gentle seated twist,seated/bharadvajasana_watercolor.png
+232,Seated Prayer Twist,N/A,Seated,Intermediate,Prayer‑hand twist variation,seated/seated_prayer_twist_watercolor.png
+233,Seated Forward Fold Wide,N/A,Seated,Beginner-Intermediate,Forward fold with wide legs,seated/seated_forward_fold_wide_watercolor.png
+234,Seated Butterfly Fold,N/A,Seated,Beginner-Intermediate,Forward fold in bound angle,seated/seated_butterfly_fold_watercolor.png
+235,Seated Relaxation Pose,N/A,Seated,Beginner,Neutral seated rest posture,seated/seated_relaxation_watercolor.png
+301,Standing Forward Fold,Uttanasana,Forward Fold,Beginner-Intermediate,Deep hamstring stretch and spine release,forward_folds/standing_forward_fold_watercolor.png
+302,Half Forward Fold,Ardha Uttanasana,Forward Fold,Beginner,Lengthens spine and prepares for forward folds,forward_folds/half_forward_fold_watercolor.png
+303,Wide-Legged Forward Fold,Prasarita Padottanasana,Forward Fold,Beginner-Intermediate,Forward fold with wide stance,forward_folds/wide_legged_forward_fold_watercolor.png
+304,Seated Forward Fold,Paschimottanasana,Forward Fold,Beginner-Intermediate,Forward fold over extended legs,forward_folds/seated_forward_fold_watercolor.png
+305,Head-to-Knee Pose,Janu Sirsasana,Forward Fold,Beginner-Intermediate,Forward fold over one leg,forward_folds/head_to_knee_watercolor.png
+306,Wide-Angle Seated Forward Bend,Upavistha Konasana,Forward Fold,Intermediate,Wide-leg seated stretch,forward_folds/wide_angle_forward_bend_watercolor.png
+307,Standing Split,Urdhva Prasarita Eka Padasana,Forward Fold,Advanced,Forward fold with one leg lifted high,forward_folds/standing_split_watercolor.png
+308,Pyramid Pose,Parsvottanasana,Forward Fold,Intermediate,Hamstring stretch with long stance,forward_folds/pyramid_pose_watercolor.png
+309,Intense Side Stretch,Parsvottanasana Variation,Forward Fold,Intermediate,Forward fold over front leg,forward_folds/intense_side_stretch_watercolor.png
+310,Forward Fold with Shoulder Stretch,N/A,Forward Fold,Beginner,Forward fold with hands clasped behind,forward_folds/shoulder_stretch_forward_fold_watercolor.png
+311,Forward Fold with Twist,N/A,Forward Fold,Beginner-Intermediate,Twisting variation of forward fold,forward_folds/twisted_forward_fold_watercolor.png
+312,Forward Fold on Blocks,N/A,Forward Fold,Beginner,Supported hamstring stretch,forward_folds/forward_fold_blocks_watercolor.png
+313,Forward Fold Knees Bent,N/A,Forward Fold,Beginner,Gentle spine release with bent knees,forward_folds/forward_fold_knees_bent_watercolor.png
+314,Forward Fold Hands to Elbows,Ragdoll Pose,Forward Fold,Beginner,Gentle decompression of spine,forward_folds/ragdoll_pose_watercolor.png
+315,Forward Fold Wall Support,N/A,Forward Fold,Beginner,Resting torso on wall or chair,forward_folds/forward_fold_wall_support_watercolor.png
+316,Forward Fold Chair Support,N/A,Forward Fold,Beginner,Resting torso on chair,forward_folds/forward_fold_chair_support_watercolor.png
+317,Forward Fold Strap Assist,N/A,Forward Fold,Beginner-Intermediate,Using strap to lengthen spine,forward_folds/forward_fold_strap_watercolor.png
+318,Forward Fold One-Leg Extended,N/A,Forward Fold,Beginner-Intermediate,Forward fold with one leg extended,forward_folds/one_leg_forward_fold_watercolor.png
+319,Forward Fold Kneeling,N/A,Forward Fold,Beginner,Gentle kneeling forward fold,forward_folds/kneeling_forward_fold_watercolor.png
+320,Forward Fold Squat Variation,N/A,Forward Fold,Beginner-Intermediate,Deep squat with forward fold,forward_folds/squat_forward_fold_watercolor.png
+321,Forward Fold Side Stretch,N/A,Forward Fold,Beginner,Lateral stretch in forward fold,forward_folds/side_stretch_forward_fold_watercolor.png
+322,Forward Fold Hip Opener,N/A,Forward Fold,Beginner-Intermediate,Forward fold with wide stance,forward_folds/hip_open_forward_fold_watercolor.png
+323,Forward Fold with Blocks Under Head,N/A,Forward Fold,Beginner,Restorative forward fold,forward_folds/forward_fold_head_support_watercolor.png
+324,Forward Fold with Bolster,N/A,Forward Fold,Beginner,Supported restorative fold,forward_folds/forward_fold_bolster_watercolor.png
+325,Forward Fold Relaxation,N/A,Forward Fold,Beginner,Gentle passive forward fold,forward_folds/forward_fold_relaxation_watercolor.png
+401,Cobra Pose,Bhujangasana,Backbend,Beginner,Gentle spinal extension strengthening back,backbends/cobra_pose_watercolor.png
+402,Upward Facing Dog,Urdhva Mukha Svanasana,Backbend,Intermediate,Strong chest opener lifting thighs off floor,backbends/upward_facing_dog_watercolor.png
+403,Locust Pose,Salabhasana,Backbend,Beginner-Intermediate,Back body strengthening pose,backbends/locust_pose_watercolor.png
+404,Full Locust Pose,Purna Salabhasana,Backbend,Intermediate,Deeper back extension lifting chest and legs,backbends/full_locust_pose_watercolor.png
+405,Bow Pose,Dhanurasana,Backbend,Intermediate-Advanced,Backbend holding ankles and lifting chest,backbends/bow_pose_watercolor.png
+406,Bridge Pose,Setu Bandhasana,Backbend,Beginner-Intermediate,Supported backbend lifting hips,backbends/bridge_pose_watercolor.png
+407,Wheel Pose,Urdhva Dhanurasana,Backbend,Advanced,Full backbend pressing up from hands and feet,backbends/wheel_pose_watercolor.png
+408,Camel Pose,Ustrasana,Backbend,Intermediate,Deep chest opener kneeling backbend,backbends/camel_pose_watercolor.png
+409,Half Camel Pose,Ardha Ustrasana,Backbend,Beginner-Intermediate,One‑hand variation of camel pose,backbends/half_camel_pose_watercolor.png
+410,Sphinx Pose,Salamba Bhujangasana,Backbend,Beginner,Gentle supported backbend on forearms,backbends/sphinx_pose_watercolor.png
+411,Seal Pose,N/A,Backbend,Beginner-Intermediate,Deeper yin-style backbend with straight arms,backbends/seal_pose_watercolor.png
+412,Upward Plank Pose,Purvottanasana,Backbend,Intermediate,Reverse tabletop with chest opening,backbends/upward_plank_pose_watercolor.png
+413,Reverse Tabletop,N/A,Backbend,Beginner-Intermediate,Shoulder and chest opener lifting hips,backbends/reverse_tabletop_watercolor.png
+414,Supported Bridge Pose,N/A,Backbend,Beginner,Bridge pose with block under sacrum,backbends/supported_bridge_watercolor.png
+415,Low Cobra,Baby Bhujangasana,Backbend,Beginner,Gentle low‑lift cobra variation,backbends/low_cobra_watercolor.png
+416,Superman Pose,N/A,Backbend,Beginner-Intermediate,Back body strengthening lift,backbends/superman_pose_watercolor.png
+417,Swimming Locust,N/A,Backbend,Intermediate,Alternating arm‑leg lifts strengthening back,backbends/swimming_locust_watercolor.png
+418,Half Bow Pose,Ardha Dhanurasana,Backbend,Intermediate,One‑leg variation of bow pose,backbends/half_bow_pose_watercolor.png
+419,Wild Thing,Camatkarasana,Backbend,Intermediate-Advanced,Backbend with open chest and lifted hips,backbends/wild_thing_watercolor.png
+420,Flip Dog,N/A,Backbend,Intermediate,Backbend transition from side plank,backbends/flip_dog_watercolor.png
+421,Upward Salute Backbend,N/A,Backbend,Beginner,Gentle standing backbend with arms overhead,backbends/upward_salute_backbend_watercolor.png
+422,Standing Backbend,Anuvittasana,Backbend,Beginner-Intermediate,Chest opener from standing,backbends/standing_backbend_watercolor.png
+423,Bridge with Leg Lift,N/A,Backbend,Intermediate,Bridge pose variation lifting one leg,backbends/bridge_leg_lift_watercolor.png
+424,Camel with Blocks,N/A,Backbend,Beginner-Intermediate,Supported camel using blocks,backbends/camel_blocks_watercolor.png
+425,Wheel Prep,N/A,Backbend,Beginner-Intermediate,Preparation for full wheel pose,backbends/wheel_prep_watercolor.png
+426,Reverse Plank with Leg Lift,N/A,Backbend,Intermediate,Strengthening variation of upward plank,backbends/reverse_plank_leg_lift_watercolor.png
+427,Bridge Pose Dynamic,N/A,Backbend,Beginner-Intermediate,Flowing bridge lifts for mobility,backbends/bridge_dynamic_watercolor.png
+428,Locust with Arms Back,N/A,Backbend,Beginner-Intermediate,Back extension with arms reaching back,backbends/locust_arms_back_watercolor.png
+429,Locust with Arms Forward,N/A,Backbend,Intermediate,Back extension with arms extended forward,backbends/locust_arms_forward_watercolor.png
+430,Supported Fish Pose,Matsyasana Variation,Backbend,Beginner,Restorative chest opener on bolster,backbends/supported_fish_pose_watercolor.png
+501,Seated Twist,Ardha Matsyendrasana,Twist,Intermediate,Classic seated spinal twist,twists/seated_twist_watercolor.png
+502,Half Lord of the Fishes,Ardha Matsyendrasana Variation,Twist,Intermediate,Deep seated twist variation,twists/half_lord_fishes_watercolor.png
+503,Revolved Triangle,Parivrtta Trikonasana,Twist,Intermediate-Advanced,Standing twist with long stance,twists/revolved_triangle_watercolor.png
+504,Revolved Side Angle,Parivrtta Parsvakonasana,Twist,Advanced,Deep twisting lunge,twists/revolved_side_angle_watercolor.png
+505,Revolved Chair Pose,Parivrtta Utkatasana,Twist,Intermediate,Twisting variation of chair pose,twists/revolved_chair_watercolor.png
+506,Revolved Half Moon,Parivrtta Ardha Chandrasana,Twist,Advanced,Balancing twist with extended leg,twists/revolved_half_moon_watercolor.png
+507,Supine Spinal Twist,Jathara Parivartanasana,Twist,Beginner,Gentle supine twist releasing spine,twists/supine_spinal_twist_watercolor.png
+508,Reclined Twist,N/A,Twist,Beginner,Relaxed supine twist variation,twists/reclined_twist_watercolor.png
+509,Bharadvajasana,Bharadvajasana I,Twist,Intermediate,Gentle seated twist with hip opening,twists/bharadvajasana_watercolor.png
+510,Marichyasana C,Marichyasana III,Twist,Intermediate,Seated twist with knee bend,twists/marichyasana_c_watercolor.png
+511,Marichyasana D,Marichyasana IV,Twist,Advanced,Deep bind twist,twists/marichyasana_d_watercolor.png
+512,Thread the Needle,Parsva Balasana,Twist,Beginner,Gentle shoulder and spine twist,twists/thread_the_needle_watercolor.png
+513,Revolved Lunge,N/A,Twist,Intermediate,Lunge with torso twist,twists/revolved_lunge_watercolor.png
+514,Revolved Forward Fold,N/A,Twist,Beginner-Intermediate,Twisting variation of forward fold,twists/twisted_forward_fold_watercolor.png
+515,Revolved Wide-Legged Fold,N/A,Twist,Beginner-Intermediate,Twist from wide stance,twists/revolved_wide_fold_watercolor.png
+516,Revolved Head-to-Knee,Parivrtta Janu Sirsasana,Twist,Intermediate,Side bend + twist combination,twists/revolved_head_to_knee_watercolor.png
+517,Revolved Seated Side Bend,N/A,Twist,Beginner,Gentle seated twist with side stretch,twists/revolved_seated_side_bend_watercolor.png
+518,Revolved Boat Pose,N/A,Twist,Intermediate,Core strengthening twist,twists/revolved_boat_pose_watercolor.png
+519,Revolved Bound Angle,N/A,Twist,Beginner-Intermediate,Twist from butterfly pose,twists/revolved_bound_angle_watercolor.png
+520,Revolved Child’s Pose,N/A,Twist,Beginner,Gentle twist variation of child’s pose,twists/revolved_child_pose_watercolor.png
+601,Bound Angle Pose,Baddha Konasana,Hip Opener,Beginner-Intermediate,Opens inner thighs and groin,hip_openers/bound_angle_watercolor.png
+602,Fire Log Pose,Agnistambhasana,Hip Opener,Intermediate,Deep external hip rotation stretch,hip_openers/fire_log_pose_watercolor.png
+603,Pigeon Pose,Eka Pada Rajakapotasana Prep,Hip Opener,Intermediate,Front hip external rotation and back hip extension,hip_openers/pigeon_pose_watercolor.png
+604,Reclined Pigeon,Supine Figure Four,Hip Opener,Beginner,Gentle hip opener lying on back,hip_openers/reclined_pigeon_watercolor.png
+605,Lizard Pose,Uttana Pristhasana,Hip Opener,Intermediate,Deep hip flexor and groin stretch,hip_openers/lizard_pose_watercolor.png
+606,Frog Pose,Bhekasana Prep,Hip Opener,Intermediate-Advanced,Deep groin opener with knees wide,hip_openers/frog_pose_watercolor.png
+607,Half Frog Pose,Ardha Bhekasana,Hip Opener,Intermediate,Quad and hip flexor stretch,hip_openers/half_frog_pose_watercolor.png
+608,Cow Face Pose,Gomukhasana,Hip Opener,Intermediate,Deep hip and glute stretch,hip_openers/cow_face_pose_watercolor.png
+609,Garland Pose,Malasana,Hip Opener,Beginner-Intermediate,Deep squat opening hips and lower back,hip_openers/malasana_watercolor.png
+610,Wide-Legged Seated Forward Bend,Upavistha Konasana,Hip Opener,Intermediate,Wide-leg seated stretch,hip_openers/wide_angle_seated_watercolor.png
+611,Happy Baby Pose,Ananda Balasana,Hip Opener,Beginner,Gentle hip opening lying on back,hip_openers/happy_baby_watercolor.png
+612,Low Lunge,Anjaneyasana,Hip Opener,Beginner-Intermediate,Opens hip flexors and quads,hip_openers/low_lunge_watercolor.png
+613,Crescent Lunge,Lunge Variation,Hip Opener,Intermediate,Deep hip flexor stretch with lift,hip_openers/crescent_lunge_watercolor.png
+614,Warrior II Hip Opener,Vira II Variation,Hip Opener,Beginner-Intermediate,External rotation of front hip,hip_openers/warrior2_hip_open_watercolor.png
+615,Goddess Pose,Utkata Konasana,Hip Opener,Beginner-Intermediate,Wide squat strengthening hips,hip_openers/goddess_pose_watercolor.png
+616,Side Lunge,Skandasana,Hip Opener,Intermediate,Lateral hip opening and hamstring stretch,hip_openers/skandasana_watercolor.png
+617,Half Split,Ardha Hanumanasana,Hip Opener,Beginner-Intermediate,Hamstring and hip opener,hip_openers/half_split_watercolor.png
+618,Full Split,Hanumanasana,Hip Opener,Advanced,Deep hip flexor and hamstring opening,hip_openers/full_split_watercolor.png
+619,Butterfly Fold,Baddha Konasana Forward Fold,Hip Opener,Beginner-Intermediate,Forward fold in butterfly pose,hip_openers/butterfly_fold_watercolor.png
+620,Wide Squat Twist,N/A,Hip Opener,Beginner-Intermediate,Twisting variation of deep squat,hip_openers/wide_squat_twist_watercolor.png
+621,Figure Four Chair Pose,N/A,Hip Opener,Beginner-Intermediate,Standing hip opener balancing pose,hip_openers/figure_four_chair_watercolor.png
+622,Reclined Bound Angle,Supta Baddha Konasana,Hip Opener,Beginner,Restorative hip opener,hip_openers/reclined_bound_angle_watercolor.png
+623,Standing Figure Four,N/A,Hip Opener,Intermediate,Balancing hip opener,hip_openers/standing_figure_four_watercolor.png
+624,Half Pigeon Twist,N/A,Hip Opener,Intermediate,Spinal twist from pigeon pose,hip_openers/half_pigeon_twist_watercolor.png
+625,Deep Lizard with Twist,N/A,Hip Opener,Intermediate-Advanced,Intense hip opener with rotation,hip_openers/deep_lizard_twist_watercolor.png
+701,Crow Pose,Bakasana,Arm Balance,Intermediate,Foundational arm balance building wrist and core strength,arm_balances/crow_pose_watercolor.png
+702,Crane Pose,Bakasana Variation,Arm Balance,Advanced,Straighter‑arm variation of crow pose,arm_balances/crane_pose_watercolor.png
+703,Side Crow,Parsva Bakasana,Arm Balance,Advanced,Twisting arm balance requiring strong obliques,arm_balances/side_crow_watercolor.png
+704,Flying Crow,Eka Pada Bakasana,Arm Balance,Advanced,One‑leg extended variation of crow,arm_balances/flying_crow_watercolor.png
+705,Firefly Pose,Tittibhasana,Arm Balance,Advanced,Legs extended forward while balancing on hands,arm_balances/firefly_pose_watercolor.png
+706,Elephant Trunk Pose,Eka Hasta Bhujasana,Arm Balance,Intermediate-Advanced,One‑leg arm balance with leg over shoulder,arm_balances/elephant_trunk_watercolor.png
+707,Astavakrasana,Eight Angle Pose,Arm Balance,Advanced,Strong twist and leg hook arm balance,arm_balances/astavakrasana_watercolor.png
+708,Side Plank,Vasisthasana,Arm Balance,Beginner-Intermediate,Foundational balance on one arm,arm_balances/side_plank_watercolor.png
+709,Side Plank Tree,Vasisthasana Variation,Arm Balance,Intermediate,Side plank with foot placed on inner thigh,arm_balances/side_plank_tree_watercolor.png
+710,Side Plank Leg Lift,N/A,Arm Balance,Intermediate-Advanced,Side plank with top leg lifted,arm_balances/side_plank_leg_lift_watercolor.png
+711,Peacock Pose,Mayurasana,Arm Balance,Advanced,Full body balance on forearms with elbows in abdomen,arm_balances/peacock_pose_watercolor.png
+712,Forearm Plank Balance,N/A,Arm Balance,Beginner-Intermediate,Strengthening core balance on forearms,arm_balances/forearm_plank_balance_watercolor.png
+713,Plank Pose,Kumbhakasana,Arm Balance,Beginner,Foundational arm balance strengthening core and shoulders,arm_balances/plank_pose_watercolor.png
+714,Chaturanga Dandasana,Low Plank,Arm Balance,Intermediate,Low push‑up position requiring arm stability,arm_balances/chaturanga_watercolor.png
+715,Handstand Prep,Adho Mukha Vrksasana Prep,Arm Balance,Beginner-Intermediate,Strength and alignment preparation for handstand,arm_balances/handstand_prep_watercolor.png
+716,L‑Shape Handstand at Wall,N/A,Arm Balance,Intermediate,Handstand variation with legs on wall,arm_balances/l_shape_handstand_watercolor.png
+717,Handstand,Adho Mukha Vrksasana,Arm Balance,Advanced,Full inversion balancing on hands,arm_balances/handstand_watercolor.png
+718,Forearm Stand,Pincha Mayurasana,Arm Balance,Advanced,Inversion balancing on forearms,arm_balances/forearm_stand_watercolor.png
+719,Feathered Peacock Prep,N/A,Arm Balance,Intermediate,Prep work for forearm stand,arm_balances/forearm_stand_prep_watercolor.png
+720,Scale Pose,Tolasana,Arm Balance,Intermediate,Arm balance lifting body from lotus seat,arm_balances/scale_pose_watercolor.png
+801,Legs Up the Wall,Viparita Karani,Inversion,Beginner,Restorative inversion with legs supported on wall,inversions/legs_up_wall_watercolor.png
+802,Supported Shoulderstand,Salamba Sarvangasana,Inversion,Beginner-Intermediate,Gentle inversion with shoulder support,inversions/supported_shoulderstand_watercolor.png
+803,Shoulderstand,Sarvangasana,Inversion,Intermediate,Classic inversion balancing on shoulders,inversions/shoulderstand_watercolor.png
+804,Plow Pose,Halasana,Inversion,Intermediate,Forward fold inversion with feet overhead,inversions/plow_pose_watercolor.png
+805,Ear Pressure Pose,Karnapidasana,Inversion,Intermediate-Advanced,Deep forward fold variation of plow,inversions/ear_pressure_pose_watercolor.png
+806,Supported Plow Pose,N/A,Inversion,Beginner-Intermediate,Restorative plow with props,inversions/supported_plow_watercolor.png
+807,Headstand Prep,Sirsasana Prep,Inversion,Beginner-Intermediate,Alignment and strength preparation for headstand,inversions/headstand_prep_watercolor.png
+808,Tripod Headstand Prep,N/A,Inversion,Intermediate,Preparation for tripod headstand,inversions/tripod_headstand_prep_watercolor.png
+809,Headstand,Sirsasana,Inversion,Advanced,Full inversion balancing on head and forearms,inversions/headstand_watercolor.png
+810,Tripod Headstand,Sirsasana II,Inversion,Advanced,Headstand balancing on hands and head,inversions/tripod_headstand_watercolor.png
+811,Forearm Stand,Pincha Mayurasana,Inversion,Advanced,Inversion balancing on forearms,inversions/forearm_stand_watercolor.png
+812,Forearm Stand Prep,N/A,Inversion,Intermediate,Strength and alignment prep for forearm stand,inversions/forearm_stand_prep_watercolor.png
+813,Handstand Prep,Adho Mukha Vrksasana Prep,Inversion,Intermediate,Strength and alignment preparation for handstand,inversions/handstand_prep_watercolor.png
+814,Handstand at Wall,N/A,Inversion,Intermediate-Advanced,Handstand variation using wall support,inversions/handstand_wall_watercolor.png
+815,Handstand,Adho Mukha Vrksasana,Inversion,Advanced,Full inversion balancing on hands,inversions/handstand_watercolor.png
+816,Shoulderstand with Legs Wide,N/A,Inversion,Intermediate,Wide‑leg variation of shoulderstand,inversions/shoulderstand_legs_wide_watercolor.png
+817,Shoulderstand Scissor Legs,N/A,Inversion,Intermediate,Alternating leg movement in shoulderstand,inversions/shoulderstand_scissor_watercolor.png
+818,Plow Pose with Bent Knees,N/A,Inversion,Beginner-Intermediate,Gentle variation of plow pose,inversions/plow_bent_knees_watercolor.png
+819,Supported Inversion on Bolster,N/A,Inversion,Beginner,Restorative mild inversion with bolster,inversions/supported_inversion_bolster_watercolor.png
+820,Dolphin Pose,Ardha Pincha Mayurasana,Inversion,Beginner-Intermediate,Forearm-based inversion prep strengthening shoulders,inversions/dolphin_pose_watercolor.png
+901,Reclined Bound Angle,Supta Baddha Konasana,Supine,Beginner,Restorative hip opener lying on back,supine_prone/reclined_bound_angle_watercolor.png
+902,Reclined Twist,Jathara Parivartanasana,Supine,Beginner,Gentle spinal twist on back,supine_prone/reclined_twist_watercolor.png
+903,Reclined Hamstring Stretch,Supta Padangusthasana,Supine,Beginner-Intermediate,Hamstring stretch using strap,supine_prone/reclined_hamstring_stretch_watercolor.png
+904,Reclined Figure Four,N/A,Supine,Beginner,Hip opener lying on back,supine_prone/reclined_figure_four_watercolor.png
+905,Reclined Knee-to-Chest,Apanasana,Supine,Beginner,Gentle lower back release,supine_prone/knee_to_chest_watercolor.png
+906,Reclined Double Knee-to-Chest,N/A,Supine,Beginner,Lower back decompression,supine_prone/double_knee_to_chest_watercolor.png
+907,Reclined Butterfly Fold,N/A,Supine,Beginner-Intermediate,Forward fold variation lying down,supine_prone/reclined_butterfly_fold_watercolor.png
+908,Bridge Pose,Setu Bandhasana,Supine,Beginner-Intermediate,Backbend lifting hips,supine_prone/bridge_pose_watercolor.png
+909,Supported Bridge,N/A,Supine,Beginner,Bridge with block under sacrum,supine_prone/supported_bridge_watercolor.png
+910,Reclined Twist with Eagle Legs,N/A,Supine,Intermediate,Deep twist variation,supine_prone/eagle_twist_watercolor.png
+911,Reclined Side Stretch,Banana Pose,Supine,Beginner,Lateral stretch lying on back,supine_prone/banana_pose_watercolor.png
+912,Reclined Core March,N/A,Supine,Beginner-Intermediate,Core activation lying down,supine_prone/reclined_core_march_watercolor.png
+913,Reclined Pelvic Tilts,N/A,Supine,Beginner,Gentle lumbar mobility,supine_prone/pelvic_tilts_watercolor.png
+914,Reclined Windshield Wipers,N/A,Supine,Beginner,Hip and spine mobility,supine_prone/windshield_wipers_watercolor.png
+915,Savasana,Corpse Pose,Supine,Beginner,Final relaxation pose,supine_prone/savasana_watercolor.png
+916,Prone Cobra,Bhujangasana Prep,Prone,Beginner,Gentle back extension,supine_prone/prone_cobra_watercolor.png
+917,Prone Locust,Salabhasana Prep,Prone,Beginner-Intermediate,Back body strengthening,supine_prone/prone_locust_watercolor.png
+918,Prone Shoulder Stretch,N/A,Prone,Beginner,Chest and shoulder opener lying face down,supine_prone/prone_shoulder_stretch_watercolor.png
+919,Prone Quad Stretch,N/A,Prone,Beginner-Intermediate,Quad stretch lying on stomach,supine_prone/prone_quad_stretch_watercolor.png
+920,Crocodile Pose,Makarasana,Prone,Beginner,Resting prone position,supine_prone/crocodile_pose_watercolor.png
+921,Child’s Pose,Balasana,Prone,Beginner,Gentle forward fold resting pose,supine_prone/child_pose_watercolor.png
+922,Extended Child’s Pose,N/A,Prone,Beginner,Longer spine stretch variation,supine_prone/extended_child_pose_watercolor.png
+923,Thread the Needle,Parsva Balasana,Prone,Beginner,Shoulder and spine twist,supine_prone/thread_the_needle_watercolor.png
+924,Sphinx Pose,Salamba Bhujangasana,Prone,Beginner,Gentle supported backbend,supine_prone/sphinx_pose_watercolor.png
+925,Seal Pose,N/A,Prone,Beginner-Intermediate,Deeper yin-style backbend,supine_prone/seal_pose_watercolor.png
+926,Prone Hip Internal Rotation,N/A,Prone,Beginner,Hip mobility lying face down,supine_prone/prone_internal_rotation_watercolor.png
+927,Prone Hamstring Curl,N/A,Prone,Beginner-Intermediate,Strengthening hamstring activation,supine_prone/prone_hamstring_curl_watercolor.png
+928,Prone Chest Opener with Strap,N/A,Prone,Intermediate,Shoulder and chest stretch,supine_prone/prone_strap_chest_opener_watercolor.png
+929,Prone Backbend Flow,N/A,Prone,Beginner-Intermediate,Gentle dynamic back extension,supine_prone/prone_backbend_flow_watercolor.png
+930,Belly Relaxation Pose,N/A,Prone,Beginner,Resting prone posture,supine_prone/belly_relaxation_watercolor.png
+1001,Supported Child’s Pose,N/A,Restorative,Beginner,Resting forward fold with bolster support,restorative/supported_child_pose_watercolor.png
+1002,Supported Butterfly,Supta Baddha Konasana (Yin),Restorative,Beginner,Gentle hip opener with props,restorative/supported_butterfly_watercolor.png
+1003,Supported Forward Fold,N/A,Restorative,Beginner,Forward fold resting on bolster,restorative/supported_forward_fold_watercolor.png
+1004,Supported Seated Forward Fold,N/A,Restorative,Beginner,Seated fold with bolster under torso,restorative/supported_seated_forward_fold_watercolor.png
+1005,Supported Bridge,N/A,Restorative,Beginner,Bridge pose with block under sacrum,restorative/supported_bridge_watercolor.png
+1006,Supported Fish Pose,N/A,Restorative,Beginner,Chest opener using bolster or blocks,restorative/supported_fish_watercolor.png
+1007,Reclined Bound Angle (Yin),Supta Baddha Konasana,Restorative,Beginner,Restorative hip opener with props,restorative/reclined_bound_angle_yin_watercolor.png
+1008,Reclined Twist (Yin),N/A,Restorative,Beginner,Gentle supported twist,restorative/reclined_twist_yin_watercolor.png
+1009,Legs on Chair,N/A,Restorative,Beginner,Resting inversion with legs supported,restorative/legs_on_chair_watercolor.png
+1010,Legs Up the Wall,Viparita Karani,Restorative,Beginner,Restorative mild inversion,restorative/legs_up_wall_watercolor.png
+1011,Supported Savasana,N/A,Restorative,Beginner,Deep relaxation with props,restorative/supported_savasana_watercolor.png
+1012,Reclined Side Bend,Banana Pose (Yin),Restorative,Beginner,Lateral stretch lying on back,restorative/banana_pose_yin_watercolor.png
+1013,Supported Twist with Bolster,N/A,Restorative,Beginner,Resting twist with bolster under torso,restorative/supported_twist_bolster_watercolor.png
+1014,Supported Heart Opener,N/A,Restorative,Beginner,Gentle chest opening on bolster,restorative/supported_heart_opener_watercolor.png
+1015,Supported Pigeon (Yin),N/A,Restorative,Beginner-Intermediate,Restorative hip opener with props,restorative/supported_pigeon_watercolor.png
+1016,Supported Frog (Yin),N/A,Restorative,Intermediate,Deep groin opener with props,restorative/supported_frog_watercolor.png
+1017,Supported Caterpillar,Yin Forward Fold,Restorative,Beginner-Intermediate,Long‑hold seated forward fold,restorative/caterpillar_pose_watercolor.png
+1018,Supported Dragon,Yin Lunge,Restorative,Intermediate,Deep hip flexor opener with props,restorative/supported_dragon_watercolor.png
+1019,Supported Sphinx,Yin Backbend,Restorative,Beginner,Gentle backbend with bolster,restorative/supported_sphinx_watercolor.png
+1020,Supported Seal,Yin Backbend,Restorative,Beginner-Intermediate,Deeper supported backbend,restorative/supported_seal_watercolor.png
+1021,Supported Shoelace,Yin Gomukhasana,Restorative,Intermediate,Hip opener with long hold,restorative/supported_shoelace_watercolor.png
+1022,Supported Square Pose,Yin Agnistambhasana,Restorative,Intermediate,External hip rotation with props,restorative/supported_square_pose_watercolor.png
+1023,Supported Reclined Twist with Strap,N/A,Restorative,Beginner,Gentle twist using strap,restorative/supported_twist_strap_watercolor.png
+1024,Supported Reclined Hamstring Stretch,N/A,Restorative,Beginner,Restorative hamstring stretch,restorative/supported_hamstring_stretch_watercolor.png
+1025,Supported Child’s Pose Side Stretch,N/A,Restorative,Beginner,Lateral stretch variation,restorative/supported_child_side_stretch_watercolor.png
+1026,Supported Wide-Legged Forward Fold,N/A,Restorative,Beginner-Intermediate,Resting torso on bolster,restorative/supported_wide_forward_fold_watercolor.png
+1027,Supported Reclined Twist with Bolster Under Legs,N/A,Restorative,Beginner,Restorative twist variation,restorative/supported_twist_legs_bolster_watercolor.png
+1028,Supported Prone Relaxation,N/A,Restorative,Beginner,Resting prone pose with bolster,restorative/supported_prone_relaxation_watercolor.png
+1029,Supported Knees-to-Chest,N/A,Restorative,Beginner,Gentle lumbar release with props,restorative/supported_knees_to_chest_watercolor.png
+1030,Supported Full Body Relaxation,N/A,Restorative,Beginner,Deep restorative rest with full prop setup,restorative/supported_full_relaxation_watercolor.png
+1101,Mountain Pose,Tadasana,Transition,Beginner,Neutral standing alignment foundational for transitions,transitions/mountain_pose_watercolor.png
+1102,Standing Arms Up,Urdhva Hastasana,Transition,Beginner,Upward reach preparing for folds or backbends,transitions/arms_up_watercolor.png
+1103,Half Lift,Ardha Uttanasana,Transition,Beginner,Spine‑lengthening transition in sun salutations,transitions/half_lift_watercolor.png
+1104,High Plank,Kumbhakasana,Transition,Beginner-Intermediate,Core‑stabilizing transition pose,transitions/high_plank_watercolor.png
+1105,Low Plank,Chaturanga Dandasana,Transition,Intermediate,Strength transition between plank and backbend,transitions/chaturanga_watercolor.png
+1106,Upward Facing Dog,Urdhva Mukha Svanasana,Transition,Intermediate,Backbend transition in vinyasa flow,transitions/upward_facing_dog_watercolor.png
+1107,Downward Facing Dog,Adho Mukha Svanasana,Transition,Beginner,Foundational transition linking sequences,transitions/downward_dog_watercolor.png
+1108,Tabletop Pose,Bharmanasana,Transition,Beginner,Neutral quadruped position for transitions,transitions/tabletop_watercolor.png
+1109,Cat Pose,Marjaryasana,Transition,Beginner,Spinal flexion warm‑up,transitions/cat_pose_watercolor.png
+1110,Cow Pose,Bitilasana,Transition,Beginner,Spinal extension warm‑up,transitions/cow_pose_watercolor.png
+1111,Child’s Pose,Balasana,Transition,Beginner,Resting transition between sequences,transitions/child_pose_watercolor.png
+1112,Chair Pose,Utkatasana,Transition,Beginner-Intermediate,Standing transition in sun salutations,transitions/chair_pose_watercolor.png
+1113,Warrior I,Virabhadrasana I,Transition,Beginner-Intermediate,Standing transition linking lunges and flows,transitions/warrior1_watercolor.png
+1114,Warrior II,Virabhadrasana II,Transition,Beginner-Intermediate,Standing transition in flow sequences,transitions/warrior2_watercolor.png
+1115,Warrior III,Virabhadrasana III,Transition,Intermediate,Balancing transition pose,transitions/warrior3_watercolor.png
+1116,Low Lunge,Anjaneyasana,Transition,Beginner-Intermediate,Common transition between standing and floor,transitions/low_lunge_watercolor.png
+1117,High Lunge,Crescent Lunge,Transition,Intermediate,Dynamic transition in vinyasa sequences,transitions/high_lunge_watercolor.png
+1118,Step Forward Transition,N/A,Transition,Beginner,Functional movement stepping to front of mat,transitions/step_forward_watercolor.png
+1119,Step Back Transition,N/A,Transition,Beginner,Functional movement stepping back to lunge,transitions/step_back_watercolor.png
+1120,Savasana Transition,N/A,Transition,Beginner,Gentle transition into final rest,transitions/savasana_transition_watercolor.png
