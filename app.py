@@ -12,7 +12,7 @@ def load_data():
     therapy = pd.read_csv("data/therapy_map.csv")
     contra = pd.read_csv("data/contraindications.csv")
     props = pd.read_csv("data/props.csv")
-    bio = pd.read_csv("data/bio_mechanics.csv")
+    bio = pd.read_csv("data/biomechanics.csv")
     seq = pd.read_csv("data/sequencing.csv")
     return poses, variations, therapy, contra, props, bio, seq
 
@@ -125,7 +125,7 @@ else:
     # ---------------------------------------------------------
     # Biomechanics
     # ---------------------------------------------------------
-    st.write("### Bio_mechanics")
+    st.write("### Biomechanics")
     pose_bio = bio[bio["pose_id"] == pose["id"]]
     if len(pose_bio) > 0:
         bio_row = pose_bio.iloc[0]
