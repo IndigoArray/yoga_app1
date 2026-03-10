@@ -1,4 +1,4 @@
-pose_id,joint_action,muscles_activated,muscles_stretched,plane_of_movement
+pose_id,joint_action,muscles_activated,muscles_stretched,planes_of_movement
 101,"Neutral spine; hip/knee extension","Core stabilizers; quadriceps","None","Sagittal"
 102,"Shoulder flexion; spinal extension","Deltoids; upper back","Abdominals; lats","Sagittal"
 103,"Hip flexion; spinal flexion","Hip flexors (eccentric); abdominals","Hamstrings; calves; spine","Sagittal"
