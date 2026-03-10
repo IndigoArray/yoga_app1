@@ -1,0 +1,160 @@
+variation_id,pose_id,variation_type,description
+1001,101,Beginner,"Back against wall for alignment support"
+1002,101,Intermediate,"Arms overhead with palms touching"
+1003,101,Advanced,"Lift heels into standing balance"
+
+1004,102,Beginner,"Hands shoulder‑width instead of together"
+1005,102,Intermediate,"Gentle backbend with chest lifted"
+1006,102,Advanced,"Deep backbend with arms fully extended"
+
+1007,103,Beginner,"Bend knees to reduce hamstring load"
+1008,103,Intermediate,"Straight legs with hands on blocks"
+1009,103,Advanced,"Chest to thighs with hands behind ankles"
+
+1010,104,Beginner,"Hands on shins for support"
+1011,104,Intermediate,"Hands on blocks for longer spine"
+1012,104,Advanced,"Arms extended forward parallel to floor"
+
+1013,105,Beginner,"Shallow bend in knees"
+1014,105,Intermediate,"Arms extended overhead"
+1015,105,Advanced,"Heels lifted in chair pose"
+
+1016,106,Beginner,"Shorter stance for stability"
+1017,106,Intermediate,"Arms overhead with slight backbend"
+1018,106,Advanced,"Hands in prayer behind back"
+
+1019,107,Beginner,"Shorter stance to protect knees"
+1020,107,Intermediate,"Deeper lunge with wider arms"
+1021,107,Advanced,"Reverse Warrior transition"
+
+1022,108,Beginner,"Hands on hips for balance"
+1023,108,Intermediate,"Arms extended forward"
+1024,108,Advanced,"Airplane arms with torso parallel to floor"
+
+1025,109,Beginner,"Top hand on hip"
+1026,109,Intermediate,"Bottom hand on block"
+1027,109,Advanced,"Bind variation (half or full)"
+
+1028,110,Beginner,"Forearm on thigh"
+1029,110,Intermediate,"Hand on block"
+1030,110,Advanced,"Full bind variation"
+
+1031,111,Beginner,"Shorter stance with gentle side bend"
+1032,111,Intermediate,"Deeper bend with extended arm"
+1033,111,Advanced,"Reverse Warrior to Side Angle flow"
+
+1034,112,Beginner,"Hands on blocks"
+1035,112,Intermediate,"Hands to floor with straight legs"
+1036,112,Advanced,"Head to floor variation"
+
+1037,113,Beginner,"Lift leg only slightly"
+1038,113,Intermediate,"Leg parallel to floor"
+1039,113,Advanced,"Full split with chest to shin"
+
+1040,114,Beginner,"Arms only (no leg wrap)"
+1041,114,Intermediate,"Full arm and leg bind"
+1042,114,Advanced,"Forward‑folding Eagle"
+
+1043,115,Beginner,"Foot on ankle (kickstand)"
+1044,115,Intermediate,"Foot on calf"
+1045,115,Advanced,"Foot on inner thigh"
+
+1046,116,Beginner,"Hold ankle lightly"
+1047,116,Intermediate,"Kick foot into hand for deeper backbend"
+1048,116,Advanced,"Full bow‑shaped dancer pose"
+
+1049,117,Beginner,"Knee bent, holding shin"
+1050,117,Intermediate,"Leg extended forward"
+1051,117,Advanced,"Leg extended to side"
+
+1052,118,Beginner,"Hands on hips"
+1053,118,Intermediate,"Arms overhead"
+1054,118,Advanced,"Twisting high lunge"
+
+1055,119,Beginner,"Hands on blocks"
+1056,119,Intermediate,"Arms overhead"
+1057,119,Advanced,"Backbend variation"
+
+1058,120,Beginner,"Shallow squat"
+1059,120,Intermediate,"Elbows bent, arms cactus"
+1060,120,Advanced,"Heels lifted"
+
+1061,121,Beginner,"Arms lower than shoulder height"
+1062,121,Intermediate,"Wide stance with full extension"
+1063,121,Advanced,"Side bend variation"
+
+1064,122,Beginner,"Hands on floor for support"
+1065,122,Intermediate,"Hands in prayer"
+1066,122,Advanced,"Arm balance transition"
+
+1067,123,Beginner,"Hands on lower back"
+1068,123,Intermediate,"Arms overhead"
+1069,123,Advanced,"Deep standing backbend"
+
+1070,124,Beginner,"Small twist with hands on hips"
+1071,124,Intermediate,"Arms extended"
+1072,124,Advanced,"Twist with bind"
+
+1073,125,Beginner,"Hand on hip"
+1074,125,Intermediate,"Arm extended overhead"
+1075,125,Advanced,"Deep side bend with crossed legs"
+
+1076,126,Beginner,"Hands on wall for balance"
+1077,126,Intermediate,"Hands in prayer"
+1078,126,Advanced,"Forward‑folding figure four"
+
+1079,127,Beginner,"Small spinal movements"
+1080,127,Intermediate,"Full cat‑cow range"
+1081,127,Advanced,"Arms extended overhead"
+
+1082,128,Beginner,"Hold knee with both hands"
+1083,128,Intermediate,"Hands on hips"
+1084,128,Advanced,"Straighten lifted leg"
+
+1085,129,Beginner,"Hold foot lightly"
+1086,129,Intermediate,"Pull heel toward glute"
+1087,129,Advanced,"Quad stretch with backbend"
+
+1088,130,Beginner,"Small hip circles"
+1089,130,Intermediate,"Large controlled circles"
+1090,130,Advanced,"Hip circles with arms overhead"
+
+1091,131,Beginner,"Slow marching"
+1092,131,Intermediate,"High‑knee marching"
+1093,131,Advanced,"Fast dynamic marching"
+
+1094,132,Beginner,"Small arm circles"
+1095,132,Intermediate,"Large arm circles"
+1096,132,Advanced,"Arm circles with light weights"
+
+1097,133,Beginner,"Hands clasped gently"
+1098,133,Intermediate,"Lift arms higher"
+1099,133,Advanced,"Forward fold with chest opener"
+
+1100,134,Beginner,"Gentle wrist flexion"
+1101,134,Intermediate,"Deeper stretch with elbow support"
+1102,134,Advanced,"Full wrist rotation sequence"
+
+1103,135,Beginner,"Hands on thigh"
+1104,135,Intermediate,"Hands on shin"
+1105,135,Advanced,"Chest to knee"
+
+1106,136,Beginner,"Hands on wall"
+1107,136,Intermediate,"Step back deeper"
+1108,136,Advanced,"Single‑leg calf stretch"
+
+1109,137,Beginner,"Small side bend"
+1110,137,Intermediate,"Deeper side bend"
+1111,137,Advanced,"Cross‑leg forward fold"
+
+1112,138,Beginner,"Hands clasped lightly"
+1113,138,Intermediate,"Arms fully extended"
+1114,138,Advanced,"Backbend with shoulder opener"
+
+1115,139,Beginner,"Shift weight side to side"
+1116,139,Intermediate,"Lift one foot slightly"
+1117,139,Advanced,"Hold single‑leg balance"
+
+1118,140,Beginner,"Hands on hips"
+1119,140,Intermediate,"Arms extended"
+1120,140,Advanced,"Prayer twist in lunge"

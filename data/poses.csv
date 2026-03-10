@@ -1,0 +1,41 @@
+id,english_name,sanskrit_name,category,level,description,image_path
+101,Mountain Pose,Tadasana,Standing,Beginner,Neutral standing alignment and grounding,standing/mountain_pose_watercolor.png
+102,Upward Salute,Urdhva Hastasana,Standing,Beginner,Arms overhead stretch improving posture,standing/upward_salute_watercolor.png
+103,Standing Forward Fold,Uttanasana,Standing,Beginner-Intermediate,Deep hamstring stretch and spine release,standing/standing_forward_fold_watercolor.png
+104,Half Forward Fold,Ardha Uttanasana,Standing,Beginner,Lengthens spine and prepares for forward folds,standing/half_forward_fold_watercolor.png
+105,Chair Pose,Utkatasana,Standing,Intermediate,Strengthens legs and core with deep knee bend,standing/chair_pose_watercolor.png
+106,Warrior I,Virabhadrasana I,Standing,Beginner-Intermediate,Strong lunge with chest lifted,standing/warrior_1_watercolor.png
+107,Warrior II,Virabhadrasana II,Standing,Beginner-Intermediate,Wide stance hip opener with arm extension,standing/warrior_2_watercolor.png
+108,Warrior III,Virabhadrasana III,Standing,Intermediate,Single-leg balance with torso extended forward,standing/warrior_3_watercolor.png
+109,Triangle Pose,Trikonasana,Standing,Beginner-Intermediate,Lateral stretch and hip opening,standing/triangle_pose_watercolor.png
+110,Extended Side Angle,Utthita Parsvakonasana,Standing,Intermediate,Deep side stretch with bent knee,standing/extended_side_angle_watercolor.png
+111,Reverse Warrior,Viparita Virabhadrasana,Standing,Intermediate,Side bend variation of Warrior II,standing/reverse_warrior_watercolor.png
+112,Wide-Legged Forward Fold,Prasarita Padottanasana,Standing,Beginner-Intermediate,Forward fold with wide stance,standing/wide_legged_forward_fold_watercolor.png
+113,Standing Split,Urdhva Prasarita Eka Padasana,Standing,Advanced,Forward fold with one leg lifted high,standing/standing_split_watercolor.png
+114,Eagle Pose,Garudasana,Standing,Intermediate,Balancing pose with arm and leg bind,standing/eagle_pose_watercolor.png
+115,Tree Pose,Vrksasana,Standing,Beginner,Balancing pose with foot on inner leg,standing/tree_pose_watercolor.png
+116,Dancer Pose,Natarajasana,Standing,Intermediate-Advanced,Backbend balance holding lifted foot,standing/dancer_pose_watercolor.png
+117,Standing Hand to Big Toe,Utthita Hasta Padangusthasana,Standing,Advanced,Leg extension balance holding big toe,standing/hand_to_big_toe_watercolor.png
+118,High Lunge,Alanasana,Standing,Beginner-Intermediate,Lunge with lifted back heel,standing/high_lunge_watercolor.png
+119,Low Lunge,Anjaneyasana,Standing,Beginner,Kneeling lunge opening hip flexors,standing/low_lunge_watercolor.png
+120,Goddess Pose,Utkata Konasana,Standing,Beginner-Intermediate,Wide squat strengthening hips and legs,standing/goddess_pose_watercolor.png
+121,Star Pose,Utthita Tadasana,Standing,Beginner,Wide stance with arms extended,standing/star_pose_watercolor.png
+122,Side Lunge,Skandasana,Standing,Intermediate,Deep lateral lunge stretching inner thighs,standing/side_lunge_watercolor.png
+123,Standing Backbend,Anuvittasana,Standing,Beginner-Intermediate,Gentle standing chest opener,standing/standing_backbend_watercolor.png
+124,Standing Mountain Twist,Parivrtta Tadasana,Standing,Beginner,Gentle standing spinal twist,standing/standing_mountain_twist_watercolor.png
+125,Standing Side Bend,Parsva Tadasana,Standing,Beginner,Lateral stretch from standing,standing/standing_side_bend_watercolor.png
+126,Standing Figure Four,Ardha Utkatasana Variation,Standing,Intermediate,Hip opener balancing on one leg,standing/standing_figure_four_watercolor.png
+127,Standing Cat-Cow,Marjaryasana-Bitilasana Variation,Standing,Beginner,Gentle spinal mobility in standing,standing/standing_cat_cow_watercolor.png
+128,Standing Knee to Chest,Utthita Hasta Padangusthasana Prep,Standing,Beginner,Balance pose lifting knee to chest,standing/knee_to_chest_watercolor.png
+129,Standing Quad Stretch,N/A,Standing,Beginner,Quad stretch balancing on one leg,standing/standing_quad_stretch_watercolor.png
+130,Standing Hip Circle,N/A,Standing,Beginner,Hip mobility warm-up,standing/standing_hip_circle_watercolor.png
+131,Standing March,N/A,Standing,Beginner,Dynamic warm-up lifting knees,standing/standing_march_watercolor.png
+132,Standing Arm Circles,N/A,Standing,Beginner,Shoulder mobility warm-up,standing/standing_arm_circles_watercolor.png
+133,Standing Chest Opener,N/A,Standing,Beginner,Interlaced hands behind back opening chest,standing/standing_chest_opener_watercolor.png
+134,Standing Wrist Stretch,N/A,Standing,Beginner,Wrist mobility stretch,standing/standing_wrist_stretch_watercolor.png
+135,Standing Hamstring Stretch,N/A,Standing,Beginner,Forward fold with one foot forward,standing/standing_hamstring_stretch_watercolor.png
+136,Standing Calf Stretch,N/A,Standing,Beginner,Calf stretch with foot against wall,standing/standing_calf_stretch_watercolor.png
+137,Standing IT Band Stretch,N/A,Standing,Beginner,Cross-leg side bend stretch,standing/standing_it_band_stretch_watercolor.png
+138,Standing Shoulder Opener,N/A,Standing,Beginner,Arms overhead clasp stretch,standing/standing_shoulder_opener_watercolor.png
+139,Standing Balance Prep,N/A,Standing,Beginner,Simple balance warm-up shifting weight,standing/standing_balance_prep_watercolor.png
+140,Standing Twist Lunge,N/A,Standing,Intermediate,Lunge with torso twist,standing/standing_twist_lunge_watercolor.png
