@@ -1,0 +1,291 @@
+pose_id,joint_actions,muscles_activated,muscles_stretched,planes_of_movement
+101,"Neutral spine; hip/knee extension","Core stabilizers; quadriceps","None","Sagittal"
+102,"Shoulder flexion; spinal extension","Deltoids; upper back","Abdominals; lats","Sagittal"
+103,"Hip flexion; spinal flexion","Hip flexors (eccentric); abdominals","Hamstrings; calves; spine","Sagittal"
+104,"Spinal extension; hip flexion","Back extensors; core","Hamstrings","Sagittal"
+105,"Knee flexion; hip flexion","Quadriceps; glutes; core","Ankles; calves","Sagittal"
+106,"Hip extension; spinal extension","Glutes; hamstrings; spinal extensors","Hip flexors; chest","Sagittal"
+107,"Hip abduction; external rotation","Glutes; quadriceps","Inner thighs","Frontal"
+108,"Hip extension; spinal neutral","Glutes; hamstrings; core","Calves; hamstrings","Sagittal"
+109,"Lateral flexion; hip abduction","Obliques; glutes","Side body; hamstrings","Frontal"
+110,"Lateral flexion; hip flexion","Obliques; quadriceps","Side body; inner thighs","Frontal"
+111,"Lateral flexion; spinal extension","Obliques; spinal extensors","Side body","Frontal"
+112,"Hip flexion; spinal flexion","Hip flexors (eccentric)","Hamstrings; calves","Sagittal"
+113,"Hip flexion; spinal flexion","Glutes; hamstrings","Hamstrings; calves","Sagittal"
+114,"Hip adduction; shoulder protraction","Adductors; deltoids","Upper back","Transverse"
+115,"Hip abduction; external rotation","Glute medius; core","Inner thighs","Frontal"
+116,"Hip extension; spinal extension","Glutes; spinal extensors","Hip flexors; chest","Sagittal"
+117,"Hip flexion; knee extension","Hip flexors; quadriceps","Hamstrings; calves","Sagittal"
+118,"Hip flexion; knee flexion","Quadriceps; glutes","Hip flexors","Sagittal"
+119,"Hip flexion; knee flexion","Quadriceps; glutes","Hip flexors","Sagittal"
+120,"Hip external rotation; knee flexion","Glutes; quadriceps","Inner thighs","Frontal"
+121,"Shoulder abduction; hip abduction","Deltoids; glutes","Side body","Frontal"
+122,"Hip abduction; knee flexion","Glutes; hamstrings","Inner thighs","Frontal"
+123,"Spinal extension","Spinal extensors; glutes","Abdominals","Sagittal"
+124,"Spinal rotation","Obliques; spinal stabilizers","None","Transverse"
+125,"Lateral flexion","Obliques; intercostals","Side body","Frontal"
+126,"Hip external rotation; knee flexion","Glutes; core","Outer hips","Frontal"
+127,"Spinal flexion/extension","Spinal extensors; abdominals","Back body","Sagittal"
+128,"Hip flexion","Hip flexors; core","Glutes; hamstrings","Sagittal"
+129,"Knee flexion","Quadriceps","Quadriceps (eccentric)","Sagittal"
+130,"Hip circumduction","Hip stabilizers","Hip capsule","Multi‑planar"
+131,"Hip flexion; knee lift","Hip flexors; core","Glutes","Sagittal"
+132,"Shoulder circumduction","Deltoids; rotator cuff","Chest; lats","Multi‑planar"
+133,"Shoulder extension","Rhomboids; deltoids","Chest","Sagittal"
+134,"Wrist flexion/extension","Forearm flexors/extensors","Forearm muscles","Sagittal"
+135,"Hip flexion","Hamstrings (eccentric)","Hamstrings; calves","Sagittal"
+136,"Ankle dorsiflexion","Calves (eccentric)","Calves","Sagittal"
+137,"Lateral flexion","Obliques; glutes","IT band; side body","Frontal"
+138,"Shoulder flexion","Deltoids; upper back","Chest; lats","Sagittal"
+139,"Weight shift; ankle stabilization","Ankle stabilizers; core","None","Frontal"
+140,"Spinal rotation; hip flexion","Obliques; quadriceps","Spine; hips","Transverse"
+201,Hip external rotation; spinal neutral,Deep hip rotators,Adductors,Sagittal
+202,Hip external rotation,Deep hip rotators,Adductors,Sagittal
+203,Hip external rotation; forward hinge,Deep hip rotators,Adductors; low back,Sagittal
+204,Hip external rotation,Deep hip rotators,Adductors,Sagittal
+205,Hip external rotation,Deep hip rotators,Adductors,Sagittal
+206,Hip external rotation,Deep hip rotators,Adductors,Sagittal
+207,Hamstring stretch; spinal flexion,Hamstrings eccentrically,Hamstrings; calves,Sagittal
+208,Hamstring stretch,Hamstrings eccentrically,Hamstrings,Sagittal
+209,Hamstring stretch,Hamstrings eccentrically,Hamstrings,Sagittal
+210,Hamstring stretch,Hamstrings eccentrically,Hamstrings,Sagittal
+211,Shoulder external rotation,Rotator cuff,Pecs,Transverse
+212,Spinal rotation,Obliques,Thoracolumbar fascia,Transverse
+213,Hamstring stretch,Hamstrings eccentrically,Hamstrings,Sagittal
+214,Spinal rotation,Obliques,Thoracolumbar fascia,Transverse
+215,Shoulder external rotation,Rotator cuff,Pecs,Transverse
+216,Hip external rotation,Deep hip rotators,Adductors,Sagittal
+217,Hip external rotation,Deep hip rotators,Adductors,Sagittal
+218,Spinal neutral,Core stabilizers,None,Sagittal
+219,Hip external rotation,Deep hip rotators,Adductors,Sagittal
+220,Hamstring stretch,Hamstrings eccentrically,Hamstrings,Sagittal
+221,Spinal rotation,Obliques,Thoracolumbar fascia,Transverse
+222,Shoulder external rotation,Rotator cuff,Pecs,Transverse
+223,Core activation,Rectus abdominis; hip flexors,Low back,Sagittal
+224,Core activation,Rectus abdominis; hip flexors,Low back,Sagittal
+225,Core activation,Rectus abdominis; hip flexors,Low back,Sagittal
+226,Hip external rotation,Deep hip rotators,Adductors,Sagittal
+227,Hip external rotation,Deep hip rotators,Adductors,Sagittal
+228,Core strengthening,Rectus abdominis; obliques,Low back,Sagittal
+229,Core strengthening,Rectus abdominis; obliques,Low back,Sagittal
+230,Core strengthening,Rectus abdominis; obliques,Low back,Sagittal
+231,Spinal rotation,Obliques,Thoracolumbar fascia,Transverse
+232,Spinal rotation,Obliques,Thoracolumbar fascia,Transverse
+233,Hamstring stretch,Hamstrings eccentrically,Hamstrings,Sagittal
+234,Hip external rotation,Deep hip rotators,Adductors,Sagittal
+235,Spinal neutral,Core stabilizers,None,Sagittal
+301,Hip flexion; spinal flexion,Hamstrings eccentrically; core stabilizers,Hamstrings; calves,Sagittal
+302,Hip flexion; spinal flexion,Hamstrings eccentrically,Hamstrings,Sagittal
+303,Hip flexion,Hamstrings eccentrically,Hamstrings,Sagittal
+304,Hip flexion; spinal flexion,Hamstrings eccentrically,Hamstrings; low back,Sagittal
+305,Hip flexion; spinal flexion,Hamstrings eccentrically,Hamstrings; low back,Sagittal
+306,Hip flexion,Hamstrings eccentrically,Hamstrings,Sagittal
+307,Hip flexion,Hamstrings eccentrically,Hamstrings,Sagittal
+308,Hip flexion; spinal flexion,Hamstrings eccentrically,Hamstrings; low back,Sagittal
+309,Hip flexion,Hamstrings eccentrically,Hamstrings,Sagittal
+310,Shoulder flexion; thoracic extension,Deltoids; spinal extensors,Pecs,Sagittal
+311,Spinal rotation,Obliques,Thoracolumbar fascia,Transverse
+312,Hip flexion,Hamstrings eccentrically,Hamstrings,Sagittal
+313,Spinal flexion,Core stabilizers,Low back,Sagittal
+314,Spinal flexion,Core stabilizers,Low back,Sagittal
+315,Spinal flexion,Core stabilizers,Low back,Sagittal
+316,Hip flexion; spinal flexion,Hamstrings eccentrically,Hamstrings,Sagittal
+317,Hamstring stretch,Hamstrings eccentrically,Hamstrings,Sagittal
+318,Hamstring stretch,Hamstrings eccentrically,Hamstrings,Sagittal
+319,Hip external rotation,Deep hip rotators,Adductors,Frontal
+320,Hip external rotation,Deep hip rotators,Adductors,Frontal
+321,Spinal rotation,Obliques,Thoracolumbar fascia,Transverse
+322,Hamstring stretch,Hamstrings eccentrically,Hamstrings,Sagittal
+323,Spinal flexion,Core stabilizers,Low back,Sagittal
+324,Spinal flexion; hip flexion,Hamstrings eccentrically,Hamstrings,Sagittal
+325,Spinal flexion,Core stabilizers,Low back,Sagittal
+401,Spinal extension; scapular retraction,Spinal extensors; rhomboids,Abdominals; pecs,Sagittal
+402,Spinal extension; hip extension,Glutes; spinal extensors,Hip flexors; abdominals,Sagittal
+403,Spinal extension,Spinal extensors,Abdominals,Sagittal
+404,Spinal extension,Spinal extensors,Abdominals,Sagittal
+405,Knee flexion; hip extension,Quadriceps; glutes,Hip flexors,Sagittal
+406,Thoracic extension; scapular retraction,Spinal extensors; rhomboids,Pecs,Sagittal
+407,Spinal extension; hip extension,Glutes; spinal extensors,Hip flexors,Sagittal
+408,Thoracic extension; scapular retraction,Spinal extensors; rhomboids,Pecs,Sagittal
+409,Thoracic extension,Spinal extensors,Pecs,Sagittal
+410,Spinal extension,Spinal extensors,Abdominals,Sagittal
+411,Spinal extension,Spinal extensors,Abdominals,Sagittal
+412,Shoulder extension; scapular retraction,Triceps; rhomboids,Pecs,Transverse
+413,Shoulder extension; scapular retraction,Triceps; rhomboids,Pecs,Transverse
+414,Thoracic extension; scapular retraction,Spinal extensors,Pecs,Sagittal
+415,Spinal extension,Spinal extensors,Abdominals,Sagittal
+416,Spinal extension,Spinal extensors,Abdominals,Sagittal
+417,Spinal extension,Spinal extensors,Abdominals,Sagittal
+418,Hip extension; knee flexion,Glutes; hamstrings,Hip flexors,Sagittal
+419,Shoulder extension; scapular retraction,Triceps; rhomboids,Pecs,Transverse
+420,Shoulder extension; scapular retraction,Triceps; rhomboids,Pecs,Transverse
+421,Spinal extension,Spinal extensors,Abdominals,Sagittal
+422,Spinal extension,Spinal extensors,Abdominals,Sagittal
+423,Neck extension,Neck extensors,Sternocleidomastoid,Sagittal
+424,Thoracic extension,Spinal extensors,Pecs,Sagittal
+425,Shoulder extension; scapular retraction,Triceps; rhomboids,Pecs,Transverse
+426,Spinal extension,Spinal extensors,Abdominals,Sagittal
+427,Spinal extension,Spinal extensors,Abdominals,Sagittal
+428,Spinal extension,Spinal extensors,Abdominals,Sagittal
+429,Spinal extension,Spinal extensors,Abdominals,Sagittal
+430,Thoracic extension; chest opening,Spinal extensors,Pecs,Sagittal
+501,Spinal rotation,Obliques,Thoracolumbar fascia,Transverse
+502,Spinal rotation,Obliques,Thoracolumbar fascia,Transverse
+503,Spinal rotation; hip stability,Obliques; glute medius,Thoracolumbar fascia,Transverse
+504,Spinal rotation; hip stability,Obliques; glute medius,Thoracolumbar fascia,Transverse
+505,Spinal rotation,Obliques,Thoracolumbar fascia,Transverse
+506,Spinal rotation; balance,Obliques; core stabilizers,Thoracolumbar fascia,Transverse
+507,Spinal rotation,Obliques,Thoracolumbar fascia,Transverse
+508,Spinal rotation,Obliques,Thoracolumbar fascia,Transverse
+509,Spinal rotation; hip external rotation,Obliques,Glutes; piriformis,Transverse
+510,Spinal rotation,Obliques,Thoracolumbar fascia,Transverse
+511,Spinal rotation,Obliques,Thoracolumbar fascia,Transverse
+512,Spinal rotation; shoulder opening,Obliques,Pecs,Transverse
+513,Spinal rotation; hip flexion,Obliques,Hip flexors,Transverse
+514,Spinal rotation; spinal flexion,Obliques,Thoracolumbar fascia,Transverse
+515,Spinal rotation; hip abduction,Obliques,Adductors,Transverse
+516,Lateral flexion; rotation,Obliques,Lats,Frontal
+517,Spinal rotation,Obliques,Thoracolumbar fascia,Transverse
+518,Spinal rotation; core activation,Obliques,Thoracolumbar fascia,Transverse
+519,Spinal rotation,Obliques,Thoracolumbar fascia,Transverse
+520,Spinal rotation; spinal flexion,Obliques,Thoracolumbar fascia,Transverse
+601,Hip external rotation,Deep hip rotators,Adductors,Frontal
+602,Hip external rotation,Deep hip rotators,Adductors,Frontal
+603,Hip external rotation,Deep hip rotators,Adductors,Frontal
+604,Hip external rotation,Deep hip rotators,Adductors,Frontal
+605,Hip extension; hip abduction,Glutes,Hip flexors,Frontal
+606,Hip abduction; external rotation,Glutes; deep rotators,Adductors,Frontal
+607,Knee flexion; quad stretch,Quadriceps,Hip flexors,Sagittal
+608,Hip external rotation,Deep hip rotators,Adductors,Frontal
+609,Hip flexion; ankle dorsiflexion,Glutes; quads,Adductors,Sagittal
+610,Hamstring stretch,Hamstrings eccentrically,Hamstrings,Sagittal
+611,Hip external rotation,Deep hip rotators,Adductors,Frontal
+612,Hip extension; quad stretch,Glutes,Hip flexors,Sagittal
+613,Hip extension; quad stretch,Glutes,Hip flexors,Sagittal
+614,Hip abduction,Glute medius,Adductors,Frontal
+615,Hip abduction; external rotation,Glute medius,Adductors,Frontal
+616,Hip abduction; lateral flexion,Glute medius,Adductors,Frontal
+617,Hamstring stretch,Hamstrings eccentrically,Hamstrings,Sagittal
+618,Hip flexion; deep external rotation,Deep hip rotators,Adductors,Frontal
+619,Hip external rotation,Deep hip rotators,Adductors,Frontal
+620,Spinal rotation; hip external rotation,Obliques,Adductors,Transverse
+621,Hip abduction; balance,Glute medius,Adductors,Frontal
+622,Hip abduction; forward fold,Glutes,Adductors,Frontal
+623,Hip abduction; balance,Glute medius,Adductors,Frontal
+624,Hip external rotation; spinal rotation,Deep hip rotators,Adductors,Transverse
+625,Hip flexion; hip external rotation,Deep hip rotators,Adductors,Frontal
+701,Wrist extension; shoulder protraction,Serratus anterior; triceps,Pecs,Sagittal
+702,Wrist extension; shoulder protraction,Serratus anterior; triceps,Pecs,Sagittal
+703,Shoulder protraction; spinal rotation,Serratus anterior; obliques,Pecs,Transverse
+704,Shoulder protraction; hip flexion,Serratus anterior; core,Pecs,Sagittal
+705,Shoulder protraction; hip flexion,Serratus anterior; core,Pecs,Sagittal
+706,Wrist extension; shoulder protraction,Serratus anterior,Pecs,Sagittal
+707,Shoulder protraction; hip flexion,Serratus anterior; core,Pecs,Sagittal
+708,Shoulder abduction; wrist extension,Deltoids; serratus,Pecs,Frontal
+709,Shoulder abduction; wrist extension,Deltoids; serratus,Pecs,Frontal
+710,Shoulder abduction; wrist extension,Deltoids; serratus,Pecs,Frontal
+711,Shoulder protraction; hip flexion,Serratus anterior; core,Pecs,Sagittal
+712,Core flexion; hip flexion,Rectus abdominis,Hip extensors,Sagittal
+713,Core flexion; hip flexion,Rectus abdominis,Hip extensors,Sagittal
+714,Core flexion; hip flexion,Rectus abdominis,Hip extensors,Sagittal
+715,Shoulder flexion; wrist extension,Deltoids; triceps,Pecs,Sagittal
+716,Shoulder flexion; wrist extension,Deltoids; triceps,Pecs,Sagittal
+717,Shoulder flexion; wrist extension,Deltoids; triceps,Pecs,Sagittal
+718,Shoulder flexion; forearm stability,Deltoids; triceps,Pecs,Sagittal
+719,Shoulder flexion; forearm stability,Deltoids; triceps,Pecs,Sagittal
+720,Shoulder depression; core activation,Lower traps; core,Pecs,Transverse
+801,Hip flexion; spinal decompression,Core stabilizers,Hamstrings,Sagittal
+802,Shoulder flexion; cervical flexion,Deltoids; traps,Neck muscles,Sagittal
+803,Shoulder flexion; cervical flexion,Deltoids; traps,Neck muscles,Sagittal
+804,Spinal flexion; hip flexion,Hamstrings eccentrically,Hamstrings,Sagittal
+805,Spinal flexion; hip flexion,Hamstrings eccentrically,Hamstrings,Sagittal
+806,Spinal flexion,Hamstrings eccentrically,Hamstrings,Sagittal
+807,Shoulder flexion; core activation,Deltoids; core,Hamstrings,Sagittal
+808,Shoulder flexion; elbow flexion,Deltoids; triceps,Hamstrings,Sagittal
+809,Shoulder flexion; cervical loading,Deltoids; traps,Hamstrings,Sagittal
+810,Shoulder flexion; cervical loading,Deltoids; traps,Hamstrings,Sagittal
+811,Shoulder flexion; forearm stability,Deltoids; triceps,Hamstrings,Sagittal
+812,Shoulder flexion; forearm stability,Deltoids; triceps,Hamstrings,Sagittal
+813,Shoulder flexion; wrist extension,Deltoids; triceps,Hamstrings,Sagittal
+814,Shoulder flexion; wrist extension,Deltoids; triceps,Hamstrings,Sagittal
+815,Shoulder flexion; wrist extension,Deltoids; triceps,Hamstrings,Sagittal
+816,Hip abduction; spinal flexion,Hamstrings eccentrically,Adductors,Frontal
+817,Hip scissoring; spinal flexion,Hamstrings eccentrically,Hamstrings,Sagittal
+818,Hip flexion; spinal flexion,Hamstrings eccentrically,Hamstrings,Sagittal
+819,Spinal decompression,Core stabilizers,Hamstrings,Sagittal
+820,Shoulder flexion; scapular stability,Deltoids; serratus,Pecs,Sagittal
+901,Hip abduction; spinal lateral flexion,Obliques,IT band,Frontal
+902,Spinal rotation,Obliques,Thoracolumbar fascia,Transverse
+903,Hip flexion; knee extension,Hamstrings eccentrically,Hamstrings,Sagittal
+904,Hip external rotation,Deep hip rotators,Adductors,Frontal
+905,Hip flexion,Abdominals,Low back,Sagittal
+906,Hip flexion,Abdominals,Low back,Sagittal
+907,Hip abduction; spinal flexion,Adductors,Low back,Sagittal
+908,Spinal extension,Glutes; spinal extensors,Abdominals,Sagittal
+909,Spinal extension,Glutes; spinal extensors,Abdominals,Sagittal
+910,Spinal rotation,Obliques,Thoracolumbar fascia,Transverse
+911,Spinal lateral flexion,Obliques,Lats,Frontal
+912,Hip flexion; core activation,Rectus abdominis,Hip extensors,Sagittal
+913,Spinal flexion,Abdominals,Low back,Sagittal
+914,Hip internal/external rotation,Glutes,Adductors,Transverse
+915,Full relaxation,None,None,Neutral
+916,Spinal extension,Spinal extensors,Abdominals,Sagittal
+917,Spinal extension,Spinal extensors,Abdominals,Sagittal
+918,Shoulder extension,Posterior deltoid,Pecs,Transverse
+919,Knee flexion,Quadriceps,Hip flexors,Sagittal
+920,Spinal neutral,None,None,Sagittal
+921,Spinal flexion,Abdominals,Low back,Sagittal
+922,Spinal flexion,Abdominals,Low back,Sagittal
+923,Spinal rotation,Obliques,Thoracolumbar fascia,Transverse
+924,Spinal extension,Spinal extensors,Abdominals,Sagittal
+925,Spinal extension,Spinal extensors,Abdominals,Sagittal
+926,Hip internal rotation,Glutes,Adductors,Transverse
+927,Knee flexion; hamstring curl,Hamstrings,Quadriceps,Sagittal
+928,Shoulder extension; chest opening,Posterior deltoid,Pecs,Transverse
+929,Spinal extension; dynamic flow,Spinal extensors,Abdominals,Sagittal
+930,Spinal neutral,None,None,Sagittal
+1001,Spinal flexion; hip abduction,Minimal activation,Adductors,Sagittal
+1002,Hip external rotation,Minimal activation,Adductors,Frontal
+1003,Spinal flexion,Minimal activation,Hamstrings,Sagittal
+1004,Spinal flexion,Minimal activation,Hamstrings,Sagittal
+1005,Spinal extension,Minimal activation,Abdominals,Sagittal
+1006,Thoracic extension,Minimal activation,Pecs,Sagittal
+1007,Hip external rotation,Minimal activation,Adductors,Frontal
+1008,Spinal rotation,Minimal activation,Thoracolumbar fascia,Transverse
+1009,Hip flexion; knee flexion,Minimal activation,Low back,Sagittal
+1010,Hip flexion; spinal decompression,Minimal activation,Hamstrings,Sagittal
+1011,Spinal neutral,None,None,Neutral
+1012,Spinal lateral flexion,Minimal activation,Lats,Frontal
+1013,Spinal rotation,Minimal activation,Thoracolumbar fascia,Transverse
+1014,Thoracic extension,Minimal activation,Pecs,Sagittal
+1015,Hip external rotation,Minimal activation,Adductors,Frontal
+1016,Hip external rotation,Minimal activation,Adductors,Frontal
+1017,Spinal flexion,Minimal activation,Hamstrings,Sagittal
+1018,Hip extension,Minimal activation,Hip flexors,Sagittal
+1019,Spinal extension,Minimal activation,Abdominals,Sagittal
+1020,Spinal neutral,None,None,Neutral
+1021,Hip external rotation,Minimal activation,Adductors,Frontal
+1022,Hip external rotation,Minimal activation,Adductors,Frontal
+1023,Spinal rotation,Minimal activation,Thoracolumbar fascia,Transverse
+1024,Hamstring stretch,Minimal activation,Hamstrings,Sagittal
+1025,Spinal lateral flexion,Minimal activation,Lats,Frontal
+1026,Hip abduction; spinal flexion,Minimal activation,Adductors,Frontal
+1027,Spinal rotation,Minimal activation,Thoracolumbar fascia,Transverse
+1028,Spinal neutral,None,None,Neutral
+1029,Spinal flexion,Minimal activation,Low back,Sagittal
+1030,Spinal neutral,None,None,Neutral
+1101,Spinal neutral,Core stabilizers,None,Sagittal
+1102,Shoulder flexion; spinal extension,Deltoids,Pecs,Sagittal
+1103,Spinal extension; hip hinge,Spinal extensors,Hamstrings,Sagittal
+1104,Shoulder flexion; wrist extension,Deltoids; triceps,Pecs,Sagittal
+1105,Shoulder flexion; elbow flexion,Triceps,Pecs,Sagittal
+1106,Spinal extension; shoulder retraction,Spinal extensors,Pecs,Sagittal
+1107,Hip flexion; shoulder flexion,Deltoids,Hamstrings,Sagittal
+1108,Spinal neutral,Core stabilizers,None,Sagittal
+1109,Spinal flexion,Abdominals,Low back,Sagittal
+1110,Spinal extension,Spinal extensors,Abdominals,Sagittal
+1111,Spinal flexion,Abdominals,Low back,Sagittal
+1112,Hip flexion; knee flexion,Quadriceps,Hip flexors,Sagittal
+1113,Hip flexion; knee flexion,Quadriceps,Hip flexors,Sagittal
+1114,Hip abduction; knee flexion,Glute medius,Adductors,Frontal
+1115,Hip flexion; balance,Glute med
