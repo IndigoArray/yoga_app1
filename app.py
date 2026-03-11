@@ -1,6 +1,13 @@
 import streamlit as st
 import pandas as pd
 import os
+#----------------------Navigation
+from utils.navigation import navigation_header
+
+navigation_header()
+
+st.title("🧘 Yoga Therapy App")
+
 
 # ---------------------------------------------------------
 # Load CSV files
@@ -216,12 +223,7 @@ else:
         st.write("No sequencing data available.")
 
 
-#----------------------Navigation
-from utils.navigation import navigation_header
 
-navigation_header()
-
-st.title("🧘 Yoga Therapy App")
 
 #visualization
 #--------------------------------------------------------------------
