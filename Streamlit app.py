@@ -23,6 +23,18 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 st.title("🧘 Yoga with Sindhu")
+with st.sidebar:
+    # Custom CSS for a clean profile card
+    st.markdown("""
+        <div style="text-align: center; padding: 10px; border: 1px solid #ddd; border-radius: 10px; margin-bottom: 20px;">
+            <img src="https://www.yogaalliance.org/Portals/0/Images/Logos/YA_MainLogo_Color.png" width="100">
+            <h3 style="margin: 10px 0 5px 0;">Sindhu</h3>
+            <p style="color: gray; font-size: 0.9em;">Registered Yoga Teacher (RYT®)</p>
+        </div>
+    """, unsafe_allow_html=True)
+    
+    st.header("✨ Refine Practice")
+    # ... rest of your filters ...
 
 # --- Navigation ---
 # (Assuming utils.navigation exists)
