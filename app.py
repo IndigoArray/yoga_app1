@@ -1,12 +1,14 @@
 import streamlit as st
 import pandas as pd
 import os
+
+st.title("🧘 Yoga Therapy App")
+
 #----------------------Navigation
 from utils.navigation import navigation_header
 
 navigation_header()
 
-st.title("🧘 Yoga Therapy App")
 
 
 # ---------------------------------------------------------
@@ -106,30 +108,6 @@ if plane_filter:
 # ---------------------------------------------------------
 st.title("🧘 Yoga Therapy Pose Explorer")
 
-#theme
-
-theme = st.sidebar.selectbox(
-    "Theme",
-    ["Light", "Calm Blue", "Earth Brown", "Forest Green"]
-)
-
-theme_colors = {
-    "Light": "#FFFFFF",
-    "Calm Blue": "#E3F2FD",
-    "Earth Brown": "#EFEBE9",
-    "Forest Green": "#E8F5E9"
-}
-
-st.markdown(
-    f"""
-    <style>
-        .main {{
-            background-color: {theme_colors[theme]};
-        }}
-    </style>
-    """,
-    unsafe_allow_html=True
-)
 
 pose_names = filtered["english_name"].tolist()
 
@@ -222,6 +200,30 @@ else:
     else:
         st.write("No sequencing data available.")
 
+#theme
+
+theme = st.sidebar.selectbox(
+    "Theme",
+    ["Light", "Calm Blue", "Earth Brown", "Forest Green"]
+)
+
+theme_colors = {
+    "Light": "#FFFFFF",
+    "Calm Blue": "#E3F2FD",
+    "Earth Brown": "#EFEBE9",
+    "Forest Green": "#E8F5E9"
+}
+
+st.markdown(
+    f"""
+    <style>
+        .main {{
+            background-color: {theme_colors[theme]};
+        }}
+    </style>
+    """,
+    unsafe_allow_html=True
+)
 
 
 
