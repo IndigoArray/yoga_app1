@@ -47,6 +47,21 @@ def load_data():
     return poses, variations, therapy, contra, props, bio, seq
     poses, variations, therapy, contra, props, bio, seq = load_data()
 
+
+# 1. Make sure the variable is defined BEFORE line 58
+@st.cache_data
+def load_my_data():
+    df = pd.read_csv("your_data.csv")
+    return df
+
+# 2. Assign the returned data to the 'poses' variable
+poses = load_my_data()
+
+# 3. Now your line 58 will work
+categories = ["All"] + sorted(poses["category"].unique())
+st.selectbox("Select a Category", categories)
+
+
 # ------------------------------
 # Sidebar Filters
 # ------------------------------
