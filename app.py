@@ -44,7 +44,7 @@ def load_data():
     props = pd.read_csv("data/props.csv")
     bio = pd.read_csv("data/biomechanics.csv")
     seq = pd.read_csv("data/sequencing.csv")
-    return poses, variations, therapy, contra, props, bio, seq poses, variations, therapy, contra, props, bio, seq = load_data()
+    return poses, variations, therapy, contra, props, bio, seqposes, variations, therapy, contra, props, bio, seq = load_data()
 
 # ------------------------------
 # Sidebar Filters
