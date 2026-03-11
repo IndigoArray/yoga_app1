@@ -163,7 +163,7 @@ else:
         c1.metric("Level", pose['level'])
         c2.metric("Category", pose['category'])
 
- with col2:
+    with col2:
         st.title(f"{pose['english_name']} | {pose['sanskrit_name']}")
         st.write(pose["description"])
         # Using an 'info' box for metadata keeps it visually separated from the description
@@ -172,7 +172,7 @@ else:
         # Using Tabs to organize dense information
         tab1, tab2, tab3, tab4 = st.tabs(["🛠️ Practice & Props", "⚠️ Safety", "🔄 Flow","💡 Benefits & Anatomy"])
 
-        with tab1:
+    with tab1:
             st.markdown("#### Props & Modifications")
             pose_props = props[props["pose_id"] == pose["id"]]
             if not pose_props.empty:
