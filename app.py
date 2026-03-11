@@ -53,23 +53,25 @@ poses, variations, therapy, contra, props, bio, seq = load_data()
 # ------------------------------
 # Sidebar Filters
 # ------------------------------
-st.sidebar.header("Filters")
+with st.sidebar:
+     st.header("✨ Refine Practice")
+with st.expander("🎯 Primary Filters", expanded=True):
 
-st.header("✨ Refine Practice")
-category_filter = st.sidebar.selectbox(
-    "Category",
-    ["All"] + sorted(poses["category"].unique())
-)
-
-level_filter = st.sidebar.selectbox(
-    "Difficulty Level",
-    ["All"] + sorted(poses["level"].unique())
-)
-
-props_filter = st.sidebar.multiselect(
-    "Props Needed",
-    sorted(props["prop"].dropna().unique())
-)
+    st.header("✨ Refine Practice")
+    category_filter = st.sidebar.selectbox(
+        "Category",
+        ["All"] + sorted(poses["category"].unique())
+    )
+    
+    level_filter = st.sidebar.selectbox(
+        "Difficulty Level",
+        ["All"] + sorted(poses["level"].unique())
+    )
+    
+    props_filter = st.sidebar.multiselect(
+        "Props Needed",
+        sorted(props["prop"].dropna().unique())
+    )
 #therapy
 #---------------------------------------------------------------
 with st.expander("🛠️ Anatomy & Therapy"):
