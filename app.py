@@ -122,18 +122,21 @@ else:
     # ---------------------------------------------------------
     # Display Pose Information
     # ---------------------------------------------------------
-    st.header(pose["english_name"])
-    st.subheader(pose["sanskrit_name"])
 
+   col1, col2 = st.columns([1, 2])
     image_path = os.path.join("images", pose["image_path"])
-    
+    with col1:
     if os.path.exists(image_path):
         st.image(image_path, width=300)
     else:
         st.info("Image not found. Add it to the images folder.")
 
-    st.write("### Description")
+
+with col2:
+    st.subheader(f"{pose['english_name']} | {pose['sanskrit_name']}")
+    st.info(f"**Level:** {pose['level']} | **Category:** {pose['category']}")
     st.write(pose["description"])
+
 
     # ---------------------------------------------------------
     # Variations
